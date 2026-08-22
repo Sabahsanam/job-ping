@@ -504,7 +504,9 @@
   "Firesprite": [],
   "Haven Studios": [],
   "Microsoft Gaming": [],
-  "Naughty Dog": [],
+  "Naughty Dog": [
+    "6139154004"
+  ],
   "Nintendo": [
     "4251061009",
     "4101175009",
@@ -530,7 +532,16 @@
     "7734679003"
   ],
   "SEGA": [],
-  "Sony Interactive Entertainment": [],
+  "Sony Interactive Entertainment": [
+    "6007946004",
+    "6006539004",
+    "6121289004",
+    "5843870004",
+    "6104600004",
+    "6101023004",
+    "5806762004",
+    "6119793004"
+  ],
   "Take-Two Interactive": [
     "8075054",
     "7635245",
@@ -549,5 +560,8 @@
     "41",
     "14",
     "57"
-  ]
+  ],
+  "Bandai Namco Entertainment America": [],
+  "Capcom USA": [],
+  "Square Enix America": []
 }
