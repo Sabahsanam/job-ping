@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "name": "Disney",
+      "careers_url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer",
+      "categories": [
+        "fortune_500",
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "careers_url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global",
+      "categories": [
+        "fortune_500",
+        "film_entertainment",
+        "streaming",
+        "gaming",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Sony Pictures Entertainment",
+      "careers_url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+  "name": "Netflix",
+  "careers_url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix",
+  "categories": [
+    "film_entertainment",
+    "streaming",
+    "gaming",
+    "creative_tech",
+    "big_tech"
+  ]
+}
+  ]
+}

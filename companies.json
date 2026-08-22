@@ -1,0 +1,217 @@
+{
+  "companies": [
+    {
+      "name": "Adobe",
+      "careers_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced",
+      "categories": [
+        "fortune_500",
+        "big_tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "careers_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers",
+      "categories": [
+        "fortune_500",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "careers_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+      "categories": [
+        "fortune_500",
+        "big_tech",
+        "ai",
+        "gaming",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site",
+      "categories": [
+        "fortune_500",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "careers_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext",
+      "categories": [
+        "creative_tech",
+        "3d_vfx",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "Red Hat",
+      "careers_url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs",
+      "categories": [
+        "enterprise_tech",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "Disney",
+      "careers_url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer",
+      "categories": [
+        "fortune_500",
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "SAS",
+      "careers_url": "https://careers-sas.icims.com",
+      "categories": [
+        "enterprise_tech",
+        "ai",
+        "data"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "careers_url": "https://jobs.lever.co/spotify",
+      "categories": [
+        "media_entertainment",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "Coinbase",
+      "careers_url": "https://job-boards.greenhouse.io/coinbase",
+      "categories": [
+        "fintech",
+        "crypto",
+        "tech"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "careers_url": "https://job-boards.greenhouse.io/reddit",
+      "categories": [
+        "tech",
+        "social_media"
+      ]
+    },
+    {
+      "name": "Robinhood",
+      "careers_url": "https://job-boards.greenhouse.io/robinhood",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Affirm",
+      "careers_url": "https://job-boards.greenhouse.io/affirm",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Lyft",
+      "careers_url": "https://job-boards.greenhouse.io/lyft",
+      "categories": [
+        "tech",
+        "transportation"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "careers_url": "https://job-boards.greenhouse.io/anthropic",
+      "categories": [
+        "ai",
+        "startup",
+        "tech"
+      ]
+    },
+    {
+      "name": "Notion",
+      "careers_url": "https://job-boards.greenhouse.io/notion",
+      "categories": [
+        "startup",
+        "productivity",
+        "tech"
+      ]
+    },
+    {
+      "name": "Twilio",
+      "careers_url": "https://job-boards.greenhouse.io/twilio",
+      "categories": [
+        "cloud_software",
+        "tech"
+      ]
+    },
+    {
+      "name": "Grafana Labs",
+      "careers_url": "https://job-boards.greenhouse.io/grafanalabs",
+      "categories": [
+        "developer_tools",
+        "tech"
+      ]
+    },
+    {
+      "name": "Fastly",
+      "careers_url": "https://job-boards.greenhouse.io/fastly",
+      "categories": [
+        "cloud_software",
+        "tech"
+      ]
+    },
+    {
+      "name": "Canonical",
+      "careers_url": "https://job-boards.greenhouse.io/canonical",
+      "categories": [
+        "open_source",
+        "enterprise_tech"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "careers_url": "https://jobs.ashbyhq.com/openai",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Deel",
+      "careers_url": "https://jobs.ashbyhq.com/Deel",
+      "categories": [
+        "startup",
+        "hr_tech"
+      ]
+    },
+    {
+      "name": "Baseten",
+      "careers_url": "https://jobs.ashbyhq.com/baseten",
+      "categories": [
+        "ai",
+        "startup",
+        "developer_tools"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "careers_url": "https://jobs.ashbyhq.com/supabase",
+      "categories": [
+        "startup",
+        "developer_tools",
+        "open_source"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "careers_url": "https://jobs.ashbyhq.com/perplexity",
+      "categories": [
+        "ai",
+        "startup"
+      ]
+    }
+  ]
+}

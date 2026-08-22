@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Adobe",
+      "careers_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced",
+      "categories": [
+        "big_tech",
+        "creative_tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "careers_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers",
+      "categories": [
+        "big_tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "careers_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+      "categories": [
+        "big_tech",
+        "ai",
+        "creative_tech",
+        "fortune_500"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "companies": [
+    {
+      "name": "Netflix",
+      "careers_url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix",
+      "categories": [
+        "gaming",
+        "streaming",
+        "creative_tech",
+        "big_tech"
+      ]
+    },
+    {
+      "name": "Skydance",
+      "careers_url": "https://jobs.lever.co/skydance",
+      "categories": [
+        "gaming",
+        "animation",
+        "vfx",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "careers_url": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global",
+      "categories": [
+        "gaming",
+        "film_entertainment",
+        "streaming",
+        "creative_tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Riot Games",
+      "careers_url": "https://www.riotgames.com/en/work-with-us",
+      "categories": [
+        "gaming",
+        "creative_tech",
+        "ai"
+      ]
+    },
+    {
+  "name": "Roblox",
+  "careers_url": "https://boards.greenhouse.io/roblox",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech"
+  ]
+},
+{
+  "name": "Epic Games",
+  "careers_url": "https://boards.greenhouse.io/epicgames",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech"
+  ]
+},
+{
+  "name": "Electronic Arts",
+  "careers_url": "https://jobs.ea.com/en_US/careers/Home/",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "fortune_500"
+  ]
+},
+{
+  "name": "Microsoft Gaming",
+  "careers_url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/External",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech",
+    "fortune_500"
+  ]
+}, 
+{
+  "name": "Sony Interactive Entertainment",
+  "careers_url": "https://boards.greenhouse.io/sonyinteractiveentertainmentglobal",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech"
+  ]
+},
+{
+  "name": "Naughty Dog",
+  "careers_url": "https://boards.greenhouse.io/naughtydog",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "animation",
+    "vfx"
+  ]
+},
+{
+  "name": "Firesprite",
+  "careers_url": "https://boards.greenhouse.io/firesprite",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "animation",
+    "vfx"
+  ]
+},
+{
+  "name": "Haven Studios",
+  "careers_url": "https://boards.greenhouse.io/haven",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "animation"
+  ]
+},
+{
+  "name": "TeamLFG",
+  "careers_url": "https://boards.greenhouse.io/teamlfg",
+  "categories": [
+    "gaming",
+    "creative_tech"
+  ]
+},
+{
+  "name": "Nintendo",
+  "careers_url": "https://boards.greenhouse.io/nintendo",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "big_tech"
+  ]
+},
+{
+  "name": "Ubisoft",
+  "careers_url": "https://www.smartrecruiters.com/Ubisoft2",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech"
+  ]
+},
+{
+  "name": "Rockstar Games",
+  "careers_url": "https://boards.greenhouse.io/rockstargames",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "2K",
+  "careers_url": "https://boards.greenhouse.io/2k",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "Take-Two Interactive",
+  "careers_url": "https://boards.greenhouse.io/taketwo",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech",
+    "fortune_500"
+  ]
+},
+{
+  "name": "Unity",
+  "careers_url": "https://unitytech.wd1.myworkdayjobs.com/en-US/Unity",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "big_tech",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "Bungie",
+  "careers_url": "https://boards.greenhouse.io/bungie",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "Valve",
+  "careers_url": "https://www.valvesoftware.com/en/jobs",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "SEGA",
+  "careers_url": "https://careers.sega.co.uk/vacancies",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+}
+  ]
+}
