@@ -224,6 +224,49 @@
     "vfx",
     "animation"
   ]
+},
+{
+  "name": "Square Enix America",
+  "careers_url": "https://apply.workable.com/square-enix-america/",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "Capcom USA",
+  "careers_url": "https://jobs.jobvite.com/careers/capcomusa/jobs",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
+},
+{
+  "name": "DNEG",
+  "careers_url": "https://jobs.jobvite.com/double-negative-visual-effects",
+  "categories": [
+    "vfx",
+    "animation",
+    "creative_tech",
+    "ai"
+  ]
+},
+{
+  "name": "Bandai Namco Entertainment America",
+  "careers_url": "https://boards.greenhouse.io/bandainamco",
+  "categories": [
+    "gaming",
+    "creative_tech",
+    "ai",
+    "vfx",
+    "animation"
+  ]
 }
   ]
 }

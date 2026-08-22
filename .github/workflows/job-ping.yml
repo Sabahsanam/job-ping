@@ -31,13 +31,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Send test email
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          ALERT_RECIPIENTS: ${{ secrets.ALERT_RECIPIENTS }}
-        run: |
-          python test_email.py
-
       - name: Run Job Ping
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}

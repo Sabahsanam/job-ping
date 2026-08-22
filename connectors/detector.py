@@ -10,7 +10,7 @@ from connectors.riot import RiotConnector
 from connectors.avature import AvatureConnector
 from connectors.valve import ValveConnector
 from connectors.sega import SegaConnector
-
+from connectors.workable import WorkableConnector
 
 def get_connector(
     company_name,
@@ -160,6 +160,13 @@ def get_connector(
     if "careers.sega.co.uk" in url:
 
         return SegaConnector(
+            company_name,
+            careers_url
+        )
+        
+    if "workable.com" in url:
+
+        return WorkableConnector(
             company_name,
             careers_url
         )
