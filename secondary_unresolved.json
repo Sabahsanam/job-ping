@@ -1,0 +1,239 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Meta",
+      "careers_url": "https://www.metacareers.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Apple",
+      "careers_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+      "categories": [
+        "tech",
+        "ai",
+        "creative_tech"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Amazon",
+      "careers_url": "https://www.amazon.jobs/en/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Microsoft",
+      "careers_url": "https://apply.careers.microsoft.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://www.salesforce.com/company/careers/jobs/?bc=OTH",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "ServiceNow",
+      "careers_url": "https://careers.servicenow.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "PayPal",
+      "careers_url": "https://paypal.eightfold.ai/careers",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Intuit",
+      "careers_url": "https://jobs.intuit.com/search-jobs",
+      "categories": [
+        "tech",
+        "fintech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Uber",
+      "careers_url": "https://jobs.uber.com/en/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "DoorDash",
+      "careers_url": "https://careersatdoordash.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Snap",
+      "careers_url": "https://careers.snap.com/jobs",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Zoom",
+      "careers_url": "https://careers.zoom.us/jobs/search",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers/all-jobs",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Canva",
+      "careers_url": "https://www.lifeatcanva.com/en/jobs/",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "GitHub",
+      "careers_url": "https://www.github.careers/careers-home",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "AMD",
+      "careers_url": "https://careers.amd.com/careers-home/jobs",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Qualcomm",
+      "careers_url": "https://careers.qualcomm.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "careers_url": "https://www.dreamworks.com/careers",
+      "categories": [
+        "animation",
+        "vfx",
+        "creative_tech",
+        "entertainment"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers-at-pixar",
+      "categories": [
+        "animation",
+        "vfx",
+        "creative_tech",
+        "entertainment"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "entertainment",
+        "creative_tech"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "NBCUniversal",
+      "careers_url": "https://www.nbcunicareers.com/find-a-job",
+      "categories": [
+        "entertainment",
+        "creative_tech"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Electronic Arts Sports",
+      "careers_url": "https://www.ea.com/careers",
+      "categories": [
+        "gaming",
+        "creative_tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Playrix",
+      "careers_url": "https://playrix.com/job/open",
+      "categories": [
+        "gaming",
+        "creative_tech"
+      ],
+      "status": "unresolved"
+    },
+    {
+      "name": "Niantic",
+      "careers_url": "https://careers.scopely.com/us/en",
+      "categories": [
+        "gaming",
+        "tech",
+        "ai"
+      ],
+      "status": "unresolved"
+    }
+  ]
+}

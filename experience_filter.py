@@ -21,7 +21,7 @@ def experience_matches(job, early_career_indicators):
     description = normalize(job.get("description", ""))
 
     # ------------------------------------------------
-    # 1. TITLE EXPERIENCE IS VERY RELIABLE
+    # 1. TITLE EXPERIENCE REQUIREMENTS
     # ------------------------------------------------
 
     # Examples:
@@ -59,34 +59,95 @@ def experience_matches(job, early_career_indicators):
 
 
     # ------------------------------------------------
-    # 2. STRONG EARLY-CAREER TITLE SIGNALS
+    # 2. DESCRIPTION EXPERIENCE REQUIREMENTS
     # ------------------------------------------------
 
-    # If the title explicitly says New Grad,
-    # Entry Level, Early Career, etc., keep it unless
-    # the title itself already contained a conflicting
-    # experience requirement above.
+    # IMPORTANT:
+    #
+    # We check the description BEFORE accepting
+    # early-career title signals.
+    #
+    # A title like "Software Engineer II" or even
+    # "Early Career Engineer" should not pass if the
+    # actual job description clearly requires 4+ years.
 
-    for indicator in early_career_indicators:
 
-        indicator = normalize(
-            indicator
+    # ------------------------------------------------
+    # 2A. Direct numeric experience phrases
+    # ------------------------------------------------
+
+    # Examples:
+    #
+    # 4+ years of experience
+    # 4+ years of relevant experience
+    # 3+ years professional experience
+    # 5 years of software engineering experience
+    # 3-5 years of experience
+    # 3 to 5 years of relevant experience
+
+    direct_experience_patterns = [
+        (
+            r"\b(\d+)\s*\+\s*years?"
+            r"(?:\s+of)?"
+            r"(?:\s+[a-zA-Z/&,\-]+){0,6}"
+            r"\s+experience\b"
+        ),
+
+        (
+            r"\b(\d+)\s+years?"
+            r"(?:\s+of)?"
+            r"(?:\s+[a-zA-Z/&,\-]+){0,6}"
+            r"\s+experience\b"
+        ),
+
+        (
+            r"\b(\d+)\s*[-–—]\s*(\d+)\s+years?"
+            r"(?:\s+of)?"
+            r"(?:\s+[a-zA-Z/&,\-]+){0,6}"
+            r"\s+experience\b"
+        ),
+
+        (
+            r"\b(\d+)\s+to\s+(\d+)\s+years?"
+            r"(?:\s+of)?"
+            r"(?:\s+[a-zA-Z/&,\-]+){0,6}"
+            r"\s+experience\b"
+        )
+    ]
+
+
+    # Single-number patterns
+    for pattern in direct_experience_patterns[:2]:
+
+        matches = re.findall(
+            pattern,
+            description,
+            re.IGNORECASE
         )
 
-        if (
-            indicator
-            and indicator in title
-        ):
-            return True
+        for years in matches:
+            if int(years) >= 3:
+                return False
+
+
+    # Range patterns
+    for pattern in direct_experience_patterns[2:]:
+
+        matches = re.findall(
+            pattern,
+            description,
+            re.IGNORECASE
+        )
+
+        for minimum, maximum in matches:
+            if int(minimum) >= 3:
+                return False
 
 
     # ------------------------------------------------
-    # 3. DESCRIPTION EXPERIENCE REQUIREMENTS
+    # 2B. Explicit requirement wording
     # ------------------------------------------------
 
-    # Only reject when experience is clearly presented
-    # as an actual requirement.
-    #
     # Examples:
     #
     # minimum of 5 years
@@ -102,8 +163,8 @@ def experience_matches(job, early_career_indicators):
         r"required[:\s]+(?:.*?)(\d+)\s*\+?\s*years?",
         r"must have\s+(?:at least\s+)?(\d+)\s*\+?\s*years?",
         r"must possess\s+(?:at least\s+)?(\d+)\s*\+?\s*years?",
-        r"(\d+)\s*\+\s*years?[^.\n]{0,50}\brequired\b",
-        r"(\d+)\s+years?[^.\n]{0,50}\brequired\b"
+        r"(\d+)\s*\+\s*years?[^.\n]{0,75}\brequired\b",
+        r"(\d+)\s+years?[^.\n]{0,75}\brequired\b"
     ]
 
     for pattern in requirement_patterns:
@@ -115,35 +176,13 @@ def experience_matches(job, early_career_indicators):
         )
 
         for years in matches:
-
             if int(years) >= 3:
                 return False
 
 
     # ------------------------------------------------
-    # 4. STRONG QUALITATIVE EXPERIENCE REQUIREMENTS
+    # 3. STRONG QUALITATIVE EXPERIENCE REQUIREMENTS
     # ------------------------------------------------
-
-    # Some companies do not specify a number of years.
-    #
-    # Valve, for example, may say:
-    #
-    # "significant professional software development
-    # experience"
-    #
-    # These phrases are strong enough to indicate that
-    # the role is not intended to be early career.
-    #
-    # IMPORTANT:
-    # We intentionally do NOT reject generic words like:
-    #
-    # experience
-    # expertise
-    # professional
-    # industry
-    # shipped
-    #
-    # because those would remove too many valid jobs.
 
     for phrase in QUALITATIVE_SENIOR_EXPERIENCE_PHRASES:
 
@@ -152,10 +191,31 @@ def experience_matches(job, early_career_indicators):
 
 
     # ------------------------------------------------
+    # 4. STRONG EARLY-CAREER TITLE SIGNALS
+    # ------------------------------------------------
+
+    # Only accept the early-career title AFTER checking
+    # that the description doesn't contradict it.
+
+    for indicator in early_career_indicators:
+
+        indicator = normalize(
+            indicator
+        )
+
+        if (
+            indicator
+            and indicator in title
+        ):
+            return True
+
+
+    # ------------------------------------------------
     # 5. OTHERWISE KEEP THE JOB
     # ------------------------------------------------
 
-    # If we're uncertain, we'd rather show the role
-    # than accidentally hide a good early-career job.
+    # If we found no explicit 3+ year requirement,
+    # keep the role rather than hiding a potentially
+    # useful early-career opportunity.
 
     return True

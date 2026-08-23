@@ -10,11 +10,185 @@
       ]
     },
     {
+      "name": "Airbnb",
+      "careers_url": "https://boards.greenhouse.io/airbnb",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "AMD",
+      "careers_url": "https://careers.amd.com/careers-home/jobs",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "categories": [
+        "ai",
+        "creative_tech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Block",
+      "careers_url": "https://boards.greenhouse.io/block",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
       "name": "Cisco",
       "careers_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers",
       "categories": [
         "big_tech",
         "fortune_500"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "careers_url": "https://boards.greenhouse.io/cloudflare",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Coinbase",
+      "careers_url": "https://boards.greenhouse.io/coinbase",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Confluent",
+      "careers_url": "https://jobs.ashbyhq.com/confluent",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "careers_url": "https://boards.greenhouse.io/datadog",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Discord",
+      "careers_url": "https://boards.greenhouse.io/discord",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "careers_url": "https://boards.greenhouse.io/dropbox",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Elastic",
+      "careers_url": "https://boards.greenhouse.io/elastic",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Figma",
+      "careers_url": "https://boards.greenhouse.io/figma",
+      "categories": [
+        "ai",
+        "creative_tech",
+        "tech"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "careers_url": "https://www.github.careers/careers-home/jobs",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "careers_url": "https://boards.greenhouse.io/gitlab",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Instacart",
+      "careers_url": "https://boards.greenhouse.io/instacart",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Intel",
+      "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Intuit",
+      "careers_url": "https://jobs.intuit.com/search-jobs",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Lyft",
+      "careers_url": "https://boards.greenhouse.io/lyft",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "careers_url": "https://jobs.careers.microsoft.com/global/en/search",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "careers_url": "https://boards.greenhouse.io/mongodb",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Notion",
+      "careers_url": "https://jobs.ashbyhq.com/notion",
+      "categories": [
+        "ai",
+        "tech"
       ]
     },
     {
@@ -25,6 +199,100 @@
         "ai",
         "creative_tech",
         "fortune_500"
+      ]
+    },
+    {
+      "name": "Okta",
+      "careers_url": "https://boards.greenhouse.io/okta",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "careers_url": "https://jobs.ashbyhq.com/openai",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Palo Alto Networks",
+      "careers_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "PayPal",
+      "careers_url": "https://paypal.eightfold.ai/careers",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "careers_url": "https://boards.greenhouse.io/pinterest",
+      "categories": [
+        "ai",
+        "creative_tech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Qualcomm",
+      "careers_url": "https://careers.qualcomm.com/careers",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "careers_url": "https://boards.greenhouse.io/reddit",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "careers_url": "https://jobs.ashbyhq.com/snowflake",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "careers_url": "https://jobs.lever.co/spotify",
+      "categories": [
+        "entertainment",
+        "tech"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "careers_url": "https://boards.greenhouse.io/stripe",
+      "categories": [
+        "fintech",
+        "tech"
+      ]
+    },
+    {
+      "name": "Twilio",
+      "careers_url": "https://boards.greenhouse.io/twilio",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Uber",
+      "careers_url": "https://jobs.uber.com/en/jobs/",
+      "categories": [
+        "tech"
       ]
     }
   ]

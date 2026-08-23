@@ -11,6 +11,13 @@ from connectors.avature import AvatureConnector
 from connectors.valve import ValveConnector
 from connectors.sega import SegaConnector
 from connectors.workable import WorkableConnector
+from connectors.paycom import PaycomConnector
+from connectors.jibe import JibeConnector
+from connectors.talentbrew import TalentBrewConnector
+from connectors.uber import UberConnector
+from connectors.eightfold import EightfoldConnector
+from connectors.successfactors import SuccessFactorsConnector
+
 
 def get_connector(
     company_name,
@@ -130,8 +137,7 @@ def get_connector(
 
     # --------------------------------------------
     # AVATURE
-    # Electronic Arts currently uses a branded
-    # Avature careers domain.
+    # Electronic Arts
     # --------------------------------------------
 
     if "jobs.ea.com" in url:
@@ -155,21 +161,124 @@ def get_connector(
 
 
     # --------------------------------------------
-    # UNSUPPORTED
+    # PAYCOM
     # --------------------------------------------
+
+    if "paycomonline.net" in url:
+
+        return PaycomConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # JIBE
+    # GitHub + AMD currently use this platform
+    # --------------------------------------------
+
+    if (
+        "github.careers" in url
+        or "careers.amd.com" in url
+    ):
+
+        return JibeConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # SEGA
+    # --------------------------------------------
+
     if "careers.sega.co.uk" in url:
 
         return SegaConnector(
             company_name,
             careers_url
         )
-        
+
+
+    # --------------------------------------------
+    # WORKABLE
+    # --------------------------------------------
+
     if "workable.com" in url:
 
         return WorkableConnector(
             company_name,
             careers_url
         )
+
+
+    # --------------------------------------------
+    # TALENTBREW / RADANCY
+    # Intuit currently uses this platform
+    # --------------------------------------------
+
+    if "jobs.intuit.com" in url:
+
+        return TalentBrewConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # UBER / ORACLE RECRUITING
+    # --------------------------------------------
+
+    if "jobs.uber.com" in url:
+
+        return UberConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # EIGHTFOLD
+    # Microsoft + PayPal + Qualcomm
+    # --------------------------------------------
+
+    if (
+        "jobs.careers.microsoft.com" in url
+        or "apply.careers.microsoft.com" in url
+        or "paypal.eightfold.ai" in url
+        or "careers.qualcomm.com" in url
+    ):
+
+        # Microsoft's old careers URL redirects to
+        # the current Eightfold careers site.
+        if "jobs.careers.microsoft.com" in url:
+
+            careers_url = (
+                "https://apply.careers.microsoft.com/careers"
+            )
+
+        return EightfoldConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # SAP SUCCESSFACTORS / RMK
+    # Paramount currently uses this platform
+    # --------------------------------------------
+
+    if "careers.paramount.com" in url:
+
+        return SuccessFactorsConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # UNSUPPORTED
+    # --------------------------------------------
 
     raise ValueError(
         f"Unsupported careers site: "

@@ -1,0 +1,49 @@
+{
+  "companies": [
+    {
+      "name": "CrowdStrike",
+      "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Workday",
+      "job_count": 40,
+      "status": "verified"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "careers_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Workday",
+      "job_count": 1433,
+      "status": "verified"
+    },
+    {
+      "name": "Intel",
+      "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Workday",
+      "job_count": 40,
+      "status": "verified"
+    },
+    {
+      "name": "Autodesk",
+      "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "ats": "Workday",
+      "job_count": 40,
+      "status": "verified"
+    }
+  ]
+}

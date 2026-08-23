@@ -325,6 +325,70 @@ for company in companies:
 
 
         # --------------------------------------------
+        # UBER DESCRIPTION ENRICHMENT
+        # --------------------------------------------
+
+        # Uber's Oracle listing feed gives us the
+        # title/location cheaply, but the complete
+        # qualifications live in a separate detail
+        # endpoint.
+        #
+        # Only fetch that description AFTER the job
+        # already passed title + location filters.
+        #
+        # This prevents Job Ping from making detail
+        # requests for all 700+ Uber jobs every scan.
+
+        if (
+            job.get("source") == "uber"
+            and hasattr(
+                connector,
+                "fetch_description"
+            )
+        ):
+
+            current_description = (
+                job.get(
+                    "description",
+                    ""
+                )
+                or ""
+            ).strip()
+
+            if not current_description:
+
+                try:
+
+                    description = (
+                        connector.fetch_description(
+                            job["id"]
+                        )
+                    )
+
+                    if description:
+
+                        job[
+                            "description"
+                        ] = description
+
+
+                except Exception as error:
+
+                    print(
+                        "Could not load Uber description "
+                        f"for {job.get('title', 'Unknown Job')}: "
+                        f"{error}"
+                    )
+
+                    # We do not want to let an Uber job
+                    # through the experience filter using
+                    # only its title when its qualification
+                    # data failed to load.
+
+                    continue
+
+
+        # --------------------------------------------
         # EXPERIENCE FILTER
         # --------------------------------------------
 

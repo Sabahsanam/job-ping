@@ -1,0 +1,31 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "careers_url": "https://jobs.careers.microsoft.com/global/en/search",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "ready"
+    },
+    {
+      "name": "PayPal",
+      "careers_url": "https://paypal.eightfold.ai/careers",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "verification_status": "ready"
+    },
+    {
+      "name": "Qualcomm",
+      "careers_url": "https://careers.qualcomm.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "ready"
+    }
+  ]
+}

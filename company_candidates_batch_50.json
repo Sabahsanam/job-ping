@@ -1,0 +1,254 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Meta",
+      "careers_url": "https://www.metacareers.com/jobs/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Apple",
+      "careers_url": "https://jobs.apple.com/en-us/search",
+      "categories": ["tech", "ai", "creative_tech"]
+    },
+    {
+      "name": "Amazon",
+      "careers_url": "https://www.amazon.jobs/en/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Microsoft",
+      "careers_url": "https://jobs.careers.microsoft.com/global/en/search",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://careers.salesforce.com/en/jobs/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "ServiceNow",
+      "careers_url": "https://careers.servicenow.com/jobs/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Snowflake",
+      "careers_url": "https://careers.snowflake.com/us/en/search-results",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Coinbase",
+      "careers_url": "https://www.coinbase.com/careers/positions",
+      "categories": ["tech", "fintech"]
+    },
+    {
+      "name": "Block",
+      "careers_url": "https://block.xyz/careers/jobs",
+      "categories": ["tech", "fintech"]
+    },
+    {
+      "name": "PayPal",
+      "careers_url": "https://paypal.eightfold.ai/careers",
+      "categories": ["tech", "fintech"]
+    },
+    {
+      "name": "Intuit",
+      "careers_url": "https://jobs.intuit.com/search-jobs",
+      "categories": ["tech", "fintech", "ai"]
+    },
+    {
+      "name": "Airbnb",
+      "careers_url": "https://careers.airbnb.com/positions/",
+      "categories": ["tech"]
+    },
+    {
+      "name": "Uber",
+      "careers_url": "https://www.uber.com/us/en/careers/list/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Lyft",
+      "careers_url": "https://www.lyft.com/careers",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "DoorDash",
+      "careers_url": "https://careersatdoordash.com/jobs/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Instacart",
+      "careers_url": "https://instacart.careers/current-openings/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Pinterest",
+      "careers_url": "https://www.pinterestcareers.com/jobs/",
+      "categories": ["tech", "creative_tech", "ai"]
+    },
+    {
+      "name": "Snap",
+      "careers_url": "https://careers.snap.com/jobs",
+      "categories": ["tech", "creative_tech", "ai"]
+    },
+    {
+      "name": "Reddit",
+      "careers_url": "https://www.redditinc.com/careers",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Dropbox",
+      "careers_url": "https://jobs.dropbox.com/all-jobs",
+      "categories": ["tech"]
+    },
+    {
+      "name": "Twilio",
+      "careers_url": "https://www.twilio.com/en-us/company/jobs",
+      "categories": ["tech"]
+    },
+    {
+      "name": "Zoom",
+      "careers_url": "https://careers.zoom.us/jobs/search",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers/all-jobs",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Canva",
+      "careers_url": "https://www.lifeatcanva.com/en/jobs/",
+      "categories": ["tech", "creative_tech", "ai"]
+    },
+    {
+      "name": "Figma",
+      "careers_url": "https://www.figma.com/careers/",
+      "categories": ["tech", "creative_tech", "ai"]
+    },
+    {
+      "name": "Notion",
+      "careers_url": "https://www.notion.com/careers",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Discord",
+      "careers_url": "https://discord.com/jobs",
+      "categories": ["tech", "gaming"]
+    },
+    {
+      "name": "GitLab",
+      "careers_url": "https://about.gitlab.com/jobs/all-jobs/",
+      "categories": ["tech"]
+    },
+    {
+      "name": "GitHub",
+      "careers_url": "https://www.github.careers/careers-home",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "MongoDB",
+      "careers_url": "https://www.mongodb.com/company/careers",
+      "categories": ["tech"]
+    },
+    {
+      "name": "Confluent",
+      "careers_url": "https://careers.confluent.io/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Elastic",
+      "careers_url": "https://jobs.elastic.co/jobs/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Okta",
+      "careers_url": "https://www.okta.com/company/careers/",
+      "categories": ["tech"]
+    },
+    {
+      "name": "CrowdStrike",
+      "careers_url": "https://www.crowdstrike.com/en-us/careers/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Palo Alto Networks",
+      "careers_url": "https://jobs.paloaltonetworks.com/en/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "AMD",
+      "careers_url": "https://careers.amd.com/careers-home",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Intel",
+      "careers_url": "https://jobs.intel.com/en/",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Qualcomm",
+      "careers_url": "https://careers.qualcomm.com/careers",
+      "categories": ["tech", "ai"]
+    },
+    {
+      "name": "Autodesk",
+      "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "categories": ["tech", "creative_tech", "ai"]
+    },
+    {
+      "name": "DreamWorks Animation",
+      "careers_url": "https://www.dreamworks.com/careers",
+      "categories": ["animation", "vfx", "creative_tech", "entertainment"]
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers-at-pixar",
+      "categories": ["animation", "vfx", "creative_tech", "entertainment"]
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": ["entertainment", "creative_tech"]
+    },
+    {
+      "name": "NBCUniversal",
+      "careers_url": "https://www.nbcunicareers.com/find-a-job",
+      "categories": ["entertainment", "creative_tech"]
+    },
+    {
+      "name": "Electronic Arts Sports",
+      "careers_url": "https://www.ea.com/careers",
+      "categories": ["gaming", "creative_tech", "ai"]
+    },
+    {
+      "name": "Zynga",
+      "careers_url": "https://www.zynga.com/jobs/",
+      "categories": ["gaming", "creative_tech", "ai"]
+    },
+    {
+      "name": "Scopely",
+      "careers_url": "https://www.scopely.com/en/careers",
+      "categories": ["gaming", "creative_tech", "ai"]
+    },
+    {
+      "name": "Playrix",
+      "careers_url": "https://playrix.com/job/open",
+      "categories": ["gaming", "creative_tech"]
+    },
+    {
+      "name": "Niantic",
+      "careers_url": "https://careers.nianticlabs.com/",
+      "categories": ["gaming", "tech", "ai"]
+    },
+    {
+      "name": "Discord Technologies",
+      "careers_url": "https://discord.com/jobs",
+      "categories": ["gaming", "tech"]
+    }
+  ]
+}

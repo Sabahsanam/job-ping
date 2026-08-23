@@ -1,0 +1,187 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.google.com/about/careers/applications/jobs/results/"
+    },
+    {
+      "name": "Meta",
+      "careers_url": "https://www.metacareers.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.metacareers.com/jobs/"
+    },
+    {
+      "name": "Apple",
+      "careers_url": "https://jobs.apple.com/en-us/search",
+      "categories": [
+        "tech",
+        "ai",
+        "creative_tech"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://jobs.apple.com/en-us/search"
+    },
+    {
+      "name": "Amazon",
+      "careers_url": "https://www.amazon.jobs/en/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.amazon.jobs/en/"
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://careers.salesforce.com/en/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careers.salesforce.com/en/jobs/"
+    },
+    {
+      "name": "ServiceNow",
+      "careers_url": "https://careers.servicenow.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careers.servicenow.com/jobs/"
+    },
+    {
+      "name": "DoorDash",
+      "careers_url": "https://careersatdoordash.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careersatdoordash.com/jobs/"
+    },
+    {
+      "name": "Snap",
+      "careers_url": "https://careers.snap.com/jobs",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careers.snap.com/jobs"
+    },
+    {
+      "name": "Zoom",
+      "careers_url": "https://careers.zoom.us/jobs/search",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careers.zoom.us/jobs/search"
+    },
+    {
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers/all-jobs",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.atlassian.com/company/careers/all-jobs"
+    },
+    {
+      "name": "Canva",
+      "careers_url": "https://www.lifeatcanva.com/en/jobs/",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.lifeatcanva.com/en/jobs/"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "careers_url": "https://www.dreamworks.com/careers",
+      "categories": [
+        "animation",
+        "vfx",
+        "creative_tech",
+        "entertainment"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.dreamworks.com/careers"
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers-at-pixar",
+      "categories": [
+        "animation",
+        "vfx",
+        "creative_tech",
+        "entertainment"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.pixar.com/careers-at-pixar"
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "entertainment",
+        "creative_tech"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://careers.paramount.com/"
+    },
+    {
+      "name": "NBCUniversal",
+      "careers_url": "https://www.nbcunicareers.com/find-a-job",
+      "categories": [
+        "entertainment",
+        "creative_tech"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://www.nbcunicareers.com/find-a-job"
+    },
+    {
+      "name": "Playrix",
+      "careers_url": "https://playrix.com/job/open",
+      "categories": [
+        "gaming",
+        "creative_tech"
+      ],
+      "verification_status": "review",
+      "reason": "unsupported_platform",
+      "details": "Unsupported careers site: https://playrix.com/job/open"
+    }
+  ]
+}

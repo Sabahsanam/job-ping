@@ -1,0 +1,242 @@
+{
+  "companies": [
+    {
+      "name": "Snowflake",
+      "careers_url": "https://jobs.ashbyhq.com/snowflake",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Ashby",
+      "ats_token": "snowflake",
+      "job_count": 392,
+      "status": "verified"
+    },
+    {
+      "name": "Coinbase",
+      "careers_url": "https://boards.greenhouse.io/coinbase",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "coinbase",
+      "job_count": 173,
+      "status": "verified"
+    },
+    {
+      "name": "Block",
+      "careers_url": "https://boards.greenhouse.io/block",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "block",
+      "job_count": 190,
+      "status": "verified"
+    },
+    {
+      "name": "Airbnb",
+      "careers_url": "https://boards.greenhouse.io/airbnb",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "airbnb",
+      "job_count": 189,
+      "status": "verified"
+    },
+    {
+      "name": "Lyft",
+      "careers_url": "https://boards.greenhouse.io/lyft",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "lyft",
+      "job_count": 162,
+      "status": "verified"
+    },
+    {
+      "name": "Instacart",
+      "careers_url": "https://boards.greenhouse.io/instacart",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "instacart",
+      "job_count": 118,
+      "status": "verified"
+    },
+    {
+      "name": "Pinterest",
+      "careers_url": "https://boards.greenhouse.io/pinterest",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "pinterest",
+      "job_count": 224,
+      "status": "verified"
+    },
+    {
+      "name": "Reddit",
+      "careers_url": "https://boards.greenhouse.io/reddit",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "reddit",
+      "job_count": 151,
+      "status": "verified"
+    },
+    {
+      "name": "Dropbox",
+      "careers_url": "https://boards.greenhouse.io/dropbox",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "dropbox",
+      "job_count": 41,
+      "status": "verified"
+    },
+    {
+      "name": "Twilio",
+      "careers_url": "https://boards.greenhouse.io/twilio",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "twilio",
+      "job_count": 146,
+      "status": "verified"
+    },
+    {
+      "name": "Figma",
+      "careers_url": "https://boards.greenhouse.io/figma",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "figma",
+      "job_count": 161,
+      "status": "verified"
+    },
+    {
+      "name": "Notion",
+      "careers_url": "https://jobs.ashbyhq.com/notion",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Ashby",
+      "ats_token": "notion",
+      "job_count": 128,
+      "status": "verified"
+    },
+    {
+      "name": "Discord",
+      "careers_url": "https://boards.greenhouse.io/discord",
+      "categories": [
+        "tech",
+        "gaming"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "discord",
+      "job_count": 51,
+      "status": "verified"
+    },
+    {
+      "name": "GitLab",
+      "careers_url": "https://boards.greenhouse.io/gitlab",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "gitlab",
+      "job_count": 204,
+      "status": "verified"
+    },
+    {
+      "name": "MongoDB",
+      "careers_url": "https://boards.greenhouse.io/mongodb",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "mongodb",
+      "job_count": 404,
+      "status": "verified"
+    },
+    {
+      "name": "Confluent",
+      "careers_url": "https://jobs.ashbyhq.com/confluent",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Ashby",
+      "ats_token": "confluent",
+      "job_count": 30,
+      "status": "verified"
+    },
+    {
+      "name": "Elastic",
+      "careers_url": "https://boards.greenhouse.io/elastic",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "elastic",
+      "job_count": 249,
+      "status": "verified"
+    },
+    {
+      "name": "Okta",
+      "careers_url": "https://boards.greenhouse.io/okta",
+      "categories": [
+        "tech"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "okta",
+      "job_count": 335,
+      "status": "verified"
+    },
+    {
+      "name": "Zynga",
+      "careers_url": "https://boards.greenhouse.io/zyngacareers",
+      "categories": [
+        "gaming",
+        "creative_tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "zyngacareers",
+      "job_count": 49,
+      "status": "verified"
+    },
+    {
+      "name": "Scopely",
+      "careers_url": "https://boards.greenhouse.io/scopely",
+      "categories": [
+        "gaming",
+        "creative_tech",
+        "ai"
+      ],
+      "ats": "Greenhouse",
+      "ats_token": "scopely",
+      "job_count": 167,
+      "status": "verified"
+    }
+  ]
+}

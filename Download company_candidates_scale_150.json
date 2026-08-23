@@ -1,0 +1,1224 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Meta",
+      "careers_url": "https://www.metacareers.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Apple",
+      "careers_url": "https://jobs.apple.com/en-us/search",
+      "categories": [
+        "tech",
+        "ai",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "careers_url": "https://www.amazon.jobs/en/",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "careers_url": "https://jobs.careers.microsoft.com/global/en/search",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Salesforce",
+      "careers_url": "https://careers.salesforce.com/en/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "ServiceNow",
+      "careers_url": "https://careers.servicenow.com/jobs/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "careers_url": "https://careers.oracle.com/jobs/",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "IBM",
+      "careers_url": "https://www.ibm.com/careers/search",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "SAP",
+      "careers_url": "https://jobs.sap.com/",
+      "categories": [
+        "tech",
+        "enterprise"
+      ]
+    },
+    {
+      "name": "Dell Technologies",
+      "careers_url": "https://jobs.dell.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "HP",
+      "careers_url": "https://jobs.hp.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "HPE",
+      "careers_url": "https://careers.hpe.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Broadcom",
+      "careers_url": "https://www.broadcom.com/company/careers",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "careers_url": "https://jobs.cisco.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "AMD",
+      "careers_url": "https://careers.amd.com/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Intel",
+      "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Qualcomm",
+      "careers_url": "https://careers.qualcomm.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Micron",
+      "careers_url": "https://careers.micron.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ]
+    },
+    {
+      "name": "Texas Instruments",
+      "careers_url": "https://careers.ti.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ]
+    },
+    {
+      "name": "Arm",
+      "careers_url": "https://careers.arm.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ]
+    },
+    {
+      "name": "Synopsys",
+      "careers_url": "https://careers.synopsys.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ]
+    },
+    {
+      "name": "Cadence",
+      "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "careers_url": "https://jobs.ashbyhq.com/snowflake",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Databricks",
+      "careers_url": "https://www.databricks.com/company/careers/open-positions",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "careers_url": "https://www.cloudflare.com/careers/jobs/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Datadog",
+      "careers_url": "https://careers.datadoghq.com/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "careers_url": "https://www.mongodb.com/company/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Elastic",
+      "careers_url": "https://jobs.elastic.co/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Confluent",
+      "careers_url": "https://careers.confluent.io/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "GitLab",
+      "careers_url": "https://about.gitlab.com/jobs/all-jobs/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "careers_url": "https://www.github.careers/careers-home",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Atlassian",
+      "careers_url": "https://www.atlassian.com/company/careers/all-jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Twilio",
+      "careers_url": "https://www.twilio.com/en-us/company/jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Okta",
+      "careers_url": "https://www.okta.com/company/careers/",
+      "categories": [
+        "tech",
+        "security"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "categories": [
+        "tech",
+        "security",
+        "ai"
+      ]
+    },
+    {
+      "name": "Palo Alto Networks",
+      "careers_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
+      "categories": [
+        "tech",
+        "security",
+        "ai"
+      ]
+    },
+    {
+      "name": "Zscaler",
+      "careers_url": "https://www.zscaler.com/careers/search",
+      "categories": [
+        "tech",
+        "security"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "careers_url": "https://stripe.com/jobs/search",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Block",
+      "careers_url": "https://block.xyz/careers/jobs",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "PayPal",
+      "careers_url": "https://paypal.eightfold.ai/careers",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Coinbase",
+      "careers_url": "https://www.coinbase.com/careers/positions",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Robinhood",
+      "careers_url": "https://careers.robinhood.com/openings",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Chime",
+      "careers_url": "https://careers.chime.com/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Plaid",
+      "careers_url": "https://plaid.com/careers/openings/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Affirm",
+      "careers_url": "https://www.affirm.com/careers",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "SoFi",
+      "careers_url": "https://www.sofi.com/careers/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Capital One",
+      "careers_url": "https://www.capitalonecareers.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "JPMorgan Chase",
+      "careers_url": "https://careers.jpmorgan.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Bank of America",
+      "careers_url": "https://careers.bankofamerica.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Wells Fargo",
+      "careers_url": "https://www.wellsfargojobs.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Goldman Sachs",
+      "careers_url": "https://www.goldmansachs.com/careers/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Morgan Stanley",
+      "careers_url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "American Express",
+      "careers_url": "https://www.americanexpress.com/en-us/careers/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Visa",
+      "careers_url": "https://jobs.smartrecruiters.com/Visa",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "careers_url": "https://careers.mastercard.com/us/en",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ]
+    },
+    {
+      "name": "Fidelity Investments",
+      "careers_url": "https://jobs.fidelity.com/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Charles Schwab",
+      "careers_url": "https://www.schwabjobs.com/",
+      "categories": [
+        "tech",
+        "fintech"
+      ]
+    },
+    {
+      "name": "Uber",
+      "careers_url": "https://jobs.uber.com/en/jobs/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "DoorDash",
+      "careers_url": "https://careersatdoordash.com/jobs/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Lyft",
+      "careers_url": "https://www.lyft.com/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "careers_url": "https://careers.airbnb.com/positions/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Instacart",
+      "careers_url": "https://instacart.careers/current-openings/",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "careers_url": "https://www.pinterestcareers.com/jobs/",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "careers_url": "https://www.redditinc.com/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Snap",
+      "careers_url": "https://careers.snap.com/jobs",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Discord",
+      "careers_url": "https://discord.com/jobs",
+      "categories": [
+        "tech",
+        "gaming"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "careers_url": "https://www.lifeatspotify.com/jobs",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "careers_url": "https://jobs.dropbox.com/all-jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Zoom",
+      "careers_url": "https://careers.zoom.us/jobs/search",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Canva",
+      "careers_url": "https://www.lifeatcanva.com/en/jobs/",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Figma",
+      "careers_url": "https://www.figma.com/careers/",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Notion",
+      "careers_url": "https://www.notion.com/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Etsy",
+      "careers_url": "https://careers.etsy.com/",
+      "categories": [
+        "tech",
+        "marketplace"
+      ]
+    },
+    {
+      "name": "eBay",
+      "careers_url": "https://jobs.ebayinc.com/",
+      "categories": [
+        "tech",
+        "marketplace"
+      ]
+    },
+    {
+      "name": "Chewy",
+      "careers_url": "https://careers.chewy.com/",
+      "categories": [
+        "tech",
+        "ecommerce"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "careers_url": "https://openai.com/careers/search/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "careers_url": "https://www.anthropic.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "xAI",
+      "careers_url": "https://x.ai/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Cohere",
+      "careers_url": "https://cohere.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Scale AI",
+      "careers_url": "https://scale.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Hugging Face",
+      "careers_url": "https://apply.workable.com/huggingface/",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Perplexity",
+      "careers_url": "https://www.perplexity.ai/hub/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Mistral AI",
+      "careers_url": "https://jobs.lever.co/mistral",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Weights & Biases",
+      "careers_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "careers_url": "https://vercel.com/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Replit",
+      "careers_url": "https://replit.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "careers_url": "https://www.cursor.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Zapier",
+      "careers_url": "https://zapier.com/jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Airtable",
+      "careers_url": "https://www.airtable.com/careers",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Asana",
+      "careers_url": "https://asana.com/jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "HubSpot",
+      "careers_url": "https://www.hubspot.com/careers/jobs",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Epic Games",
+      "careers_url": "https://www.epicgames.com/site/en-US/careers/jobs",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Electronic Arts",
+      "careers_url": "https://jobs.ea.com/en_US/careers/Home/",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Riot Games",
+      "careers_url": "https://www.riotgames.com/en/work-with-us",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Roblox",
+      "careers_url": "https://careers.roblox.com/jobs",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Unity",
+      "careers_url": "https://unity.com/careers/positions",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Take-Two Interactive",
+      "careers_url": "https://careers.take2games.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "2K",
+      "careers_url": "https://careers.2k.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Rockstar Games",
+      "careers_url": "https://www.rockstargames.com/careers",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Ubisoft",
+      "careers_url": "https://www.ubisoft.com/en-us/company/careers/search",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Bungie",
+      "careers_url": "https://careers.bungie.com/jobs",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Valve",
+      "careers_url": "https://www.valvesoftware.com/en/jobs",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Nintendo of America",
+      "careers_url": "https://careers.nintendo.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "careers_url": "https://careers.playstation.com/",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Sega of America",
+      "careers_url": "https://careers.sega.co.uk/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Bandai Namco Entertainment America",
+      "careers_url": "https://www.bandainamcoent.com/careers",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Capcom USA",
+      "careers_url": "https://www.capcomusa.com/careers/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Square Enix America",
+      "careers_url": "https://www.square-enix-games.com/en_US/careers",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Scopely",
+      "careers_url": "https://careers.scopely.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Zynga",
+      "careers_url": "https://www.zynga.com/jobs/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Playrix",
+      "careers_url": "https://playrix.com/job/open",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "King",
+      "careers_url": "https://careers.king.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Activision",
+      "careers_url": "https://careers.activision.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Blizzard Entertainment",
+      "careers_url": "https://careers.blizzard.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "careers_url": "https://jobs.netflix.com/search",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Disney",
+      "careers_url": "https://www.disneycareers.com/en/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "careers_url": "https://careers.wbd.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Sony Pictures",
+      "careers_url": "https://www.sonypicturesjobs.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "NBCUniversal",
+      "careers_url": "https://www.nbcunicareers.com/find-a-job",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "DreamWorks Animation",
+      "careers_url": "https://www.dreamworks.com/careers",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Skydance",
+      "careers_url": "https://skydance.com/careers/",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "A24",
+      "careers_url": "https://a24films.com/jobs",
+      "categories": [
+        "film_entertainment",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Lionsgate",
+      "careers_url": "https://careers.lionsgate.com/",
+      "categories": [
+        "film_entertainment",
+        "tech"
+      ]
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "careers_url": "https://www.sonymusic.com/careers/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Universal Music Group",
+      "careers_url": "https://www.universalmusic.com/careers/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Warner Music Group",
+      "careers_url": "https://www.wmg.com/careers",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "DNEG",
+      "careers_url": "https://www.dneg.com/careers/",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Framestore",
+      "careers_url": "https://www.framestore.com/careers",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Industrial Light & Magic",
+      "careers_url": "https://jobs.disneycareers.com/ilm",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Weta FX",
+      "careers_url": "https://www.wetafx.co.nz/careers/",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Digital Domain",
+      "careers_url": "https://digitaldomain.com/careers/",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Scanline VFX",
+      "careers_url": "https://www.scanlinevfx.com/careers",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "The Mill",
+      "careers_url": "https://www.themill.com/careers/",
+      "categories": [
+        "vfx",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Autodesk",
+      "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+      "categories": [
+        "tech",
+        "creative_tech"
+      ]
+    },
+    {
+      "name": "Adobe",
+      "careers_url": "https://careers.adobe.com/us/en",
+      "categories": [
+        "tech",
+        "creative_tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "careers_url": "https://www.accenture.com/us-en/careers/jobsearch",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "Deloitte",
+      "careers_url": "https://apply.deloitte.com/careers",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "PwC",
+      "careers_url": "https://jobs.us.pwc.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "EY",
+      "careers_url": "https://careers.ey.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "KPMG",
+      "careers_url": "https://www.kpmguscareers.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "careers_url": "https://careers.boozallen.com/jobs",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "McKinsey & Company",
+      "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "Boston Consulting Group",
+      "careers_url": "https://careers.bcg.com/global/en/search-results",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "Capgemini",
+      "careers_url": "https://www.capgemini.com/careers/join-capgemini/job-search/",
+      "categories": [
+        "tech",
+        "consulting"
+      ]
+    },
+    {
+      "name": "Baxter",
+      "careers_url": "https://jobs.baxter.com/",
+      "categories": [
+        "tech",
+        "healthcare",
+        "medtech"
+      ]
+    },
+    {
+      "name": "Medtronic",
+      "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "categories": [
+        "tech",
+        "healthcare",
+        "medtech"
+      ]
+    }
+  ]
+}
