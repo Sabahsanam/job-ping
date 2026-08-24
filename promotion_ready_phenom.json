@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "name": "HPE",
+      "careers_url": "https://careers.hpe.com/us/en/search-results",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ],
+      "verification_status": "ready"
+    },
+    {
+      "name": "eBay",
+      "careers_url": "https://jobs.ebayinc.com/us/en/search-results",
+      "categories": [
+        "tech",
+        "marketplace"
+      ],
+      "verification_status": "ready"
+    },
+    {
+      "name": "Chewy",
+      "careers_url": "https://careers.chewy.com/us/en/search-results",
+      "categories": [
+        "tech",
+        "ecommerce"
+      ],
+      "verification_status": "ready"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "careers_url": "https://careers.bcg.com/global/en/search-results",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "verification_status": "ready"
+    }
+  ]
+}

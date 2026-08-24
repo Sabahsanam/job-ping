@@ -59,10 +59,26 @@
       ]
     },
     {
+      "name": "Boston Consulting Group",
+      "careers_url": "https://careers.bcg.com/global/en/search-results",
+      "categories": [
+        "consulting",
+        "tech"
+      ]
+    },
+    {
       "name": "Cadence",
       "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
       "categories": [
         "semiconductor",
+        "tech"
+      ]
+    },
+    {
+      "name": "Chewy",
+      "careers_url": "https://careers.chewy.com/us/en/search-results",
+      "categories": [
+        "ecommerce",
         "tech"
       ]
     },
@@ -146,6 +162,14 @@
       ]
     },
     {
+      "name": "eBay",
+      "careers_url": "https://jobs.ebayinc.com/us/en/search-results",
+      "categories": [
+        "marketplace",
+        "tech"
+      ]
+    },
+    {
       "name": "Elastic",
       "careers_url": "https://boards.greenhouse.io/elastic",
       "categories": [
@@ -174,6 +198,14 @@
       "name": "GitLab",
       "careers_url": "https://boards.greenhouse.io/gitlab",
       "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "HPE",
+      "careers_url": "https://careers.hpe.com/us/en/search-results",
+      "categories": [
+        "fortune_500",
         "tech"
       ]
     },
