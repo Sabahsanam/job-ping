@@ -1,0 +1,671 @@
+{
+  "companies": [
+    {
+      "name": "Oracle",
+      "careers_url": "https://careers.oracle.com/jobs/",
+      "categories": [
+        "tech",
+        "ai",
+        "fortune_500"
+      ],
+      "platform": "Oracle",
+      "final_url": "https://careers.oracle.com/en/sites/jobsearch",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "oraclecloud.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "SAP",
+      "careers_url": "https://jobs.sap.com/",
+      "categories": [
+        "tech",
+        "enterprise"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://jobs.sap.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.sap.com/",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "HP",
+      "careers_url": "https://jobs.hp.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ],
+      "platform": "Eightfold",
+      "final_url": "https://jobs.hp.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "eightfold.ai",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://hp-sandbox.eightfold.ai/careers",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "HPE",
+      "careers_url": "https://careers.hpe.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ],
+      "platform": "Phenom",
+      "final_url": "https://careers.hpe.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "phenompeople.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Micron",
+      "careers_url": "https://careers.micron.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.micron.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Texas Instruments",
+      "careers_url": "https://careers.ti.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "Oracle",
+      "final_url": "https://careers.ti.com/en/sites/CX",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "oraclecloud.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Arm",
+      "careers_url": "https://careers.arm.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "iCIMS",
+      "final_url": "https://careers.arm.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "icims.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Synopsys",
+      "careers_url": "https://careers.synopsys.com/",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "TalentBrew/Radancy",
+      "final_url": "https://careers.synopsys.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "talentbrew.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Cadence",
+      "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "Workday",
+      "evidence": "configured_url",
+      "matched_signature": "myworkdayjobs.com",
+      "final_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "SoFi",
+      "careers_url": "https://www.sofi.com/careers/",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "platform": "Greenhouse",
+      "final_url": "https://www.sofi.com/careers/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "greenhouse.io",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Capital One",
+      "careers_url": "https://www.capitalonecareers.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.capitalonecareers.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "JPMorgan Chase",
+      "careers_url": "https://careers.jpmorgan.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Oracle",
+      "final_url": "https://www.jpmorganchase.com/careers?redirect=careers_jpm",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "oraclecloud.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Bank of America",
+      "careers_url": "https://careers.bankofamerica.com/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.bankofamerica.com/en-us",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "American Express",
+      "careers_url": "https://www.americanexpress.com/en-us/careers/",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Oracle",
+      "final_url": "https://www.americanexpress.com/en-us/careers/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "oraclecloud.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Visa",
+      "careers_url": "https://jobs.smartrecruiters.com/Visa",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "SmartRecruiters",
+      "evidence": "configured_url",
+      "matched_signature": "smartrecruiters.com",
+      "final_url": "https://jobs.smartrecruiters.com/Visa",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.smartrecruiters.com/Visa",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Mastercard",
+      "careers_url": "https://careers.mastercard.com/us/en",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.mastercard.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Charles Schwab",
+      "careers_url": "https://www.schwabjobs.com/",
+      "categories": [
+        "tech",
+        "fintech"
+      ],
+      "platform": "iCIMS",
+      "final_url": "https://www.schwabjobs.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "icims.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "eBay",
+      "careers_url": "https://jobs.ebayinc.com/",
+      "categories": [
+        "tech",
+        "marketplace"
+      ],
+      "platform": "Phenom",
+      "final_url": "https://jobs.ebayinc.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "phenompeople.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Chewy",
+      "careers_url": "https://careers.chewy.com/",
+      "categories": [
+        "tech",
+        "ecommerce"
+      ],
+      "platform": "Phenom",
+      "final_url": "https://careers.chewy.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "phenompeople.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Cohere",
+      "careers_url": "https://cohere.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://cohere.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/cohere",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Hugging Face",
+      "careers_url": "https://apply.workable.com/huggingface/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Workable",
+      "evidence": "configured_url",
+      "matched_signature": "workable.com",
+      "final_url": "https://apply.workable.com/huggingface/",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://apply.workable.com/huggingface/",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Mistral AI",
+      "careers_url": "https://jobs.lever.co/mistral",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Lever",
+      "evidence": "configured_url",
+      "matched_signature": "lever.co",
+      "final_url": "https://jobs.lever.co/mistral",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.lever.co/mistral",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Weights & Biases",
+      "careers_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "evidence": "configured_url",
+      "matched_signature": "ashbyhq.com",
+      "final_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Vercel",
+      "careers_url": "https://vercel.com/careers",
+      "categories": [
+        "tech"
+      ],
+      "platform": "Greenhouse",
+      "final_url": "https://vercel.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "greenhouse.io",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://job-boards.greenhouse.io/vercel",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Replit",
+      "careers_url": "https://replit.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://replit.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/replit",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Cursor",
+      "careers_url": "https://www.cursor.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://cursor.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/cursor",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "PlayStation",
+      "careers_url": "https://careers.playstation.com/",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ],
+      "platform": "Greenhouse",
+      "final_url": "https://careers.playstation.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "greenhouse.io",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://job-boards.greenhouse.io/pdi",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "King",
+      "careers_url": "https://careers.king.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ],
+      "platform": "Eightfold",
+      "final_url": "https://careers.king.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "eightfold.ai",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Activision",
+      "careers_url": "https://careers.activision.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.activision.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://xboxgaming.wd1.myworkdayjobs.com/CentralTech",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Blizzard Entertainment",
+      "careers_url": "https://careers.blizzard.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ],
+      "platform": "Eightfold",
+      "final_url": "https://careers.blizzard.com/global/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "eightfold.ai",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Sony Pictures",
+      "careers_url": "https://www.sonypicturesjobs.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ],
+      "platform": "TalentBrew/Radancy",
+      "final_url": "https://www.sonypicturesjobs.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "talentbrew.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech",
+        "entertainment"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://careers.paramount.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://careers.paramount.com/",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech",
+        "vfx",
+        "entertainment"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.pixar.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Warner Music Group",
+      "careers_url": "https://www.wmg.com/careers",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.wmg.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://wmg.wd1.myworkdayjobs.com/WMGUS",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Industrial Light & Magic",
+      "careers_url": "https://jobs.disneycareers.com/ilm",
+      "categories": [
+        "vfx",
+        "animation",
+        "creative_tech"
+      ],
+      "platform": "TalentBrew/Radancy",
+      "final_url": "https://jobs.disneycareers.com/ilm",
+      "http_status": 404,
+      "evidence": "redirect_or_html",
+      "matched_signature": "talentbrew.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Accenture",
+      "careers_url": "https://www.accenture.com/us-en/careers/jobsearch",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.accenture.com/us-en/careers/jobsearch",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "PwC",
+      "careers_url": "https://jobs.us.pwc.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "TalentBrew/Radancy",
+      "final_url": "https://jobs.us.pwc.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "talentbrew.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "EY",
+      "careers_url": "https://careers.ey.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://careers.ey.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://careers.ey.com/",
+      "resolved_from": "configured_url"
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "careers_url": "https://careers.boozallen.com/jobs",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.boozallen.com/careers.html",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
+      "resolved_from": "page_evidence"
+    },
+    {
+      "name": "Boston Consulting Group",
+      "careers_url": "https://careers.bcg.com/global/en/search-results",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "Phenom",
+      "final_url": "https://careers.bcg.com/global/en/search-results",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "phenompeople.com",
+      "resolution_status": "needs_platform_connector",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Baxter",
+      "careers_url": "https://jobs.baxter.com/",
+      "categories": [
+        "tech",
+        "healthcare",
+        "medtech"
+      ],
+      "platform": "Workday",
+      "final_url": "https://jobs.baxter.com/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "url_unresolved",
+      "resolved_platform_url": null
+    },
+    {
+      "name": "Medtronic",
+      "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "categories": [
+        "tech",
+        "healthcare",
+        "medtech"
+      ],
+      "platform": "Workday",
+      "evidence": "configured_url",
+      "matched_signature": "myworkdayjobs.com",
+      "final_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "resolved_from": "configured_url"
+    }
+  ]
+}

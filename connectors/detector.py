@@ -17,6 +17,7 @@ from connectors.talentbrew import TalentBrewConnector
 from connectors.uber import UberConnector
 from connectors.eightfold import EightfoldConnector
 from connectors.successfactors import SuccessFactorsConnector
+from connectors.oracle import OracleConnector
 
 
 def get_connector(
@@ -226,12 +227,28 @@ def get_connector(
 
 
     # --------------------------------------------
-    # UBER / ORACLE RECRUITING
+    # UBER
     # --------------------------------------------
 
     if "jobs.uber.com" in url:
 
         return UberConnector(
+            company_name,
+            careers_url
+        )
+
+
+    # --------------------------------------------
+    # ORACLE RECRUITING CANDIDATE EXPERIENCE
+    # Oracle + TI + JPMorgan + American Express
+    # --------------------------------------------
+
+    if (
+        "oraclecloud.com" in url
+        and "/hcmui/candidateexperience/" in url
+    ):
+
+        return OracleConnector(
             company_name,
             careers_url
         )

@@ -1,0 +1,612 @@
+{
+  "companies": [
+    {
+      "name": "HP",
+      "careers_url": "https://jobs.hp.com/",
+      "categories": [
+        "tech",
+        "fortune_500"
+      ],
+      "platform": "Eightfold",
+      "final_url": "https://jobs.hp.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "eightfold.ai",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://hp-sandbox.eightfold.ai/careers",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "EightfoldConnector",
+      "job_count": 117,
+      "unique_job_ids": 117,
+      "sample_jobs": [
+        {
+          "id": "30113559",
+          "title": "PS Strategic Alliances Funding Analytics & Modeling Business Manager",
+          "location": "Hsinchu, Hsinchu City, Taiwan Region | Austin, Texas, United States of America",
+          "url": "https://hp-sandbox.eightfold.ai/careers/job/30113559"
+        },
+        {
+          "id": "30114383",
+          "title": "TEST",
+          "location": "Taipei, Taipei City, Taiwan Region",
+          "url": "https://hp-sandbox.eightfold.ai/careers/job/30114383"
+        },
+        {
+          "id": "26743197",
+          "title": "Cybersecurity Incident Coordinator",
+          "location": "Bangalore, Karnataka, India",
+          "url": "https://hp-sandbox.eightfold.ai/careers/job/26743197"
+        }
+      ]
+    },
+    {
+      "name": "Cadence",
+      "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "categories": [
+        "tech",
+        "semiconductor"
+      ],
+      "platform": "Workday",
+      "evidence": "configured_url",
+      "matched_signature": "myworkdayjobs.com",
+      "final_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "resolved_from": "configured_url",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 572,
+      "unique_job_ids": 572,
+      "sample_jobs": [
+        {
+          "id": "Sr-Application-Engineer-Architect---Technical-Field-Operations_R52816",
+          "title": "Application Engineer, RTL2GDS Sr Director",
+          "location": "SAN JOSE",
+          "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Sr-Application-Engineer-Architect---Technical-Field-Operations_R52816"
+        },
+        {
+          "id": "Principal-Design-Engineer_R49991",
+          "title": "Principal Design Engineer",
+          "location": "HYDERABAD 04",
+          "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HYDERABAD-04/Principal-Design-Engineer_R49991"
+        },
+        {
+          "id": "DFT-Design-Engineer_R55703",
+          "title": "DFT Design Engineer",
+          "location": "2 Locations",
+          "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/DFT-Design-Engineer_R55703"
+        }
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "careers_url": "https://careers.mastercard.com/us/en",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.mastercard.com/us/en",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 1098,
+      "unique_job_ids": 1098,
+      "sample_jobs": [
+        {
+          "id": "Data-Centre-Infrastructure-Apprentice_R-280889",
+          "title": "Data Centre Infrastructure Apprentice",
+          "location": "Dunstable, England (Vocalink)",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dunstable-England-Vocalink/Data-Centre-Infrastructure-Apprentice_R-280889"
+        },
+        {
+          "id": "Manager--People-Business-Partner_R-288339",
+          "title": "Manager, People Business Partner",
+          "location": "Bogota, Colombia",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Bogota-Colombia/Manager--People-Business-Partner_R-288339"
+        },
+        {
+          "id": "Vice-President---Sales-and-Revenue-Operations_R-282069",
+          "title": "Vice President - Sales and Revenue Operations",
+          "location": "Bogota, Colombia (Bldg 978)",
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Bogota-Colombia-Bldg-978/Vice-President---Sales-and-Revenue-Operations_R-282069"
+        }
+      ]
+    },
+    {
+      "name": "Cohere",
+      "careers_url": "https://cohere.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://cohere.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/cohere",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "AshbyConnector",
+      "job_count": 150,
+      "unique_job_ids": 150,
+      "sample_jobs": [
+        {
+          "id": "https://jobs.ashbyhq.com/cohere/cd3eacfe-1169-4df0-8164-93a857d5ddf0",
+          "title": "Revenue Operations Analyst (Analytics)",
+          "location": "New York",
+          "url": "https://jobs.ashbyhq.com/cohere/cd3eacfe-1169-4df0-8164-93a857d5ddf0"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128",
+          "title": "Member of Technical Staff, Modeling",
+          "location": "Remote / London",
+          "url": "https://jobs.ashbyhq.com/cohere/3136a5a5-06fd-4c82-8b72-a43467e6b128"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/cohere/0183bddd-f845-4e7e-af69-e6178cdc32be",
+          "title": "Senior HR Business Partner",
+          "location": "Remote / New York",
+          "url": "https://jobs.ashbyhq.com/cohere/0183bddd-f845-4e7e-af69-e6178cdc32be"
+        }
+      ]
+    },
+    {
+      "name": "Hugging Face",
+      "careers_url": "https://apply.workable.com/huggingface/",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Workable",
+      "evidence": "configured_url",
+      "matched_signature": "workable.com",
+      "final_url": "https://apply.workable.com/huggingface/",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://apply.workable.com/huggingface/",
+      "resolved_from": "configured_url",
+      "connector_test_status": "ready",
+      "connector": "WorkableConnector",
+      "job_count": 7,
+      "unique_job_ids": 7,
+      "sample_jobs": [
+        {
+          "id": "F4C096B22E",
+          "title": "Low-level Senior Software Engineer, Xet Storage - EMEA Remote",
+          "location": "France, Paris, \u00cele-de-France",
+          "url": "https://apply.workable.com/j/F4C096B22E"
+        },
+        {
+          "id": "002470F128",
+          "title": "Low-Level Senior Software Engineer, Xet Storage - US Remote",
+          "location": "United States, New York, New York",
+          "url": "https://apply.workable.com/j/002470F128"
+        },
+        {
+          "id": "81B46579FE",
+          "title": "Open-Source Machine Learning Engineer - EMEA Remote",
+          "location": "France, Paris, \u00cele-de-France",
+          "url": "https://apply.workable.com/j/81B46579FE"
+        }
+      ]
+    },
+    {
+      "name": "Vercel",
+      "careers_url": "https://vercel.com/careers",
+      "categories": [
+        "tech"
+      ],
+      "platform": "Greenhouse",
+      "final_url": "https://vercel.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "greenhouse.io",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://job-boards.greenhouse.io/vercel",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "GreenhouseConnector",
+      "job_count": 83,
+      "unique_job_ids": 83,
+      "sample_jobs": [
+        {
+          "id": "6136160004",
+          "title": "Account Executive, Commercial",
+          "location": "Hybrid - London",
+          "url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
+        },
+        {
+          "id": "5999792004",
+          "title": "Account Executive, Majors",
+          "location": "Hybrid - London",
+          "url": "https://job-boards.greenhouse.io/vercel/jobs/5999792004"
+        },
+        {
+          "id": "5841911004",
+          "title": "Account Executive, Majors (APAC)",
+          "location": "Hybrid - Sydney",
+          "url": "https://job-boards.greenhouse.io/vercel/jobs/5841911004"
+        }
+      ]
+    },
+    {
+      "name": "Replit",
+      "careers_url": "https://replit.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://replit.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/replit",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "AshbyConnector",
+      "job_count": 71,
+      "unique_job_ids": 71,
+      "sample_jobs": [
+        {
+          "id": "https://jobs.ashbyhq.com/replit/2f1de5f1-48c2-4104-a697-a51fe1620508",
+          "title": "Design Engineer",
+          "location": "Remote / Foster City, CA",
+          "url": "https://jobs.ashbyhq.com/replit/2f1de5f1-48c2-4104-a697-a51fe1620508"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1",
+          "title": "Staff Software Engineer, Product",
+          "location": "Remote / Foster City, CA",
+          "url": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/replit/8fbbe594-596a-4a4f-844b-dc00111e717f",
+          "title": "Software Engineer, Mobile",
+          "location": "Remote / Foster City, CA",
+          "url": "https://jobs.ashbyhq.com/replit/8fbbe594-596a-4a4f-844b-dc00111e717f"
+        }
+      ]
+    },
+    {
+      "name": "Cursor",
+      "careers_url": "https://www.cursor.com/careers",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "final_url": "https://cursor.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "ashbyhq.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/cursor",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "AshbyConnector",
+      "job_count": 113,
+      "unique_job_ids": 113,
+      "sample_jobs": [
+        {
+          "id": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+          "title": "Software Engineer, Growth ",
+          "location": "San Francisco",
+          "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+          "title": "Software Engineer, Infrastructure",
+          "location": "San Francisco",
+          "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45",
+          "title": "Software Engineer, Core Services",
+          "location": "San Francisco",
+          "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "careers_url": "https://careers.playstation.com/",
+      "categories": [
+        "gaming",
+        "tech",
+        "creative_tech"
+      ],
+      "platform": "Greenhouse",
+      "final_url": "https://careers.playstation.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "greenhouse.io",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://job-boards.greenhouse.io/pdi",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "GreenhouseConnector",
+      "job_count": 18,
+      "unique_job_ids": 18,
+      "sample_jobs": [
+        {
+          "id": "5589126004",
+          "title": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30a8\u30c7\u30a3\u30bf\u30fc",
+          "location": "Japan, Tokyo",
+          "url": "https://job-boards.greenhouse.io/pdi/jobs/5589126004"
+        },
+        {
+          "id": "5724849004",
+          "title": "\u30c6\u30af\u30cb\u30ab\u30eb\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8",
+          "location": "Japan, Tokyo",
+          "url": "https://job-boards.greenhouse.io/pdi/jobs/5724849004"
+        },
+        {
+          "id": "5589139004",
+          "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+          "location": "Japan, Tokyo",
+          "url": "https://job-boards.greenhouse.io/pdi/jobs/5589139004"
+        }
+      ]
+    },
+    {
+      "name": "Activision",
+      "careers_url": "https://careers.activision.com/",
+      "categories": [
+        "gaming",
+        "tech"
+      ],
+      "platform": "Workday",
+      "final_url": "https://careers.activision.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://xboxgaming.wd1.myworkdayjobs.com/CentralTech",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 3,
+      "unique_job_ids": 3,
+      "sample_jobs": [
+        {
+          "id": "Expert-Threat-Intelligence-Analyst_R027330",
+          "title": "Expert Threat Intelligence Analyst - RICOCHET - Central Technology",
+          "location": "Sherman Oaks - Activision - Ventura Blvd",
+          "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/CentralTech/job/Sherman-Oaks---Activision---Ventura-Blvd/Expert-Threat-Intelligence-Analyst_R027330"
+        },
+        {
+          "id": "Senior-Technical-Program-Manager_R027709",
+          "title": "Senior Technical Program Manager - Central Technology (Temporary)",
+          "location": "Santa Monica",
+          "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/CentralTech/job/Santa-Monica/Senior-Technical-Program-Manager_R027709"
+        },
+        {
+          "id": "Senior-Technical-Product-Manager---Tech-Strategy--Central-Technology_R027470",
+          "title": "Senior Technical Product Manager - Tech Strategy, Central Technology",
+          "location": "2 Locations",
+          "url": "https://xboxgaming.wd1.myworkdayjobs.com/en-US/CentralTech/job/Santa-Monica/Senior-Technical-Product-Manager---Tech-Strategy--Central-Technology_R027470"
+        }
+      ]
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech",
+        "entertainment"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://careers.paramount.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://careers.paramount.com/",
+      "resolved_from": "configured_url",
+      "connector_test_status": "ready",
+      "connector": "SuccessFactorsConnector",
+      "job_count": 294,
+      "unique_job_ids": 294,
+      "sample_jobs": [
+        {
+          "id": "1347887700",
+          "title": "Manager, News Technology Services",
+          "location": "Location New York, NY, US, 10019",
+          "url": "https://careers.paramount.com/job/New-York-Manager%2C-News-Technology-Services-NY-10019/1347887700/"
+        },
+        {
+          "id": "1385650800",
+          "title": "Lead Software Test Engineer",
+          "location": "Location Milan, Milan, IT, 20121",
+          "url": "https://careers.paramount.com/job/Milan-Lead-Software-Test-Engineer-Mila-20121/1385650800/"
+        },
+        {
+          "id": "1394881000",
+          "title": "Production Assistant (Project Based)",
+          "location": "Location Studio City, CA, US, 91604",
+          "url": "https://careers.paramount.com/job/Studio-City-Production-Assistant-%28Project-Based%29-CA-91604/1394881000/"
+        }
+      ]
+    },
+    {
+      "name": "Pixar",
+      "careers_url": "https://www.pixar.com/careers",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "creative_tech",
+        "vfx",
+        "entertainment"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.pixar.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 3,
+      "unique_job_ids": 3,
+      "sample_jobs": [
+        {
+          "id": "On-Call-Chef_R-04142",
+          "title": "On-Call Chef",
+          "location": "Emeryville",
+          "url": "https://pixar.wd501.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/On-Call-Chef_R-04142"
+        },
+        {
+          "id": "Staff-Systems-Engineer--Data-Streaming_R-04128",
+          "title": "Staff Systems Engineer, Data Streaming",
+          "location": "Emeryville",
+          "url": "https://pixar.wd501.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Staff-Systems-Engineer--Data-Streaming_R-04128"
+        },
+        {
+          "id": "Senior-Research-Scientist_R-04102-1",
+          "title": "Senior Research Scientist",
+          "location": "Emeryville",
+          "url": "https://pixar.wd501.myworkdayjobs.com/en-US/Pixar_External_Career_Site/job/Emeryville/Senior-Research-Scientist_R-04102-1"
+        }
+      ]
+    },
+    {
+      "name": "Warner Music Group",
+      "careers_url": "https://www.wmg.com/careers",
+      "categories": [
+        "film_entertainment",
+        "tech",
+        "creative_tech"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.wmg.com/careers",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://wmg.wd1.myworkdayjobs.com/WMGUS",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 63,
+      "unique_job_ids": 63,
+      "sample_jobs": [
+        {
+          "id": "Director--Catalog-Optimization_R-028365",
+          "title": "Director, Catalog Optimization",
+          "location": "USA - Los Angeles - 777 S. Santa Fe Ave",
+          "url": "https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Director--Catalog-Optimization_R-028365"
+        },
+        {
+          "id": "Product-Manager--Commerce-Platform---Channels_R-028329",
+          "title": "Product Manager, Commerce Platform & Channels",
+          "location": "2 Locations",
+          "url": "https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---New-York---1633-Broadway/Product-Manager--Commerce-Platform---Channels_R-028329"
+        },
+        {
+          "id": "Project-Manager--Web-Operations_R-028352",
+          "title": "Project Manager, Web Operations",
+          "location": "2 Locations",
+          "url": "https://wmg.wd1.myworkdayjobs.com/en-US/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Project-Manager--Web-Operations_R-028352"
+        }
+      ]
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "careers_url": "https://careers.boozallen.com/jobs",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "Workday",
+      "final_url": "https://www.boozallen.com/careers.html",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "myworkdayjobs.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
+      "resolved_from": "page_evidence",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 2000,
+      "unique_job_ids": 2000,
+      "sample_jobs": [
+        {
+          "id": "Logistics-Analyst--Senior_R0245156",
+          "title": "Logistics Analyst, Senior",
+          "location": "Honolulu, HI",
+          "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Logistics-Analyst--Senior_R0245156"
+        },
+        {
+          "id": "Systems-Administrator-and-Security-Analyst_R0241858",
+          "title": "Systems Administrator and Security Analyst",
+          "location": "Fort Belvoir, VA",
+          "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Systems-Administrator-and-Security-Analyst_R0241858"
+        },
+        {
+          "id": "System-Integrator_R0246692",
+          "title": "System Integrator",
+          "location": "2 Locations",
+          "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Belcamp-MD/System-Integrator_R0246692"
+        }
+      ]
+    },
+    {
+      "name": "Medtronic",
+      "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "categories": [
+        "tech",
+        "healthcare",
+        "medtech"
+      ],
+      "platform": "Workday",
+      "evidence": "configured_url",
+      "matched_signature": "myworkdayjobs.com",
+      "final_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "resolved_from": "configured_url",
+      "connector_test_status": "ready",
+      "connector": "WorkdayConnector",
+      "job_count": 1080,
+      "unique_job_ids": 1080,
+      "sample_jobs": [
+        {
+          "id": "Remote-Sales-Rep-2--Hanoi-_R74802-1",
+          "title": "Remote Sales Rep 2 (Hanoi)",
+          "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+          "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Remote-Sales-Rep-2--Hanoi-_R74802-1"
+        },
+        {
+          "id": "AI-Workforce-Strategy---Organization-Design-Consultant_R72968-1",
+          "title": "Work & Workforce Evolution Consultant",
+          "location": "Minneapolis, Minnesota, United States of America",
+          "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/AI-Workforce-Strategy---Organization-Design-Consultant_R72968-1"
+        },
+        {
+          "id": "Senior-Customer-Specialist_R70229",
+          "title": "Senior Customer Experience (CX) Specialist",
+          "location": "Buenos Aires, Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+          "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Buenos-Aires-Ciudad-Autnoma-de-Buenos-Aires-Argentina/Senior-Customer-Specialist_R70229"
+        }
+      ]
+    }
+  ]
+}

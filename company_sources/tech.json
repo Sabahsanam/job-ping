@@ -25,6 +25,15 @@
       ]
     },
     {
+      "name": "American Express",
+      "careers_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+      "categories": [
+        "fintech",
+        "fortune_500",
+        "tech"
+      ]
+    },
+    {
       "name": "Autodesk",
       "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
       "categories": [
@@ -42,6 +51,22 @@
       ]
     },
     {
+      "name": "Booz Allen Hamilton",
+      "careers_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
+      "categories": [
+        "consulting",
+        "tech"
+      ]
+    },
+    {
+      "name": "Cadence",
+      "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+      "categories": [
+        "semiconductor",
+        "tech"
+      ]
+    },
+    {
       "name": "Cisco",
       "careers_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers",
       "categories": [
@@ -52,6 +77,14 @@
     {
       "name": "Cloudflare",
       "careers_url": "https://boards.greenhouse.io/cloudflare",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Cohere",
+      "careers_url": "https://jobs.ashbyhq.com/cohere",
       "categories": [
         "ai",
         "tech"
@@ -76,6 +109,14 @@
     {
       "name": "CrowdStrike",
       "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "careers_url": "https://jobs.ashbyhq.com/cursor",
       "categories": [
         "ai",
         "tech"
@@ -137,6 +178,14 @@
       ]
     },
     {
+      "name": "Hugging Face",
+      "careers_url": "https://apply.workable.com/huggingface/",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
       "name": "Instacart",
       "careers_url": "https://boards.greenhouse.io/instacart",
       "categories": [
@@ -161,10 +210,37 @@
       ]
     },
     {
+      "name": "JPMorgan Chase",
+      "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions",
+      "categories": [
+        "fintech",
+        "fortune_500",
+        "tech"
+      ]
+    },
+    {
       "name": "Lyft",
       "careers_url": "https://boards.greenhouse.io/lyft",
       "categories": [
         "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "careers_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+      "categories": [
+        "fintech",
+        "fortune_500",
+        "tech"
+      ]
+    },
+    {
+      "name": "Medtronic",
+      "careers_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+      "categories": [
+        "healthcare",
+        "medtech",
         "tech"
       ]
     },
@@ -217,10 +293,28 @@
       ]
     },
     {
+      "name": "Oracle",
+      "careers_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/requisitions",
+      "categories": [
+        "ai",
+        "fortune_500",
+        "tech"
+      ]
+    },
+    {
       "name": "Palo Alto Networks",
       "careers_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
       "categories": [
         "ai",
+        "tech"
+      ]
+    },
+    {
+      "name": "Paramount",
+      "careers_url": "https://careers.paramount.com/",
+      "categories": [
+        "creative_tech",
+        "film_entertainment",
         "tech"
       ]
     },
@@ -258,6 +352,14 @@
       ]
     },
     {
+      "name": "Replit",
+      "careers_url": "https://jobs.ashbyhq.com/replit",
+      "categories": [
+        "ai",
+        "tech"
+      ]
+    },
+    {
       "name": "Snowflake",
       "careers_url": "https://jobs.ashbyhq.com/snowflake",
       "categories": [
@@ -282,6 +384,14 @@
       ]
     },
     {
+      "name": "Texas Instruments",
+      "careers_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions",
+      "categories": [
+        "semiconductor",
+        "tech"
+      ]
+    },
+    {
       "name": "Twilio",
       "careers_url": "https://boards.greenhouse.io/twilio",
       "categories": [
@@ -292,6 +402,22 @@
       "name": "Uber",
       "careers_url": "https://jobs.uber.com/en/jobs/",
       "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "careers_url": "https://job-boards.greenhouse.io/vercel",
+      "categories": [
+        "tech"
+      ]
+    },
+    {
+      "name": "Warner Music Group",
+      "careers_url": "https://wmg.wd1.myworkdayjobs.com/WMGUS",
+      "categories": [
+        "creative_tech",
+        "film_entertainment",
         "tech"
       ]
     }

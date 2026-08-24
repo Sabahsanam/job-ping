@@ -12,6 +12,27 @@
       ]
     },
     {
+      "name": "DNEG",
+      "careers_url": "https://jobs.jobvite.com/double-negative-visual-effects/jobs",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "vfx",
+        "creative_tech",
+        "ai"
+      ]
+    },
+    {
+      "name": "Framestore",
+      "careers_url": "https://framestore.recruitee.com",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "vfx",
+        "creative_tech"
+      ]
+    },
+    {
       "name": "Netflix",
       "careers_url": "https://netflix.wd108.myworkdayjobs.com/en-US/Netflix",
       "categories": [
@@ -25,13 +46,12 @@
       ]
     },
     {
-      "name": "Sony Pictures Entertainment",
-      "careers_url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment",
+      "name": "Pixar",
+      "careers_url": "https://pixar.wd501.myworkdayjobs.com/Pixar_External_Career_Site",
       "categories": [
-        "film_entertainment",
         "animation",
-        "vfx",
-        "creative_tech"
+        "creative_tech",
+        "film_entertainment"
       ]
     },
     {
@@ -46,25 +66,14 @@
       ]
     },
     {
-  "name": "Framestore",
-  "careers_url": "https://framestore.recruitee.com",
-  "categories": [
-    "film_entertainment",
-    "animation",
-    "vfx",
-    "creative_tech"
-  ]
-},
-{
-  "name": "DNEG",
-  "careers_url": "https://jobs.jobvite.com/double-negative-visual-effects/jobs",
-  "categories": [
-    "film_entertainment",
-    "animation",
-    "vfx",
-    "creative_tech",
-    "ai"
-  ]
-}
+      "name": "Sony Pictures Entertainment",
+      "careers_url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment",
+      "categories": [
+        "film_entertainment",
+        "animation",
+        "vfx",
+        "creative_tech"
+      ]
+    }
   ]
 }

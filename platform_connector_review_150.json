@@ -1,0 +1,105 @@
+{
+  "companies": [
+    {
+      "name": "SAP",
+      "careers_url": "https://jobs.sap.com/",
+      "categories": [
+        "tech",
+        "enterprise"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://jobs.sap.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.sap.com/",
+      "resolved_from": "configured_url",
+      "connector_test_status": "review",
+      "reason": "zero_jobs_returned",
+      "connector": "SuccessFactorsConnector",
+      "job_count": 0
+    },
+    {
+      "name": "Visa",
+      "careers_url": "https://jobs.smartrecruiters.com/Visa",
+      "categories": [
+        "tech",
+        "fintech",
+        "fortune_500"
+      ],
+      "platform": "SmartRecruiters",
+      "evidence": "configured_url",
+      "matched_signature": "smartrecruiters.com",
+      "final_url": "https://jobs.smartrecruiters.com/Visa",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.smartrecruiters.com/Visa",
+      "resolved_from": "configured_url",
+      "connector_test_status": "review",
+      "reason": "zero_jobs_returned",
+      "connector": "SmartRecruitersConnector",
+      "job_count": 0
+    },
+    {
+      "name": "Mistral AI",
+      "careers_url": "https://jobs.lever.co/mistral",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Lever",
+      "evidence": "configured_url",
+      "matched_signature": "lever.co",
+      "final_url": "https://jobs.lever.co/mistral",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.lever.co/mistral",
+      "resolved_from": "configured_url",
+      "connector_test_status": "review",
+      "reason": "zero_jobs_returned",
+      "connector": "LeverConnector",
+      "job_count": 0
+    },
+    {
+      "name": "Weights & Biases",
+      "careers_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "categories": [
+        "tech",
+        "ai"
+      ],
+      "platform": "Ashby",
+      "evidence": "configured_url",
+      "matched_signature": "ashbyhq.com",
+      "final_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "http_status": null,
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://jobs.ashbyhq.com/weightsandbiases",
+      "resolved_from": "configured_url",
+      "connector_test_status": "review",
+      "reason": "connector_fetch_error",
+      "details": "HTTPError('404 Client Error: Not Found for url: https://api.ashbyhq.com/posting-api/job-board/weightsandbiases?includeCompensation=true')",
+      "connector": "AshbyConnector"
+    },
+    {
+      "name": "EY",
+      "careers_url": "https://careers.ey.com/",
+      "categories": [
+        "tech",
+        "consulting"
+      ],
+      "platform": "SAP SuccessFactors",
+      "final_url": "https://careers.ey.com/",
+      "http_status": 200,
+      "evidence": "redirect_or_html",
+      "matched_signature": "successfactors.com",
+      "resolution_status": "ready_for_connector_test",
+      "resolved_platform_url": "https://careers.ey.com/",
+      "resolved_from": "configured_url",
+      "connector_test_status": "review",
+      "reason": "zero_jobs_returned",
+      "connector": "SuccessFactorsConnector",
+      "job_count": 0
+    }
+  ]
+}
