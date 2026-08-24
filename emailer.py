@@ -403,7 +403,7 @@ def send_job_digest(jobs):
         resend.Emails.send({
             "from": (
                 "Job Ping "
-                "<onboarding@resend.dev>"
+               "<jobs@sabahafroz.com>"
             ),
             "to": recipients,
             "subject": subject,
