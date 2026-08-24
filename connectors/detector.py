@@ -18,6 +18,7 @@ from connectors.uber import UberConnector
 from connectors.eightfold import EightfoldConnector
 from connectors.successfactors import SuccessFactorsConnector
 from connectors.oracle import OracleConnector
+from connectors.phenom import PhenomConnector
 
 
 def get_connector(
@@ -275,6 +276,23 @@ def get_connector(
             )
 
         return EightfoldConnector(
+            company_name,
+            careers_url
+        )
+        
+    # --------------------------------------------
+    # PHENOM PEOPLE / CAREERCONNECT
+    # HPE + eBay + Chewy + BCG
+    # --------------------------------------------
+
+    if (
+        "careers.hpe.com" in url
+        or "jobs.ebayinc.com" in url
+        or "careers.chewy.com" in url
+        or "careers.bcg.com" in url
+    ):
+
+        return PhenomConnector(
             company_name,
             careers_url
         )

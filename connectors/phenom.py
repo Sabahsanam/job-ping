@@ -1,4 +1,5 @@
 import base64
+import html
 import json
 import re
 import time
@@ -66,6 +67,7 @@ class PhenomConnector(JobConnector):
             ],
             "extra": {},
         },
+
         "careers.bcg.com": {
             "warmup_path": "/global/en/search-results",
             "page_id": "page17-ds",
@@ -87,6 +89,44 @@ class PhenomConnector(JobConnector):
                 "irs": False,
                 "locationData": {},
             },
+        },
+
+        "jobs.ebayinc.com": {
+            "warmup_path": "/us/en/search-results",
+            "page_id": "page15",
+            "page_name": "search-results",
+            "page_type": "default",
+            "ref_num": "EBAEBAUS",
+            "lang": "en_us",
+            "locale": "us",
+            "page_size": 100,
+            "all_fields": [
+                "category",
+                "country",
+                "state",
+                "city",
+                "type",
+            ],
+            "extra": {},
+        },
+
+        "careers.chewy.com": {
+            "warmup_path": "/us/en/search-results",
+            "page_id": "page13",
+            "page_name": "search-results",
+            "page_type": "default",
+            "ref_num": "CHINUS",
+            "lang": "en_us",
+            "locale": "us",
+            "page_size": 100,
+            "all_fields": [
+                "category",
+                "country",
+                "state",
+                "city",
+                "type",
+            ],
+            "extra": {},
         },
     }
 
@@ -203,6 +243,7 @@ class PhenomConnector(JobConnector):
     def _find_jobs_list(cls, obj):
         if isinstance(obj, dict):
             for key, value in obj.items():
+
                 if (
                     key == "jobs"
                     and isinstance(value, list)
@@ -216,6 +257,7 @@ class PhenomConnector(JobConnector):
 
         elif isinstance(obj, list):
             for item in obj:
+
                 found = cls._find_jobs_list(item)
 
                 if found:
@@ -226,6 +268,7 @@ class PhenomConnector(JobConnector):
     @classmethod
     def _find_total(cls, obj):
         if isinstance(obj, dict):
+
             for key in (
                 "totalHits",
                 "total",
@@ -238,13 +281,16 @@ class PhenomConnector(JobConnector):
                     return value
 
             for value in obj.values():
+
                 found = cls._find_total(value)
 
                 if found is not None:
                     return found
 
         elif isinstance(obj, list):
+
             for item in obj:
+
                 found = cls._find_total(item)
 
                 if found is not None:
@@ -295,14 +341,21 @@ class PhenomConnector(JobConnector):
         if raw_id is None:
             return None
 
+        parser = (
+            job.get("ml_job_parser")
+            or {}
+        )
+
         description = (
             job.get("descriptionTeaser")
-            or (
-                job.get("ml_job_parser") or {}
-            ).get("descriptionTeaser")
-            or (
-                job.get("ml_job_parser") or {}
-            ).get("descriptionTeaser_ats")
+            or parser.get("descriptionTeaser")
+            or parser.get("descriptionTeaser_ats")
+            or ""
+        )
+
+        raw_url = (
+            job.get("jobUrl")
+            or job.get("applyUrl")
             or ""
         )
 
@@ -311,11 +364,7 @@ class PhenomConnector(JobConnector):
             "company": self.company_name,
             "title": job.get("title", ""),
             "location": self._location(job),
-            "url": (
-                job.get("jobUrl")
-                or job.get("applyUrl")
-                or ""
-            ),
+            "url": html.unescape(raw_url),
             "description": description,
             "source": "phenom",
         }
@@ -347,6 +396,7 @@ class PhenomConnector(JobConnector):
         jobs_by_id = {}
 
         while True:
+
             candidates = (
                 [working_ddo]
                 if working_ddo
@@ -357,6 +407,7 @@ class PhenomConnector(JobConnector):
             total = None
 
             for ddo_key in candidates:
+
                 response = session.post(
                     widgets_url,
                     headers=headers,
@@ -368,10 +419,16 @@ class PhenomConnector(JobConnector):
                 )
 
                 response.raise_for_status()
+
                 data = response.json()
 
-                raw_jobs = self._find_jobs_list(data)
-                total = self._find_total(data)
+                raw_jobs = self._find_jobs_list(
+                    data
+                )
+
+                total = self._find_total(
+                    data
+                )
 
                 if raw_jobs:
                     working_ddo = ddo_key
@@ -381,19 +438,31 @@ class PhenomConnector(JobConnector):
                 break
 
             for raw_job in raw_jobs:
-                job = self._normalize_job(raw_job)
+
+                job = self._normalize_job(
+                    raw_job
+                )
 
                 if job:
-                    jobs_by_id[job["id"]] = job
+                    jobs_by_id[
+                        job["id"]
+                    ] = job
 
             offset += page_size
 
-            if total is not None and offset >= total:
+            if (
+                total is not None
+                and offset >= total
+            ):
                 break
 
             if len(raw_jobs) < page_size:
                 break
 
-            time.sleep(self.PAGE_PAUSE)
+            time.sleep(
+                self.PAGE_PAUSE
+            )
 
-        return list(jobs_by_id.values())
+        return list(
+            jobs_by_id.values()
+        )
