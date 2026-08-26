@@ -663,7 +663,8 @@
   "Nintendo": [
     "4251061009",
     "4101175009",
-    "4341082009"
+    "4341082009",
+    "4371239009"
   ],
   "Riot Games": [
     "REQ-0010088"
@@ -801,7 +802,8 @@
     "79813",
     "91409",
     "88738",
-    "87926"
+    "87926",
+    "87571"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1029,7 +1031,8 @@
     "1970393556641776",
     "1970393556928778",
     "1970393556977374",
-    "1970393556961254"
+    "1970393556961254",
+    "1970393556868734"
   ],
   "MongoDB": [
     "8106084"
@@ -1251,7 +1254,8 @@
     "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74",
     "https://jobs.ashbyhq.com/snowflake/e39a441a-07e4-4ea3-a687-b483007deb94",
     "https://jobs.ashbyhq.com/snowflake/4fe8d816-0453-4d63-ae0a-2085a5a49101",
-    "https://jobs.ashbyhq.com/snowflake/ae3a901e-a759-4c47-8132-e78b4d88095d"
+    "https://jobs.ashbyhq.com/snowflake/ae3a901e-a759-4c47-8132-e78b4d88095d",
+    "https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d"
   ],
   "Stripe": [
     "8084195",
@@ -1738,7 +1742,10 @@
     "Crisis-Response-and-Security-Program-Analyst_R0247791",
     "AI-ML-Engineer-and-Data-Scientist_R0241401",
     "Digital-Engineer_R0246702-1",
-    "Technical-Business-Analyst_R0246110"
+    "Technical-Business-Analyst_R0246110",
+    "Operational-Technology-AI-Engineer_R0247527",
+    "Data-Scientist_R0248011-1",
+    "Full-Stack-Linux-Cyber-Application-Developer_R0231586"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -1871,7 +1878,10 @@
     "210783301",
     "210765133",
     "210784914",
-    "210772645"
+    "210772645",
+    "210745587",
+    "210782529",
+    "210784887"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -1919,7 +1929,9 @@
     "343593",
     "336199",
     "341384",
-    "342348"
+    "342348",
+    "342039",
+    "343874"
   ],
   "Paramount": [
     "1385076300",
@@ -2007,7 +2019,8 @@
     "R0076483",
     "R0076582",
     "R0073561",
-    "R0074586"
+    "R0074586",
+    "R0076678"
   ],
   "HPE": [
     "1209874",
@@ -2064,6 +2077,7 @@
     "1206283",
     "1211347",
     "1210659",
-    "1212916"
+    "1212916",
+    "1211968"
   ]
 }
