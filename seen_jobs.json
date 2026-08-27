@@ -137,7 +137,10 @@
     "Data-Scientist_2023096",
     "Project-Manager_2017848-1",
     "Site-Reliability-Engineer_2021549",
-    "Software-Engineer---Security-Content_2020620"
+    "Software-Engineer---Security-Content_2020620",
+    "Cloud-Engineer_2024063",
+    "Software-Engineer_2019428",
+    "Software-Engineer_2019484-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -1747,7 +1750,14 @@
     "Technical-Business-Analyst_R0246110",
     "Operational-Technology-AI-Engineer_R0247527",
     "Data-Scientist_R0248011-1",
-    "Full-Stack-Linux-Cyber-Application-Developer_R0231586"
+    "Full-Stack-Linux-Cyber-Application-Developer_R0231586",
+    "Data-Engineer_R0247987",
+    "DevOps-Engineer_R0248009",
+    "Cyber-Machine-Learning-Engineer_R0245521",
+    "University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+    "University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+    "University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -1787,7 +1797,8 @@
     "https://jobs.ashbyhq.com/cursor/1910bd0e-806c-4e60-bfd6-157e369d6d02",
     "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5",
     "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff",
-    "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330"
+    "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330",
+    "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
   ],
   "Hugging Face": [
     "19A136F8E2"
@@ -2082,6 +2093,7 @@
     "1211347",
     "1210659",
     "1212916",
-    "1211968"
+    "1211968",
+    "1208691"
   ]
 }
