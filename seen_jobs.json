@@ -140,7 +140,12 @@
     "Software-Engineer---Security-Content_2020620",
     "Cloud-Engineer_2024063",
     "Software-Engineer_2019428",
-    "Software-Engineer_2019484-1"
+    "Software-Engineer_2019484-1",
+    "Engineering-Project-Manager_2021813",
+    "Software-Developer--Data---Integrations--Sales-GTM---AI-Operations_2022115-1",
+    "Engineering-Project-Manager_2021821",
+    "Software-Engineer_2021810",
+    "Software-Engineer_2023271"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -175,7 +180,9 @@
     "Software-Engineer-II---Data-Ingestion---Data-Store_10141160-1",
     "Lead-Software-Engineer_10133915-1",
     "Product-Manager_10157429",
-    "Software-Engineer-II_10143787-2"
+    "Software-Engineer-II_10143787-2",
+    "Associate-Production-Engineer_10154338",
+    "Associate-Project-Manager--Project-Hire-Internal-Assignment-_10157888"
   ],
   "Spotify": [
     "a0fa7da3-4c3c-4fa2-97bd-7d6eb01eb9e5",
@@ -608,7 +615,8 @@
     "Software-Engineer--L5----Cloud-Games-Platform_AJRT29587",
     "Inference-Specialist--Creative-Technology---InterPositive_JR40620",
     "Solutions-Engineer---Finance-Technology_JR41678",
-    "Program-Manager---Systems--Workflows---Technology_JR29213"
+    "Program-Manager---Systems--Workflows---Technology_JR29213",
+    "Product-Manager---Localization-Innovation_JR42344"
   ],
   "Framestore": [
     "2693076",
@@ -806,14 +814,18 @@
     "91409",
     "88738",
     "87926",
-    "87571"
+    "87571",
+    "91074",
+    "91076",
+    "85759"
   ],
   "ATLUS / SEGA of America": [
     "196629"
   ],
   "Block": [
     "5195926008",
-    "4901418008"
+    "4901418008",
+    "5398149008"
   ],
   "Cloudflare": [],
   "Confluent": [],
@@ -867,7 +879,8 @@
     "8698314002",
     "8698330002",
     "8644569002",
-    "8618795002"
+    "8618795002",
+    "8685082002"
   ],
   "Instacart": [
     "7976934"
@@ -1037,7 +1050,15 @@
     "1970393556961254",
     "1970393556868734",
     "1970393556943247",
-    "1970393556980966"
+    "1970393556980966",
+    "1970393556979559",
+    "1970393556936646",
+    "1970393556972217",
+    "1970393556859432",
+    "1970393556926920",
+    "1970393556972134",
+    "1970393556978461",
+    "1970393556956404"
   ],
   "MongoDB": [
     "8106084"
@@ -1163,7 +1184,8 @@
     "7958766",
     "4916795",
     "4813946",
-    "7782546"
+    "7782546",
+    "8162046"
   ],
   "Qualcomm": [
     "446720601831",
@@ -1248,7 +1270,8 @@
     "446720651924",
     "446720708556",
     "446720709389",
-    "446720738768"
+    "446720738768",
+    "446720765005"
   ],
   "Scopely": [
     "5301857008"
@@ -1757,7 +1780,18 @@
     "University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
     "University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
     "University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
-    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037"
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+    "Full-Stack-Software-Engineer--Junior_R0248060",
+    "Data-Scientist_R0247943",
+    "Business-Analyst--Junior_R0248093",
+    "Scientific-Software-Engineer_R0248082",
+    "AI-Software-Developer--Junior_R0248284",
+    "University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+    "IT-Program-Manager_R0248147",
+    "Systems-Engineer_R0248024",
+    "University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+    "Systems-Engineer_R0248023",
+    "Data-Engineer_R0241347"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -1894,7 +1928,10 @@
     "210772645",
     "210745587",
     "210782529",
-    "210784887"
+    "210784887",
+    "210752932",
+    "210760311",
+    "210778029"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -1945,7 +1982,10 @@
     "342348",
     "342039",
     "343874",
-    "343962"
+    "343962",
+    "342848",
+    "344094",
+    "341711"
   ],
   "Paramount": [
     "1385076300",
@@ -2016,7 +2056,8 @@
     "R29873",
     "R30670",
     "R29253",
-    "R30681"
+    "R30681",
+    "R30636"
   ],
   "eBay": [
     "R0074017",
