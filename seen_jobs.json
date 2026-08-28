@@ -182,7 +182,9 @@
     "Product-Manager_10157429",
     "Software-Engineer-II_10143787-2",
     "Associate-Production-Engineer_10154338",
-    "Associate-Project-Manager--Project-Hire-Internal-Assignment-_10157888"
+    "Associate-Project-Manager--Project-Hire-Internal-Assignment-_10157888",
+    "Software-Engineer--PH-_10158403-1",
+    "Software-Engineer-II--Cloud-Platform-AWS-_10157289-2"
   ],
   "Spotify": [
     "a0fa7da3-4c3c-4fa2-97bd-7d6eb01eb9e5",
@@ -817,7 +819,8 @@
     "87571",
     "91074",
     "91076",
-    "85759"
+    "85759",
+    "90963"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1058,7 +1061,13 @@
     "1970393556926920",
     "1970393556972134",
     "1970393556978461",
-    "1970393556956404"
+    "1970393556956404",
+    "1970393556971599",
+    "1970393556654629",
+    "1970393556912927",
+    "1970393556978427",
+    "1970393556982128",
+    "1970393556981939"
   ],
   "MongoDB": [
     "8106084"
@@ -1271,7 +1280,8 @@
     "446720708556",
     "446720709389",
     "446720738768",
-    "446720765005"
+    "446720765005",
+    "446720729799"
   ],
   "Scopely": [
     "5301857008"
@@ -1792,7 +1802,17 @@
     "Systems-Engineer_R0248024",
     "University--2027-Summer-Games-Software-Developer-Intern_R0248029",
     "Systems-Engineer_R0248023",
-    "Data-Engineer_R0241347"
+    "Data-Engineer_R0241347",
+    "Software-Developer_R0248163",
+    "AI-Software-Developer-Intern_R0248115",
+    "University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
+    "University--2027-Summer-Games-Data-Scientist-Intern_R0248132",
+    "University---2027-Summer-Games-Data-Scientist-Intern_R0248137",
+    "University---2027-Summer-Games-Software-Developer-Intern_R0248134",
+    "University--2027-Summer-Games-Data-Scientist-Intern_R0248143",
+    "University--2027-Summer-Games-Software-Developer-Intern_R0248141",
+    "University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
+    "University--2027-Summer-Games-Software-Developer-Intern_R0248130"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -1932,7 +1952,8 @@
     "210784887",
     "210752932",
     "210760311",
-    "210778029"
+    "210778029",
+    "210785778"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -1959,7 +1980,9 @@
     "Strategic-Technology-Consultant_R70453-1",
     "Project-Coordinator-II---Facilities_R75163-1",
     "BP-Program-Manager---LP_R74785-2",
-    "MedSurg-CPQ-Product-Owner_R72425-1"
+    "MedSurg-CPQ-Product-Owner_R72425-1",
+    "Product-Owner---Digital-Health--Acute-Care-and-Monitoring-_R75158",
+    "Business-Analyst---Digital-Health--Acute-Care-and-Monitoring-_R76136-1"
   ],
   "Oracle": [
     "335848",
@@ -2027,7 +2050,8 @@
     "25016314",
     "25016562",
     "25016766",
-    "25016761"
+    "25016761",
+    "25017491"
   ],
   "Vercel": [
     "6020852004",
