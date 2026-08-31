@@ -147,7 +147,9 @@
     "Software-Engineer_2021810",
     "Software-Engineer_2023271",
     "Solutions-Engineer-US-Commercial--Los-Angeles_2023319",
-    "Solutions-Engineer---SLED_2023582"
+    "Solutions-Engineer---SLED_2023582",
+    "Business-Systems-Analyst_2022712-1",
+    "OpenStack-Platform-Engineer_2024061"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -519,7 +521,8 @@
     "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
     "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
     "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
-    "https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751"
+    "https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751",
+    "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6"
   ],
   "Deel": [],
   "Baseten": [],
@@ -712,7 +715,8 @@
     "6101023004",
     "5806762004",
     "6119793004",
-    "6145057004"
+    "6145057004",
+    "6149266004"
   ],
   "Take-Two Interactive": [
     "8075054",
@@ -826,7 +830,9 @@
     "90963",
     "91393",
     "91612",
-    "91184"
+    "91184",
+    "91312",
+    "91544"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -849,7 +855,8 @@
     "Regional-Sales-Engineer--NG-SIEM---Healthcare--Remote-_R29381",
     "Regional-Sales-Engineer--NG-SIEM----Remote-_R28064-1",
     "Salesforce-Business-Systems-Analyst--Quote-to-Cash--Remote-_R29883",
-    "GovCloud-Data-Infrastructure-Engineer--Remote-_R29607"
+    "GovCloud-Data-Infrastructure-Engineer--Remote-_R29607",
+    "Corporate-Sales-Engineer--Pre-Sales--Remote-_R29127"
   ],
   "Datadog": [
     "8053714",
@@ -1081,7 +1088,12 @@
     "1970393556982924",
     "1970393556982925",
     "1970393556971597",
-    "1970393556960466"
+    "1970393556960466",
+    "1970393556972769",
+    "1970393556981198",
+    "1970393556982690",
+    "1970393556957655",
+    "1970393556939564"
   ],
   "MongoDB": [
     "8106084"
@@ -1188,7 +1200,8 @@
     "Software-Engineer_JR-011504",
     "Software-Engineer_JR-011506",
     "Partner-Solutions-Architect_JR-021038",
-    "Systems-Engineer---SLED---Illinois_JR-021010"
+    "Systems-Engineer---SLED---Illinois_JR-021010",
+    "Solutions-Consultant-2_JR-019215"
   ],
   "PayPal": [
     "274921849526",
@@ -1295,7 +1308,10 @@
     "446720709389",
     "446720738768",
     "446720765005",
-    "446720729799"
+    "446720729799",
+    "446720833907",
+    "446720880729",
+    "446720882663"
   ],
   "Scopely": [
     "5301857008"
@@ -1402,7 +1418,10 @@
     "26012561",
     "26007827",
     "26010568",
-    "26011766"
+    "26011766",
+    "26011091",
+    "26011281",
+    "26013348"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -1832,7 +1851,30 @@
     "Data-Governance-and-Metadata-Scientist_R0248208",
     "ICAM-Product-Manager_R0248007",
     "C---Software-Engineer--Junior_R0240412",
-    "C---Software-Engineer--Junior_R0241788"
+    "C---Software-Engineer--Junior_R0241788",
+    "Full-Stack-Software-Developer--Junior_R0248357",
+    "Defense-Systems-Analyst-and-Engineer_R0247677",
+    "Software-Engineer--Mid_R0248250",
+    "Full-Stack-Developer--Mid_R0248296",
+    "Program-Analyst_R0247367",
+    "Data-Analyst--Junior_R0246709",
+    "Business-Analyst_R0248298",
+    "Back-End-Software-Engineer_R0241005",
+    "Model-Based-Systems-Engineer_R0248340",
+    "Systems-Engineer--Mid_R0242099",
+    "Web-Developer-Full-Stack-Engineer_R0248241",
+    "Web-Developer-Full-Stack-Engineer_R0248251",
+    "Clinical-Informatics-Systems-Product-Manager_R0248328",
+    "Data-Scientist--Mid_R0248497",
+    "Data-Scientist--Mid_R0248496",
+    "Data-Scientist--Mid_R0248279",
+    "Web-Application-Developer_R0248490",
+    "Cloud-Developer_R0248487",
+    "Cloud-Developer_R0248484-1",
+    "AI-ML-Engineer_R0241767",
+    "AI-Model-SME_R0241835",
+    "Cloud-Developer_R0248482",
+    "Naval-Program-Analyst_R0248311"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -1873,7 +1915,8 @@
     "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5",
     "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff",
     "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330",
-    "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
+    "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
+    "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5"
   ],
   "Hugging Face": [
     "19A136F8E2"
@@ -1976,7 +2019,8 @@
     "210785778",
     "210777488",
     "210784873",
-    "210785808"
+    "210785808",
+    "210775259"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -1995,7 +2039,8 @@
     "Site-Reliability-Engineer-II_R-278584",
     "Software-Engineer-II_R-273060",
     "Software-Engineer-II_R-288256",
-    "Software-Engineer-II_R-288575"
+    "Software-Engineer-II_R-288575",
+    "Data-Engineer-II_R-289305"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -2037,7 +2082,8 @@
     "343883",
     "343934",
     "343935",
-    "344155"
+    "344155",
+    "344031"
   ],
   "Paramount": [
     "1385076300",
@@ -2076,7 +2122,8 @@
     "25016562",
     "25016766",
     "25016761",
-    "25017491"
+    "25017491",
+    "25017306"
   ],
   "Vercel": [
     "6020852004",
@@ -2110,7 +2157,8 @@
     "R30670",
     "R29253",
     "R30681",
-    "R30636"
+    "R30636",
+    "R30754"
   ],
   "eBay": [
     "R0074017",
@@ -2130,7 +2178,8 @@
     "R0073561",
     "R0074586",
     "R0076678",
-    "R0076343"
+    "R0076343",
+    "R0075646"
   ],
   "HPE": [
     "1209874",
@@ -2197,6 +2246,7 @@
     "1213628",
     "1212359",
     "1210802",
-    "1210423"
+    "1210423",
+    "1211928"
   ]
 }
