@@ -834,7 +834,11 @@
     "91184",
     "91312",
     "91544",
-    "91502"
+    "91502",
+    "91867",
+    "91866",
+    "91865",
+    "91864"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1106,7 +1110,8 @@
     "1970393556922929",
     "1970393556972687",
     "1970393556972698",
-    "1970393556951950"
+    "1970393556951950",
+    "1970393556927648"
   ],
   "MongoDB": [
     "8106084"
@@ -1327,7 +1332,8 @@
     "446720882663"
   ],
   "Scopely": [
-    "5301857008"
+    "5301857008",
+    "5374032008"
   ],
   "Snowflake": [
     "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995",
@@ -1442,7 +1448,8 @@
     "26012333",
     "26012339",
     "26012764",
-    "26012781"
+    "26012781",
+    "26013217"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -1902,7 +1909,15 @@
     "Web-Application-Developer_R0248558",
     "University---Data-Engineer_R0248336",
     "AFSIM-Systems-Engineer_R0248376",
-    "Infrastructure-Solutions-Architect_R0248375"
+    "Infrastructure-Solutions-Architect_R0248375",
+    "DevOps-Engineer_R0240746",
+    "DevOps-Engineer_R0239406",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2048,7 +2063,9 @@
     "210777488",
     "210784873",
     "210785808",
-    "210775259"
+    "210775259",
+    "210780792",
+    "210786153"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
