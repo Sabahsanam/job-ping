@@ -225,7 +225,8 @@
     "8070574",
     "8013948",
     "8013892",
-    "8056065"
+    "8056065",
+    "8177619"
   ],
   "Reddit": [
     "7792848",
@@ -634,14 +635,16 @@
     "Inference-Specialist--Creative-Technology---InterPositive_JR40620",
     "Solutions-Engineer---Finance-Technology_JR41678",
     "Program-Manager---Systems--Workflows---Technology_JR29213",
-    "Product-Manager---Localization-Innovation_JR42344"
+    "Product-Manager---Localization-Innovation_JR42344",
+    "Product-Manager---Employee-Support---Knowledge_JR42409"
   ],
   "Framestore": [
     "2693076",
     "2672837",
     "513993",
     "513398",
-    "513371"
+    "513371",
+    "2733837"
   ],
   "Skydance": [],
   "DNEG": [
@@ -854,7 +857,9 @@
     "91414",
     "91464",
     "85335",
-    "91743"
+    "91743",
+    "88676",
+    "89874"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -943,7 +948,8 @@
     "EDA-Tools-Software-Engineer_JR0286599",
     "AI-Solutions-Engineering-Graduate-Intern_JR0286546",
     "Package-Assembly-Process-Development-Integration-Engineer_JR0286724",
-    "Quantum-Error-Correction-Software-Engineer_JR0286851"
+    "Quantum-Error-Correction-Software-Engineer_JR0286851",
+    "GPU-Software-Development-Engineer_JR0283073"
   ],
   "Intuit": [
     "99513472784",
@@ -2036,7 +2042,12 @@
     "Technical-Baseline-Systems-Engineer_R0248561",
     "Data-Scientist--Mid_R0248609",
     "Human-Spaceflight-Systems-Engineer_R0248471",
-    "Software-and-Systems-Engineer--Mid_R0248533"
+    "Software-and-Systems-Engineer--Mid_R0248533",
+    "Solutions-Architect_R0241295",
+    "Applied-Data-Scientist_R0242962",
+    "Data-Scientist--Mid_R0243027",
+    "Data-Engineer_R0248636",
+    "DevSecOps-Platform-Engineer_R0248610"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2196,7 +2207,8 @@
     "210785461",
     "210722250",
     "210787348",
-    "210785076"
+    "210785076",
+    "210787851"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -2268,7 +2280,8 @@
     "344255",
     "344360",
     "344376",
-    "344446"
+    "344446",
+    "344454"
   ],
   "Paramount": [
     "1385076300",
@@ -2332,7 +2345,9 @@
     "6105394004",
     "5806749004"
   ],
-  "Warner Music Group": [],
+  "Warner Music Group": [
+    "Data-Scientist_R-028038"
+  ],
   "Boston Consulting Group": [
     "59067",
     "58332",
@@ -2360,7 +2375,8 @@
     "R30754",
     "R30695",
     "R30757",
-    "R30720"
+    "R30720",
+    "R30760"
   ],
   "eBay": [
     "R0074017",
@@ -2381,7 +2397,8 @@
     "R0074586",
     "R0076678",
     "R0076343",
-    "R0075646"
+    "R0075646",
+    "R0075757"
   ],
   "HPE": [
     "1209874",
