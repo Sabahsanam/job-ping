@@ -304,7 +304,9 @@
     "8716222002",
     "8772592002",
     "8772594002",
-    "8772571002"
+    "8772571002",
+    "8689127002",
+    "8688633002"
   ],
   "Anthropic": [
     "5057647008",
@@ -1172,7 +1174,10 @@
     "1970393556988180",
     "1970393556988069",
     "1970393556984128",
-    "1970393556988234"
+    "1970393556988234",
+    "1970393556981268",
+    "1970393556986124",
+    "1970393556983003"
   ],
   "MongoDB": [
     "8106084"
@@ -1282,7 +1287,8 @@
     "Systems-Engineer---SLED---Illinois_JR-021010",
     "Solutions-Consultant-2_JR-019215",
     "Solutions-Consultant---Healthcare_JR-022033",
-    "Strategic-Program-Manager--US-Federal-Government_JR-021893"
+    "Strategic-Program-Manager--US-Federal-Government_JR-021893",
+    "Partner-Development-Manager_JR-022116"
   ],
   "PayPal": [
     "274921849526",
@@ -1290,7 +1296,9 @@
     "274921701755",
     "274921665911",
     "274920235215",
-    "274920488372"
+    "274920488372",
+    "274922260562",
+    "274921995088"
   ],
   "Pinterest": [
     "7816424",
@@ -2067,7 +2075,21 @@
     "AI-Systems-Analyst_R0248681",
     "Software-Engineer_R0248625",
     "Data-Scientist--Mid_R0248679",
-    "Bioinformatics-Business-Analyst_R0244789"
+    "Bioinformatics-Business-Analyst_R0244789",
+    "Installation-Project-Coordinator_R0248775",
+    "Cloud-Engineer_R0248767",
+    "Cloud-Engineer_R0248764",
+    "SAFe-Agile-Product-Owner_R0248771",
+    "Cloud-Engineer--Mid_R0248762",
+    "Data-Scientist-Mid_R0248760",
+    "Palantir-Data-Engineer_R0248747",
+    "Model-Based-Systems-Engineer_R0248755",
+    "Installation-Project-Coordinator_R0248730",
+    "Installation-Project-Coordinator_R0248735",
+    "Installation-Project-Coordinator_R0248736",
+    "Installation-Project-Coordinator_R0248737",
+    "Data-Scientist_R0248723",
+    "Infrastructure-Cloud-Engineer--Mid_R0236921"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2229,7 +2251,9 @@
     "210787348",
     "210785076",
     "210787851",
-    "210787525"
+    "210787525",
+    "210736805",
+    "210765778"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -2361,7 +2385,10 @@
     "25017589",
     "25017590",
     "25017591",
-    "25017556"
+    "25017556",
+    "25016760",
+    "25016807",
+    "25017705"
   ],
   "Vercel": [
     "6020852004",
