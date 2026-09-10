@@ -562,7 +562,8 @@
     "https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6",
     "https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69",
     "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
-    "https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732"
+    "https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732",
+    "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1244,7 +1245,8 @@
     "1970393556986872",
     "1970393556988079",
     "1970393556918535",
-    "1970393556938830"
+    "1970393556938830",
+    "1970393556979106"
   ],
   "MongoDB": [
     "8106084"
@@ -1486,7 +1488,8 @@
     "446720761569",
     "446721016647",
     "446721016651",
-    "446720988289"
+    "446720988289",
+    "446721041627"
   ],
   "Scopely": [
     "5301857008",
@@ -2242,7 +2245,14 @@
     "DevOps-Engineer_R0248086",
     "Software-Engineer_R0249127",
     "AI-Data-Analyst_R0249104",
-    "Foreign-Military-Sales-Program-Analyst_R0249356"
+    "Foreign-Military-Sales-Program-Analyst_R0249356",
+    "Cloud-Engineer_R0249204",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188",
+    "Observability-Pipeline-Engineer_R0249177",
+    "SOAR-Engineer_R0249168",
+    "C2-Solutions-Architect_R0241434",
+    "Software-Engineer_R0249159",
+    "Azure-Cloud-Engineer_R0249135-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2571,7 +2581,9 @@
     "25017577",
     "25017860",
     "25016599",
-    "25017617"
+    "25017617",
+    "25013797",
+    "25017890"
   ],
   "Vercel": [
     "6020852004",
