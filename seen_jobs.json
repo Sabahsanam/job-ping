@@ -68,7 +68,8 @@
     "Product-Manager_R170492",
     "The-Experience-Developer_R168315",
     "Product-Manager---Business-Model-Strategy_R169989",
-    "Machine-Learning-Engineer_R171645-1"
+    "Machine-Learning-Engineer_R171645-1",
+    "AI-Solutions-Architect--Business-Process-Optimization_R171355"
   ],
   "Cisco": [
     "Leader--Technical-Systems-Engineering_2018809-1",
@@ -893,7 +894,10 @@
     "89874",
     "91943",
     "87209",
-    "91909"
+    "91909",
+    "92050",
+    "92051",
+    "92045"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1239,7 +1243,8 @@
     "1970393556983220",
     "1970393556986872",
     "1970393556988079",
-    "1970393556918535"
+    "1970393556918535",
+    "1970393556938830"
   ],
   "MongoDB": [
     "8106084"
@@ -2228,7 +2233,16 @@
     "Business-Analyst_R0238179",
     "Data-Scientist--Mid_R0249109",
     "Palantir-Software-Engineer_R0249080",
-    "Technical-Business-Analyst_R0249092"
+    "Technical-Business-Analyst_R0249092",
+    "Data-Scientist--Mid_R0248483",
+    "AI-ML-Engineer-and-Data-Scientist_R0248874",
+    "DevOps-Engineer_R0249157",
+    "DevOps-Engineer_R0249158",
+    "DevOps-Engineer_R0249154",
+    "DevOps-Engineer_R0248086",
+    "Software-Engineer_R0249127",
+    "AI-Data-Analyst_R0249104",
+    "Foreign-Military-Sales-Program-Analyst_R0249356"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2273,7 +2287,8 @@
     "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330",
     "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
     "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
-    "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+    "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
   ],
   "Hugging Face": [
     "19A136F8E2"
@@ -2555,7 +2570,8 @@
     "25017573",
     "25017577",
     "25017860",
-    "25016599"
+    "25016599",
+    "25017617"
   ],
   "Vercel": [
     "6020852004",
