@@ -168,7 +168,8 @@
     "Solutions-Engineer-US-Commercial--North-Florida-Select_2024387",
     "Engineering-Product-Manager--Remote-_2023098",
     "Solutions-Engineer---Global-Enterprise-Sales--Las-Vegas_2020438",
-    "Solutions-Engineer---Global-Enterprise-Sales--San-Diego_2020605-1"
+    "Solutions-Engineer---Global-Enterprise-Sales--San-Diego_2020605-1",
+    "Solutions-Engineer_2021302-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -326,7 +327,9 @@
     "8772594002",
     "8772571002",
     "8689127002",
-    "8688633002"
+    "8688633002",
+    "8767726002",
+    "8797837002"
   ],
   "Anthropic": [
     "5057647008",
@@ -566,7 +569,9 @@
     "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
     "https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732",
     "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
-    "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1"
+    "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
+    "https://jobs.ashbyhq.com/openai/b15442c5-8e3c-4370-9abf-4b9c63f56de0",
+    "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115"
   ],
   "Deel": [],
   "Baseten": [],
@@ -904,7 +909,9 @@
     "92050",
     "92051",
     "92045",
-    "92312"
+    "92312",
+    "88548",
+    "91512"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -948,7 +955,8 @@
   ],
   "Discord": [
     "8545663002",
-    "8642220002"
+    "8642220002",
+    "8642213002"
   ],
   "Dropbox": [
     "8106224"
@@ -2268,7 +2276,14 @@
     "Azure-Cloud-Engineer_R0249135-1",
     "Data-Analyst_R0249069",
     "Cloud-Engineer_R0249215",
-    "Solutions-Architect_R0246250"
+    "Solutions-Architect_R0246250",
+    "Data-Scientist--Mid_R0249243",
+    "Solutions-Architect_R0249265",
+    "DevOps-Cloud-Engineer_R0248910-1",
+    "Software-Engineer_R0249465",
+    "Geospatial-Data-Analyst_R0248238",
+    "Zero-Trust-Program-Manager_R0241164",
+    "University---Summer-2027--Software-Engineer-Intern_R0249225"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2536,7 +2551,14 @@
     "341678",
     "340151",
     "344718",
-    "344906"
+    "344906",
+    "345223",
+    "339343",
+    "341960",
+    "343394",
+    "343393",
+    "344334",
+    "344705"
   ],
   "Paramount": [
     "1385076300",
@@ -2545,7 +2567,8 @@
     "1383575400",
     "1389620800",
     "1387748400",
-    "1405002800"
+    "1405002800",
+    "1429077300"
   ],
   "Pixar": [],
   "Replit": [
@@ -2604,7 +2627,11 @@
     "25017617",
     "25013797",
     "25017890",
-    "25009782"
+    "25009782",
+    "25017542",
+    "25017914",
+    "25017917",
+    "25017919"
   ],
   "Vercel": [
     "6020852004",
