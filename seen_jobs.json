@@ -169,7 +169,8 @@
     "Engineering-Product-Manager--Remote-_2023098",
     "Solutions-Engineer---Global-Enterprise-Sales--Las-Vegas_2020438",
     "Solutions-Engineer---Global-Enterprise-Sales--San-Diego_2020605-1",
-    "Solutions-Engineer_2021302-1"
+    "Solutions-Engineer_2021302-1",
+    "Solutions-Engineer_2018469-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -329,7 +330,8 @@
     "8689127002",
     "8688633002",
     "8767726002",
-    "8797837002"
+    "8797837002",
+    "8802198002"
   ],
   "Anthropic": [
     "5057647008",
@@ -911,7 +913,8 @@
     "92045",
     "92312",
     "88548",
-    "91512"
+    "91512",
+    "92354"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1012,7 +1015,8 @@
     "GPU-Software-Development-Engineer_JR0283073",
     "Semiconductor-Research-Integration-Engineer_JR0286873",
     "Tool-Install---Qualification-Project-Manager_JR0286750",
-    "Automated-Material-Handling-Systems--AMHS--Software-Engineer_JR0286980"
+    "Automated-Material-Handling-Systems--AMHS--Software-Engineer_JR0286980",
+    "Data-Scientist--Semiconductor-Manufacturing-Analytics_JR0287216"
   ],
   "Intuit": [
     "99513472784",
@@ -1264,7 +1268,14 @@
     "1970393556945414",
     "1970393556986820",
     "1970393556972035",
-    "1970393556989020"
+    "1970393556989020",
+    "1970393556994516",
+    "1970393556990823",
+    "1970393556983223",
+    "1970393556983221",
+    "1970393556989680",
+    "1970393556984683",
+    "1970393556929028"
   ],
   "MongoDB": [
     "8106084"
@@ -1392,7 +1403,8 @@
     "274922260562",
     "274921995088",
     "274922260559",
-    "274922260564"
+    "274922260564",
+    "274922370295"
   ],
   "Pinterest": [
     "7816424",
@@ -1591,7 +1603,8 @@
     "301286",
     "301386",
     "301750",
-    "302381"
+    "302381",
+    "300813"
   ],
   "Zynga": [
     "5995420004"
@@ -2283,7 +2296,15 @@
     "Software-Engineer_R0249465",
     "Geospatial-Data-Analyst_R0248238",
     "Zero-Trust-Program-Manager_R0241164",
-    "University---Summer-2027--Software-Engineer-Intern_R0249225"
+    "University---Summer-2027--Software-Engineer-Intern_R0249225",
+    "Databricks-Platform-Engineer_R0249299-1",
+    "Modeling-and-Simulation-Software-Engineer_R0249475",
+    "Data-Engineer_R0249294",
+    "Kubernetes-Platform-Engineer_R0249312",
+    "Software-Engineer_R0249268",
+    "Data-Scientist--Junior_R0248942",
+    "FMS-Maritime-Domain-Awareness-Systems-Engineer_R0249235",
+    "Technical-Project-Manager_R0243354"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2462,7 +2483,8 @@
     "210787509",
     "210787970",
     "210787993",
-    "210785811"
+    "210785811",
+    "210778857"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
