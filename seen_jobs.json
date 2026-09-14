@@ -173,7 +173,9 @@
     "Solutions-Engineer---Global-Enterprise-Sales--Las-Vegas_2020438",
     "Solutions-Engineer---Global-Enterprise-Sales--San-Diego_2020605-1",
     "Solutions-Engineer_2021302-1",
-    "Solutions-Engineer_2018469-1"
+    "Solutions-Engineer_2018469-1",
+    "Project-Manager_2020527",
+    "Engineering-Product-Manager--Data-Center-Networking_2024304-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -576,7 +578,9 @@
     "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
     "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
     "https://jobs.ashbyhq.com/openai/b15442c5-8e3c-4370-9abf-4b9c63f56de0",
-    "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115"
+    "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115",
+    "https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce",
+    "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1287,7 +1291,8 @@
     "1970393556991324",
     "1970393556992082",
     "1970393556995354",
-    "1970393556989082"
+    "1970393556989082",
+    "1970393556914839"
   ],
   "MongoDB": [
     "8106084"
@@ -1403,7 +1408,8 @@
     "Product-owner_JR-021324",
     "Solutions-Consultant-2_JR-022320",
     "Solutions-Consultant-2_JR-022074",
-    "Solutions-Consultant--Enterprise_JR-021976"
+    "Solutions-Consultant--Enterprise_JR-021976",
+    "Solutions-Consultant-2_JR-021766-1"
   ],
   "PayPal": [
     "274921849526",
@@ -1535,7 +1541,8 @@
     "446721046499",
     "446721008018",
     "446721051165",
-    "446718691837"
+    "446718691837",
+    "446721085768"
   ],
   "Scopely": [
     "5301857008",
@@ -2326,7 +2333,17 @@
     "Project-Manager_R0249331",
     "Human-Capital-and-Personnel-Data-Analyst_R0249209",
     "Software-Developer_R0232288",
-    "Software-Engineer--Mid_R0249358"
+    "Software-Engineer--Mid_R0249358",
+    "Applied-AI-Engineer_R0249431",
+    "Remote-Sensing-Software-Engineer_R0242684",
+    "Data-Engineer_R0249429",
+    "Systems-Engineer--Mid_R0249420",
+    "Software-Engineer-and-Developer_R0249415",
+    "Data-Scientist--Mid_R0249423",
+    "Data-Scientist_R0249385",
+    "Enterprise-IT-Systems-Engineer_R0241894",
+    "Web-Developer_R0249368",
+    "CNO-Software-Engineer_R0249362"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2507,7 +2524,10 @@
     "210787993",
     "210785811",
     "210778857",
-    "210787315"
+    "210787315",
+    "210770595",
+    "210773223",
+    "210790145"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -2528,7 +2548,8 @@
     "Software-Engineer-II_R-288256",
     "Software-Engineer-II_R-288575",
     "Data-Engineer-II_R-289305",
-    "Software-Engineer-II_R-288574"
+    "Software-Engineer-II_R-288574",
+    "Software-Development-Engineer_R-284431"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -2680,7 +2701,11 @@
     "25017919",
     "25017876",
     "25017878",
-    "25017931"
+    "25017931",
+    "25013813",
+    "25017947",
+    "25017948",
+    "25017949"
   ],
   "Vercel": [
     "6020852004",
@@ -2726,7 +2751,8 @@
     "R30760",
     "R30750",
     "R30745",
-    "R30459"
+    "R30459",
+    "R30883"
   ],
   "eBay": [
     "R0074017",
@@ -2831,6 +2857,7 @@
     "1212980",
     "1213475",
     "1213445",
-    "1212326"
+    "1212326",
+    "1213934"
   ]
 }
