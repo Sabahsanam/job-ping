@@ -1312,7 +1312,9 @@
     "1970393556995383",
     "1970393556999208",
     "1970393556999207",
-    "1970393556998440"
+    "1970393556998440",
+    "1970393556994525",
+    "1970393556941429"
   ],
   "MongoDB": [
     "8106084"
@@ -1566,7 +1568,8 @@
     "446721085768",
     "446721046549",
     "446721104433",
-    "446721106667"
+    "446721106667",
+    "446717707980"
   ],
   "Scopely": [
     "5301857008",
@@ -1602,7 +1605,8 @@
     "8128744",
     "8198280",
     "8197135",
-    "8198207"
+    "8198207",
+    "7737124"
   ],
   "Uber": [
     "300455",
@@ -2408,7 +2412,8 @@
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
     "https://jobs.ashbyhq.com/cohere/d28fbc03-cb09-49da-84b9-e12c16182695",
     "https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af",
-    "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673"
+    "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
+    "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5"
   ],
   "Cursor": [
     "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
@@ -2435,7 +2440,8 @@
     "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
     "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
     "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
-    "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+    "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
+    "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26"
   ],
   "Hugging Face": [
     "19A136F8E2"
