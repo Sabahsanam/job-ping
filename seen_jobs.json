@@ -1326,7 +1326,8 @@
     "1970393556995326",
     "1970393556995590",
     "1970393556952536",
-    "1970393556995505"
+    "1970393556995505",
+    "1970393556992078"
   ],
   "MongoDB": [
     "8106084"
@@ -2434,7 +2435,16 @@
     "Program-and-Project-Manager_R0249627",
     "Systems-Engineer_R0249591",
     "Data-Engineer_R0248928-1",
-    "Front-End-Software-Engineer_R0249628"
+    "Front-End-Software-Engineer_R0249628",
+    "Data-Scientist_R0249694",
+    "Governance-Operations-Analyst_R0245657",
+    "Systems-Engineer--Mid_R0249699",
+    "Special-Missions-Software-Engineer_R0249677",
+    "Modernization-Software-Engineer_R0249670",
+    "Cloud-Engineer_R0249680",
+    "Cloud-Engineer_R0249665",
+    "Missile-Warning-Systems-Engineer_R0249653",
+    "Data-Scientist--Mid_R0249669"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2636,7 +2646,12 @@
     "210787959",
     "210736615",
     "210790203",
-    "210791203"
+    "210791203",
+    "210775025",
+    "210789684",
+    "210790133",
+    "210791406",
+    "210792098"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -2674,7 +2689,8 @@
     "Systems-Engineer-II_R76605-1",
     "Systems-Engineer-II_R73712-1",
     "Engineering-Program-Manager---On-site-Memphis_R77046-1",
-    "Full-Stack-Cloud-Software-Engineer-II_R71118-1"
+    "Full-Stack-Cloud-Software-Engineer-II_R71118-1",
+    "Manufacturing-Program-Manager_R77283-1"
   ],
   "Oracle": [
     "335848",
