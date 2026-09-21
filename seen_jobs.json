@@ -597,7 +597,12 @@
     "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
     "https://jobs.ashbyhq.com/openai/ca7e4019-bf93-42fd-8f15-fac59c6e237c",
     "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
-    "https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a"
+    "https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a",
+    "https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d",
+    "https://jobs.ashbyhq.com/openai/4a9774e2-6505-4cc2-92eb-22a8450aacdc",
+    "https://jobs.ashbyhq.com/openai/c5f39beb-dc8a-4f43-a156-28754d306f64",
+    "https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3",
+    "https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495"
   ],
   "Deel": [],
   "Baseten": [],
@@ -973,7 +978,8 @@
     "Salesforce-Business-Systems-Analyst--Quote-to-Cash--Remote-_R29883",
     "GovCloud-Data-Infrastructure-Engineer--Remote-_R29607",
     "Corporate-Sales-Engineer--Pre-Sales--Remote-_R29127",
-    "Program-Manager-III--Adversary-Strategy--Remote-_R29998"
+    "Program-Manager-III--Adversary-Strategy--Remote-_R29998",
+    "Time---Absence-Program-Manager--Remote-_R30012-1"
   ],
   "Datadog": [
     "8053714",
@@ -1643,7 +1649,9 @@
     "446721155295",
     "446721161406",
     "446721161408",
-    "446719744706"
+    "446719744706",
+    "446721160053",
+    "446721162271"
   ],
   "Scopely": [
     "5301857008",
@@ -1807,7 +1815,8 @@
     "26010284",
     "26013774",
     "26013802",
-    "26010289"
+    "26010289",
+    "26013923"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -2520,7 +2529,30 @@
     "Software-Engineer_R0249879",
     "Naval-Program-Analyst_R0249918",
     "Electronic-Health-Record-Data-Engineer--Senior_R0248876",
-    "Secure-AI-Engineer_R0245884"
+    "Secure-AI-Engineer_R0245884",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249877",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249815",
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249866",
+    "University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249804",
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249805",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249870",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249803",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249838",
+    "Cloud-Developer_R0250138",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249802",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249801",
+    "University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249876",
+    "University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249800",
+    "University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0249869",
+    "MILCON-Program-Engineer_R0249014",
+    "FSRM-Program-Engineer_R0249011",
+    "Cyber-Sales-Engineer_R0249991",
+    "Cloud-Engineer_R0249978"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2738,7 +2770,9 @@
     "210792294",
     "210791964",
     "210790857",
-    "210781496"
+    "210781496",
+    "210793054",
+    "210793064"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
