@@ -952,7 +952,8 @@
     "92526",
     "92522",
     "90946",
-    "92556"
+    "92556",
+    "92706"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1651,7 +1652,9 @@
     "446721161408",
     "446719744706",
     "446721160053",
-    "446721162271"
+    "446721162271",
+    "446717131129",
+    "446717498463"
   ],
   "Scopely": [
     "5301857008",
@@ -2552,7 +2555,18 @@
     "MILCON-Program-Engineer_R0249014",
     "FSRM-Program-Engineer_R0249011",
     "Cyber-Sales-Engineer_R0249991",
-    "Cloud-Engineer_R0249978"
+    "Cloud-Engineer_R0249978",
+    "Program-Manager_R0250195",
+    "University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249828",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249827",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249826",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249825",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823",
+    "University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0249874",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249809",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249820",
+    "University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2566,7 +2580,8 @@
     "Software-Engineer-II--AI-Platform_R55030-1",
     "Software-Engineer-I_R53009-1",
     "Graduate-Student-Intern---Software-Engineering_R56029-2",
-    "Graduate-Student-Intern---Software-Engineering_R56028-1"
+    "Graduate-Student-Intern---Software-Engineering_R56028-1",
+    "Graduate-Student-Intern---Software-Engineering_R56405-2"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -2772,7 +2787,8 @@
     "210790857",
     "210781496",
     "210793054",
-    "210793064"
+    "210793064",
+    "210780850"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -2796,7 +2812,8 @@
     "Software-Engineer-II_R-288574",
     "Software-Development-Engineer_R-284431",
     "Software-Engineer-II---Blockchain_R-290740",
-    "Software-Engineer-II_R-289524-1"
+    "Software-Engineer-II_R-289524-1",
+    "Data-Scientist_R-291128"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -3155,6 +3172,7 @@
     "1213920",
     "1210331",
     "1211881",
-    "1212277"
+    "1212277",
+    "1214984"
   ]
 }
