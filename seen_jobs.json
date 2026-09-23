@@ -1402,7 +1402,11 @@
     "1970393557000676",
     "1970393556985609",
     "1970393557004771",
-    "1970393557004889"
+    "1970393557004889",
+    "1970393556868750",
+    "1970393557004836",
+    "1970393557004819",
+    "1970393556998651"
   ],
   "MongoDB": [
     "8106084",
@@ -1694,7 +1698,9 @@
     "446717498463",
     "446719426158",
     "446721217993",
-    "446721218121"
+    "446721218121",
+    "446721204420",
+    "446721230796"
   ],
   "Scopely": [
     "5301857008",
@@ -1866,7 +1872,8 @@
     "26013923",
     "26013824",
     "26014224",
-    "26013787"
+    "26013787",
+    "26009007"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -2626,7 +2633,10 @@
     "AI-and-ML-Data-Scientist_R0242343",
     "Human-Spaceflight-Systems-Engineer--Mid_R0250154",
     "Data-Scientist_R0250173",
-    "Data-Scientist_R0249286"
+    "Data-Scientist_R0249286",
+    "Data-Scientist_R0250185",
+    "Systems-Engineer_R0250182",
+    "Model-Based-Systems-Engineer_R0250181"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2641,7 +2651,8 @@
     "Software-Engineer-I_R53009-1",
     "Graduate-Student-Intern---Software-Engineering_R56029-2",
     "Graduate-Student-Intern---Software-Engineering_R56028-1",
-    "Graduate-Student-Intern---Software-Engineering_R56405-2"
+    "Graduate-Student-Intern---Software-Engineering_R56405-2",
+    "Software-Engineering-Director_R56213"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -2991,7 +3002,8 @@
     "345878",
     "344816",
     "344834",
-    "344835"
+    "344835",
+    "345934"
   ],
   "Paramount": [
     "1385076300",
