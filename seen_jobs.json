@@ -1414,7 +1414,10 @@
     "1970393556998651",
     "1970393557004676",
     "1970393556928919",
-    "1970393557000005"
+    "1970393557000005",
+    "1970393557002586",
+    "1970393557005291",
+    "1970393557007221"
   ],
   "MongoDB": [
     "8106084",
@@ -1431,7 +1434,8 @@
     "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
     "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
     "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
-    "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b"
+    "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+    "https://jobs.ashbyhq.com/notion/ab383335-1dd5-4d6a-971f-439cebf48a9d"
   ],
   "Okta": [
     "8097799",
@@ -1709,7 +1713,9 @@
     "446721217993",
     "446721218121",
     "446721204420",
-    "446721230796"
+    "446721230796",
+    "446721232996",
+    "446721233027"
   ],
   "Scopely": [
     "5301857008",
@@ -2645,7 +2651,15 @@
     "Data-Scientist_R0249286",
     "Data-Scientist_R0250185",
     "Systems-Engineer_R0250182",
-    "Model-Based-Systems-Engineer_R0250181"
+    "Model-Based-Systems-Engineer_R0250181",
+    "IT-Project-Manager_R0250226",
+    "Plans---Operations-Analyst_R0250131",
+    "Cloud-Engineer_R0241630",
+    "Edge-Processing-Solutions-Engineer_R0250215",
+    "Data-Analyst_R0250205-1",
+    "Business-Analyst_R0250078",
+    "Data-Engineer_R0250207",
+    "Data-Scientist_R0250204-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
