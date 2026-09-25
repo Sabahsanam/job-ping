@@ -1448,7 +1448,15 @@
     "1970393557006518",
     "1970393556999392",
     "1970393557002691",
-    "1970393557001880"
+    "1970393557001880",
+    "1970393557008714",
+    "1970393557007484",
+    "1970393557006899",
+    "1970393556995496",
+    "1970393556982278",
+    "1970393557007477",
+    "1970393557004928",
+    "1970393557008559"
   ],
   "MongoDB": [
     "8106084",
@@ -1770,7 +1778,8 @@
     "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
     "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
     "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-    "https://jobs.ashbyhq.com/snowflake/21bfc3fe-827c-46e9-bc56-d0a676a6d9d0"
+    "https://jobs.ashbyhq.com/snowflake/21bfc3fe-827c-46e9-bc56-d0a676a6d9d0",
+    "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d"
   ],
   "Stripe": [
     "8084195",
@@ -2726,7 +2735,9 @@
     "Software-Developer_R0250389",
     "Software-Developer-SME_R0250383-1",
     "Systems-Engineer--Mid_R0250364",
-    "DevOps-Engineer_R0250365"
+    "DevOps-Engineer_R0250365",
+    "Software-Engineer_R0250409",
+    "Software-Developer_R0250386"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2971,7 +2982,8 @@
     "210794325",
     "210741151",
     "210762543",
-    "210793562"
+    "210793562",
+    "210767184"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -3200,7 +3212,9 @@
     "25011068",
     "25017996",
     "25017984",
-    "25018115"
+    "25018115",
+    "25017888",
+    "25018245"
   ],
   "Vercel": [
     "6020852004",
@@ -3383,6 +3397,7 @@
     "1214984",
     "1214304",
     "1209528",
-    "1200169"
+    "1200169",
+    "1214547"
   ]
 }
