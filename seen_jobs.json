@@ -618,7 +618,8 @@
     "https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3",
     "https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495",
     "https://jobs.ashbyhq.com/openai/2b5c3a30-8e8b-4845-be40-0617b0c9fd43",
-    "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645"
+    "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+    "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025"
   ],
   "Deel": [],
   "Baseten": [],
@@ -765,7 +766,8 @@
   "Electronic Arts": [
     "214163",
     "216014",
-    "216218"
+    "216218",
+    "216245"
   ],
   "Epic Games": [
     "6103058004",
@@ -1432,7 +1434,9 @@
     "1970393557007529",
     "1970393556995345",
     "1970393557000209",
-    "1970393557007257"
+    "1970393557007257",
+    "1970393557008070",
+    "1970393557007526"
   ],
   "MongoDB": [
     "8106084",
@@ -1731,7 +1735,8 @@
     "446721204420",
     "446721230796",
     "446721232996",
-    "446721233027"
+    "446721233027",
+    "446721247351"
   ],
   "Scopely": [
     "5301857008",
@@ -1747,7 +1752,10 @@
     "https://jobs.ashbyhq.com/snowflake/073c91f2-0758-4544-9297-3f48a81fb04d",
     "https://jobs.ashbyhq.com/snowflake/7e7eb6a8-fc30-46dd-b9d7-c881447b04c9",
     "https://jobs.ashbyhq.com/snowflake/41e786c3-8d69-4e1c-aca1-3ca67e07ce84",
-    "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425"
+    "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+    "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+    "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+    "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca"
   ],
   "Stripe": [
     "8084195",
@@ -3211,7 +3219,8 @@
     "R30883",
     "R30610",
     "R29757",
-    "R29561"
+    "R29561",
+    "R31016"
   ],
   "eBay": [
     "R0074017",
