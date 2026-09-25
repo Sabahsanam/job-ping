@@ -980,7 +980,9 @@
     "92469",
     "90997",
     "91005",
-    "92639"
+    "92639",
+    "92490",
+    "92489"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1437,7 +1439,9 @@
     "1970393557000209",
     "1970393557007257",
     "1970393557008070",
-    "1970393557007526"
+    "1970393557007526",
+    "1970393557006518",
+    "1970393556999392"
   ],
   "MongoDB": [
     "8106084",
@@ -1737,7 +1741,8 @@
     "446721230796",
     "446721232996",
     "446721233027",
-    "446721247351"
+    "446721247351",
+    "446721245691"
   ],
   "Scopely": [
     "5301857008",
@@ -1836,7 +1841,8 @@
     "147707",
     "302455",
     "302639",
-    "301355"
+    "301355",
+    "302709"
   ],
   "Zynga": [
     "5995420004"
@@ -2701,7 +2707,13 @@
     "Global-Defense-Program-Manager_R0250309",
     "Human-Resources-and-Human-Capital-Program-Manager_R0250491",
     "Radar-Engineer---Scientist_R0250320",
-    "Business-Analyst--Mid_R0248530"
+    "Business-Analyst--Mid_R0248530",
+    "AI-DevOps-Engineer_R0250362",
+    "Software-Engineer--Mid_R0250294",
+    "Software-Developer_R0250227",
+    "Space-Solutions-Architect_R0250355",
+    "Full-Stack-Engineer_R0250354",
+    "Full-Stack-Software-Engineer_R0250249"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -2942,7 +2954,8 @@
     "210794018",
     "210787080",
     "210734400",
-    "210777454"
+    "210777454",
+    "210794325"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
