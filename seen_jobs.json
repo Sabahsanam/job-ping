@@ -785,7 +785,8 @@
     "216014",
     "216218",
     "216245",
-    "216241"
+    "216241",
+    "216263"
   ],
   "Epic Games": [
     "6103058004",
@@ -1003,7 +1004,8 @@
     "92489",
     "92586",
     "92697",
-    "92626"
+    "92626",
+    "91803"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1139,7 +1141,9 @@
     "100674391536",
     "101294122544",
     "101319972416",
-    "101313096144"
+    "101313096144",
+    "101355755600",
+    "101355755504"
   ],
   "Microsoft": [
     "1970393556972076",
@@ -1491,7 +1495,8 @@
     "1970393557016433",
     "1970393557000021",
     "1970393557000103",
-    "1970393557007934"
+    "1970393557007934",
+    "1970393557004573"
   ],
   "MongoDB": [
     "8106084",
@@ -1981,7 +1986,8 @@
     "26014224",
     "26013787",
     "26009007",
-    "26014594"
+    "26014594",
+    "26014632"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -2806,7 +2812,14 @@
     "Software-Engineer_R0250590",
     "Full-Stack-Developer--Mid_R0250632",
     "Full-Stack-Developer--Mid_R0250631",
-    "Platform-Engineer_R0242482"
+    "Platform-Engineer_R0242482",
+    "Data-Scientist--Mid_R0250581",
+    "Plans-and-Operations-Analyst_R0250654",
+    "Plans-and-Operations-Analyst_R0250653",
+    "AI-and-ML-Engineer-and-Data-Scientist_R0250643",
+    "Operations-Analyst_R0250584",
+    "IT-Project-Manager_R0250647-1",
+    "Salesforce-Platform-Engineer--Mid_R0250616"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3061,7 +3074,8 @@
     "210784884",
     "210793007",
     "210793193",
-    "210795045"
+    "210795045",
+    "210791361"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
