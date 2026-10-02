@@ -201,7 +201,9 @@
     "Software-Engineer-I--Co-op----United-States_2026920",
     "Business-Operations-Analyst--Onsite-_2026987",
     "Solutions-Engineer---INTEL-Defense_2024543-1",
-    "CX-Machine-Learning-Engineer_2024550"
+    "CX-Machine-Learning-Engineer_2024550",
+    "Technical-Project-Manager---AI-Research_2026952",
+    "Software-Engineer_2024992-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -648,7 +650,8 @@
     "https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54",
     "https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
     "https://jobs.ashbyhq.com/openai/c25fd30e-056e-4a26-af80-7ea1074fc56e",
-    "https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194"
+    "https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194",
+    "https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1538,7 +1541,10 @@
     "1970393557016402",
     "1970393557022373",
     "1970393556999242",
-    "1970393557022395"
+    "1970393557022395",
+    "1970393557016400",
+    "1970393557008569",
+    "1970393556999325"
   ],
   "MongoDB": [
     "8106084",
@@ -1669,7 +1675,8 @@
     "Solutions-Consultant-2_JR-020771",
     "Solutions-Consultant-2_JR-020880",
     "Systems-Engineer-SLED_JR-023243",
-    "Solutions-Consultant-2_JR-023207"
+    "Solutions-Consultant-2_JR-023207",
+    "District-Systems-Engineer_JR-023097-1"
   ],
   "PayPal": [
     "274921849526",
@@ -1867,7 +1874,10 @@
     "446721299348",
     "446721326894",
     "446721346942",
-    "446721360419"
+    "446721360419",
+    "446721365382",
+    "446721372798",
+    "446721373024"
   ],
   "Scopely": [
     "5301857008",
@@ -1922,7 +1932,8 @@
     "8241260",
     "5601881",
     "8194291",
-    "8194283"
+    "8194283",
+    "8249901"
   ],
   "Uber": [
     "300455",
@@ -2903,7 +2914,15 @@
     "Data-Scientist_R0250852",
     "DevOps-Infrastructure-Engineer_R0250822",
     "Data-Analyst_R0250817",
-    "Cloud-Engineer_R0242855"
+    "Cloud-Engineer_R0242855",
+    "Commercial-Solutions-for-Classified-Solutions-Architect_R0250886",
+    "Full-Stack-Developer_R0250906",
+    "Systems-Engineer_R0250888",
+    "Data-Scientist_R0250905",
+    "Data-Scientist_R0250815",
+    "DevOps-Engineer_R0250869",
+    "Systems-Engineer--Mid_R0250880",
+    "Data-Scientist_R0250868"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3163,7 +3182,9 @@
     "210796549",
     "210775253",
     "210794453",
-    "210795572"
+    "210795572",
+    "210749522",
+    "210785092"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
