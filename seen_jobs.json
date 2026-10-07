@@ -861,7 +861,8 @@
   ],
   "Riot Games": [
     "REQ-0010088",
-    "8222014"
+    "8222014",
+    "REQ-0010346"
   ],
   "Roblox": [
     "8072244",
@@ -1064,7 +1065,8 @@
     "92603",
     "93332",
     "91550",
-    "93187"
+    "93187",
+    "92037"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1115,7 +1117,8 @@
     "8185903",
     "8204163",
     "4452918",
-    "8237428"
+    "8237428",
+    "8238495"
   ],
   "Discord": [
     "8545663002",
@@ -1142,7 +1145,8 @@
     "5691911004",
     "6111166004",
     "6008343004",
-    "6020719004"
+    "6020719004",
+    "6180116004"
   ],
   "GitHub": [
     "5743"
@@ -1614,7 +1618,9 @@
     "1970393557023048",
     "1970393557025852",
     "1970393557024135",
-    "1970393557021555"
+    "1970393557021555",
+    "1970393557022926",
+    "1970393557007828"
   ],
   "MongoDB": [
     "8106084",
@@ -1748,7 +1754,8 @@
     "Solutions-Consultant-2_JR-023207",
     "District-Systems-Engineer_JR-023097-1",
     "Solutions-Consultant-2_JR-023164",
-    "Solutions-Consultant-2---Strategic-Accounts_JR-023272-1"
+    "Solutions-Consultant-2---Strategic-Accounts_JR-023272-1",
+    "Chronosphere---Solutions-Architect_JR-022906"
   ],
   "PayPal": [
     "274921849526",
@@ -1957,7 +1964,8 @@
     "446721246663",
     "446721376227",
     "446721293506",
-    "446721328337"
+    "446721328337",
+    "446721404983"
   ],
   "Scopely": [
     "5301857008",
@@ -2013,7 +2021,8 @@
     "5601881",
     "8194291",
     "8194283",
-    "8249901"
+    "8249901",
+    "8243617"
   ],
   "Uber": [
     "300455",
@@ -3019,7 +3028,12 @@
     "Missions-Integration-Project-Coordinator_R0251188",
     "F-35-Acquisition-Program-Manager_R0251181",
     "Data-Engineer--Mid_R0251125",
-    "Software-Engineer_R0250617"
+    "Software-Engineer_R0250617",
+    "DevOps-Engineer_R0251264-1",
+    "Data-Scientist_R0251247",
+    "Data-Engineer_R0251248",
+    "Data-Analyst_R0251243",
+    "Nuclear-Command--Control--and-Communications-Program-Analyst_R0251116"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3345,7 +3359,8 @@
     "Embedded-Software-Engineer-II--Christine-_R78076-2",
     "Project-Coordinator-V_R78347-1",
     "Engineering-Program-Manager_R78593-1",
-    "Project-Coordinator-III---Facilities_R78941-1"
+    "Project-Coordinator-III---Facilities_R78941-1",
+    "Software-Development-Engineer-II---Onsite_R78125-1"
   ],
   "Oracle": [
     "335848",
@@ -3460,7 +3475,9 @@
     "346558",
     "345825",
     "346732",
-    "340958"
+    "340958",
+    "341558",
+    "345924"
   ],
   "Paramount": [
     "1385076300",
@@ -3574,7 +3591,8 @@
     "6181759004",
     "6181755004",
     "6195280004",
-    "6137958004"
+    "6137958004",
+    "6218743004"
   ],
   "Warner Music Group": [
     "Data-Scientist_R-028038"
@@ -3654,7 +3672,9 @@
     "R0076718",
     "R0076716",
     "R0076720",
-    "R0076719"
+    "R0076719",
+    "R0077135",
+    "R0077136"
   ],
   "HPE": [
     "1209874",
