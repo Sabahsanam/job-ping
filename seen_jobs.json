@@ -274,7 +274,8 @@
     "Associate-Costume-Development-Manager--Project-Hire-Internal-Assignment-_10160090",
     "Platform-Engineer--Project-Hire-_10157372-1",
     "Project-Coordinator--Project-Hire-Internal-Assignment-_10160727-2",
-    "Associate-Marketing-Data-Scientist_10161936"
+    "Associate-Marketing-Data-Scientist_10161936",
+    "Production-Tech-Project-Manager_10161628"
   ],
   "Spotify": [
     "a0fa7da3-4c3c-4fa2-97bd-7d6eb01eb9e5",
@@ -905,7 +906,8 @@
     "6119793004",
     "6145057004",
     "6149266004",
-    "6220970004"
+    "6220970004",
+    "6147057004"
   ],
   "Take-Two Interactive": [
     "8075054",
@@ -1638,7 +1640,12 @@
     "1970393557021555",
     "1970393557022926",
     "1970393557007828",
-    "1970393557026683"
+    "1970393557026683",
+    "1970393557026448",
+    "1970393557037526",
+    "1970393557023023",
+    "1970393557006925",
+    "1970393557027422"
   ],
   "MongoDB": [
     "8106084",
@@ -1988,7 +1995,8 @@
     "446721365985",
     "446721348988",
     "446721477865",
-    "446721429496"
+    "446721429496",
+    "446721489861"
   ],
   "Scopely": [
     "5301857008",
@@ -2046,7 +2054,8 @@
     "8194291",
     "8194283",
     "8249901",
-    "8243617"
+    "8243617",
+    "8267736"
   ],
   "Uber": [
     "300455",
@@ -3070,7 +3079,15 @@
     "Data-Analyst_R0251324",
     "M-A-Project-Coordinator_R0251310",
     "Information-Technology-Program-Manager_R0251498",
-    "Security-Operations-Analyst--Mid_R0251374"
+    "Security-Operations-Analyst--Mid_R0251374",
+    "Cloud-Engineer_R0251454",
+    "Secure-AI-Engineer_R0251435",
+    "Cloud-Engineer_R0251441",
+    "Naval-Program-Analyst_R0251409",
+    "IT-Project-Manager_R0251401",
+    "Federal-Project-Coordinator_R0251398-1",
+    "Data-Scientist_R0251381",
+    "Systems-Engineer_R0251402"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3124,7 +3141,8 @@
     "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
     "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
     "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26",
-    "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
+    "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+    "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d"
   ],
   "Hugging Face": [
     "19A136F8E2"
@@ -3349,7 +3367,9 @@
     "210797640",
     "210797788",
     "210798862",
-    "210726434"
+    "210726434",
+    "210798908",
+    "210799355"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -3635,7 +3655,10 @@
     "25016392",
     "25017412",
     "25018048",
-    "25017663"
+    "25017663",
+    "25012948",
+    "25018502",
+    "25018528"
   ],
   "Vercel": [
     "6020852004",
