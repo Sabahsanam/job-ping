@@ -1084,7 +1084,8 @@
     "93332",
     "91550",
     "93187",
-    "92037"
+    "92037",
+    "92604"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1224,7 +1225,8 @@
     "XMLNAME-3DIC-Platform-Wet-and-Plating-Development-Manager_JR0287869",
     "Ethernet-System-Integration-Engineer_JR0287502",
     "Ethernet-System-Integration-Engineer_JR0287496",
-    "Technical-Manager--Virtual-Platform-Team_JR0287608"
+    "Technical-Manager--Virtual-Platform-Team_JR0287608",
+    "Mfg-Systems-Software-Engineer_JR0286221"
   ],
   "Intuit": [
     "99513472784",
@@ -1670,7 +1672,11 @@
     "1970393557039237",
     "1970393557023049",
     "1970393557027392",
-    "1970393557023047"
+    "1970393557023047",
+    "1970393557040326",
+    "1970393557039186",
+    "1970393557022909",
+    "1970393557026661"
   ],
   "MongoDB": [
     "8106084",
@@ -2027,7 +2033,8 @@
     "446720708572",
     "446721524144",
     "446721525113",
-    "446721477857"
+    "446721477857",
+    "446721551275"
   ],
   "Scopely": [
     "5301857008",
@@ -2231,7 +2238,8 @@
     "26014891",
     "26014904",
     "26015080",
-    "26015156"
+    "26015156",
+    "26015083"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -3137,7 +3145,10 @@
     "Tactical-Systems-Engineer_R0251475",
     "Technical-Project-Manager_R0251537",
     "Software-Engineer_R0251532-1",
-    "Data-Engineer_R0251522"
+    "Data-Engineer_R0251522",
+    "IT-Project-Manager_R0251579",
+    "Augmented-Reality-Software-Engineer_R0251325",
+    "Augmented-Reality-Software-Engineer_R0251326"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3429,7 +3440,8 @@
     "210798978",
     "210797488",
     "210799629",
-    "210799692"
+    "210799692",
+    "210792889"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -3636,7 +3648,9 @@
     "https://jobs.ashbyhq.com/replit/d0e0dd7d-59d1-4de8-afbb-54aea680b51d",
     "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
     "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-    "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea"
+    "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "https://jobs.ashbyhq.com/replit/c05749db-f413-4091-a95c-c8e0aa1b5630",
+    "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f"
   ],
   "Texas Instruments": [
     "25009179",
@@ -3749,7 +3763,9 @@
     "58879",
     "58622",
     "59149",
-    "59461"
+    "59461",
+    "59702",
+    "60224"
   ],
   "Chewy": [
     "R29229",
@@ -3968,6 +3984,8 @@
     "1215716",
     "1215829",
     "1215272",
-    "1209472"
+    "1209472",
+    "1216127",
+    "1216130"
   ]
 }
