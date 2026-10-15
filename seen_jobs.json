@@ -1700,7 +1700,8 @@
     "1970393557026066",
     "1970393557026652",
     "1970393557001413",
-    "1970393557040900"
+    "1970393557040900",
+    "1970393557038916"
   ],
   "MongoDB": [
     "8106084",
@@ -3205,7 +3206,10 @@
     "AI-Engineer_R0251722-1",
     "University--Digital-Transformation-Analyst-Intern_R0251716",
     "Data-Scientist-Network-Analyst_R0243036",
-    "Software-Engineer--Mid_R0251705"
+    "Software-Engineer--Mid_R0251705",
+    "Data-Scientist--Mid_R0251681",
+    "Post-Sales-Engineer_R0251818",
+    "Pre-Sales-Engineer_R0251815"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3505,7 +3509,8 @@
     "210800082",
     "210796216",
     "210800051",
-    "210800635"
+    "210800635",
+    "210795854"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4059,6 +4064,9 @@
     "1216159",
     "1215280",
     "1214989",
-    "1214005"
+    "1214005",
+    "1215279",
+    "1201566",
+    "1214980"
   ]
 }
