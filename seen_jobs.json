@@ -1095,7 +1095,9 @@
     "92037",
     "92604",
     "93728",
-    "93915"
+    "93915",
+    "93602",
+    "93879"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -3214,7 +3216,10 @@
     "Software-Engineer--Mid_R0251705",
     "Data-Scientist--Mid_R0251681",
     "Post-Sales-Engineer_R0251818",
-    "Pre-Sales-Engineer_R0251815"
+    "Pre-Sales-Engineer_R0251815",
+    "DevOps-Engineer_R0251746-1",
+    "Data-Engineer_R0251749",
+    "Business-Analyst_R0251852"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3515,7 +3520,10 @@
     "210796216",
     "210800051",
     "210800635",
-    "210795854"
+    "210795854",
+    "210801114",
+    "210801277",
+    "210801318"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
