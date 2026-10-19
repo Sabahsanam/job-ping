@@ -696,7 +696,8 @@
     "https://jobs.ashbyhq.com/openai/eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
     "https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236",
     "https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445",
-    "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981"
+    "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
+    "https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519"
   ],
   "Deel": [],
   "Baseten": [],
@@ -858,7 +859,10 @@
     "216240",
     "216375",
     "216238",
-    "216215"
+    "216215",
+    "216357",
+    "216250",
+    "216262"
   ],
   "Epic Games": [
     "6103058004",
@@ -875,7 +879,8 @@
   "Haven Studios": [],
   "Microsoft Gaming": [
     "Marketing---Franchise-Development-Manager--Temporary-_R027458",
-    "Activision-2027-Summer-Internships---Analytics-Engineering_R028056"
+    "Activision-2027-Summer-Internships---Analytics-Engineering_R028056",
+    "Associate-Technical-Artist--Contract-_R028245"
   ],
   "Naughty Dog": [
     "6139154004"
@@ -887,7 +892,13 @@
     "4371239009",
     "4372950009",
     "4382643009",
-    "4421091009"
+    "4421091009",
+    "4417323009",
+    "4417311009",
+    "4417316009",
+    "4421632009",
+    "4417305009",
+    "4417308009"
   ],
   "Riot Games": [
     "REQ-0010088",
@@ -1108,7 +1119,8 @@
     "93915",
     "93602",
     "93879",
-    "93245"
+    "93245",
+    "93727"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1728,7 +1740,11 @@
     "1970393557037551",
     "1970393557041124",
     "1970393557037607",
-    "1970393557022579"
+    "1970393557022579",
+    "1970393557043436",
+    "1970393557041711",
+    "1970393557041005",
+    "1970393557038884"
   ],
   "MongoDB": [
     "8106084",
@@ -2091,11 +2107,13 @@
     "446721477857",
     "446721551275",
     "446721208050",
-    "446721616382"
+    "446721616382",
+    "446721598022"
   ],
   "Scopely": [
     "5301857008",
-    "5374032008"
+    "5374032008",
+    "5456049008"
   ],
   "Snowflake": [
     "https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995",
@@ -3256,7 +3274,13 @@
     "Software-Engineer_R0251775",
     "Software-Engineer_R0251785",
     "Software-Engineer_R0251779",
-    "Software-Data-Engineer_R0251772"
+    "Software-Data-Engineer_R0251772",
+    "Data-Engineer_R0251866",
+    "Modeling-and-Simulation-Systems-Engineer_R0251873",
+    "Data-Scientist--Mid_R0251865-1",
+    "Data-Engineer-and-Data-Pipeline-Specialist_R0251853",
+    "IT-Business-Analyst--Mid_R0251849",
+    "Data-Scientist_R0251874"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3562,7 +3586,11 @@
     "210801277",
     "210801318",
     "210798585",
-    "210798968"
+    "210798968",
+    "210797518",
+    "210799668",
+    "210800894",
+    "210801336"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -3622,7 +3650,9 @@
     "Project-Coordinator-III---Facilities_R78941-1",
     "Software-Development-Engineer-II---Onsite_R78125-1",
     "Project-Coordinator-V---Electrophysiology_R79222-1",
-    "Associate-Product-Manager---Neurovascular--Onsite-in-Irvine--CA-_R79141-2"
+    "Associate-Product-Manager---Neurovascular--Onsite-in-Irvine--CA-_R79141-2",
+    "Project-Coordinator-IV-Cardiac-Diagnostics_R69843",
+    "Strategic-Clinical-Research-Program-Manager-Clinical-Scientist---PH---Rice-Creek--MN--Onsite-_R78922-1"
   ],
   "Oracle": [
     "335848",
@@ -3755,7 +3785,8 @@
     "347432",
     "342043",
     "347651",
-    "347815"
+    "347815",
+    "337186"
   ],
   "Paramount": [
     "1385076300",
