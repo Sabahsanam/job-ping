@@ -1744,7 +1744,9 @@
     "1970393557043436",
     "1970393557041711",
     "1970393557041005",
-    "1970393557038884"
+    "1970393557038884",
+    "1970393557024891",
+    "1970393557041800"
   ],
   "MongoDB": [
     "8106084",
@@ -2108,7 +2110,8 @@
     "446721551275",
     "446721208050",
     "446721616382",
-    "446721598022"
+    "446721598022",
+    "446721635150"
   ],
   "Scopely": [
     "5301857008",
@@ -3280,7 +3283,10 @@
     "Data-Scientist--Mid_R0251865-1",
     "Data-Engineer-and-Data-Pipeline-Specialist_R0251853",
     "IT-Business-Analyst--Mid_R0251849",
-    "Data-Scientist_R0251874"
+    "Data-Scientist_R0251874",
+    "Scientific-Data-Engineering-Specialist_R0251925",
+    "Cloud-Engineer_R0251559",
+    "Systems-Engineer_R0251917"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3625,7 +3631,9 @@
     "Corporate-Security-Operations-Analyst-II_R-292111-1",
     "Software-Engineer-II_R-292582-1",
     "Software-Engineer-II_R-292491",
-    "Software-Engineer-II_R-293662"
+    "Software-Engineer-II_R-293662",
+    "Software-Engineer-II_R-293589",
+    "Software-Engineer-II_R-293167"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -3786,7 +3794,8 @@
     "342043",
     "347651",
     "347815",
-    "337186"
+    "337186",
+    "338055"
   ],
   "Paramount": [
     "1385076300",
@@ -4164,6 +4173,7 @@
     "1216096",
     "1217412",
     "1217425",
-    "1216400"
+    "1216400",
+    "1215894"
   ]
 }
