@@ -237,7 +237,8 @@
     "Software-Engineer_2027875",
     "Software-Engineer_2025406",
     "Outbound-Product-Manager_2028149",
-    "Engineering-Product-Manager--Data-Center-Networking_2027297"
+    "Engineering-Product-Manager--Data-Center-Networking_2027297",
+    "Pre-Sales-Solutions-Engineer-Global-Enterprise-Segment_2029470"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -720,7 +721,8 @@
     "https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67",
     "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
     "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f",
-    "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8"
+    "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
+    "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1831,7 +1833,10 @@
     "1970393557044529",
     "1970393557045309",
     "1970393557043782",
-    "1970393557039020"
+    "1970393557039020",
+    "1970393557046320",
+    "1970393557025694",
+    "1970393557047398"
   ],
   "MongoDB": [
     "8106084",
@@ -3443,7 +3448,13 @@
     "Cloud-Platform-Engineer--Mid_R0251855",
     "Technical-Project-Manager_R0252287",
     "University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
-    "Data-Analyst_R0252276"
+    "Data-Analyst_R0252276",
+    "Data-Analyst_R0252346",
+    "Data-Scientist_R0252365",
+    "University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
+    "University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340",
+    "University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
+    "University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3779,7 +3790,9 @@
     "210800215",
     "210800279",
     "210800288",
-    "210803478"
+    "210803478",
+    "210803414",
+    "210803419"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4406,6 +4419,7 @@
     "1215856",
     "1217409",
     "1217410",
-    "1216943"
+    "1216943",
+    "1217299"
   ]
 }
