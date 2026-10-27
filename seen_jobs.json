@@ -238,7 +238,8 @@
     "Software-Engineer_2025406",
     "Outbound-Product-Manager_2028149",
     "Engineering-Product-Manager--Data-Center-Networking_2027297",
-    "Pre-Sales-Solutions-Engineer-Global-Enterprise-Segment_2029470"
+    "Pre-Sales-Solutions-Engineer-Global-Enterprise-Segment_2029470",
+    "Software-Engineer_2027515-1"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -1840,7 +1841,9 @@
     "1970393557047398",
     "1970393557045516",
     "1970393557046160",
-    "1970393557047399"
+    "1970393557047399",
+    "1970393557048110",
+    "1970393557044814"
   ],
   "MongoDB": [
     "8106084",
@@ -2215,7 +2218,8 @@
     "446721638793",
     "446721713638",
     "446721714275",
-    "446721796991"
+    "446721796991",
+    "446721756080"
   ],
   "Scopely": [
     "5301857008",
@@ -3462,7 +3466,18 @@
     "University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
     "University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342",
     "Data-Scientist--Mid_R0252367",
-    "Data-Scientist--Mid_R0252366"
+    "Data-Scientist--Mid_R0252366",
+    "Platform-and-Data-Engineer_R0252450",
+    "Software-Engineer_R0252417",
+    "Data-Engineer_R0252430",
+    "Systems-Engineer--Mid_R0252414",
+    "Systems-Engineer--Mid_R0252418",
+    "Systems-Engineer--Mid_R0252416",
+    "R0251716-University--Digital-Transformation-Analyst---Spring-Intern_R0252398",
+    "Agentic-AI-and-Data-Engineer_R0234847",
+    "Nuclear-Command--Control--and-Communications-Program-Analyst_R0252415",
+    "University--Digital-Transformation-Analyst---Summer-Intern_R0252403",
+    "Digital-Signal-Processing-Software-Engineer_R0252372"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3803,7 +3818,8 @@
     "210803419",
     "210800587",
     "210803909",
-    "210804258"
+    "210804258",
+    "210790093"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4036,7 +4052,9 @@
     "347267",
     "348721",
     "348228",
-    "348985"
+    "348985",
+    "348092",
+    "348705"
   ],
   "Paramount": [
     "1385076300",
@@ -4437,6 +4455,7 @@
     "1217410",
     "1216943",
     "1217299",
-    "1215742"
+    "1215742",
+    "1216802"
   ]
 }
