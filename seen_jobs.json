@@ -239,7 +239,9 @@
     "Outbound-Product-Manager_2028149",
     "Engineering-Product-Manager--Data-Center-Networking_2027297",
     "Pre-Sales-Solutions-Engineer-Global-Enterprise-Segment_2029470",
-    "Software-Engineer_2027515-1"
+    "Software-Engineer_2027515-1",
+    "Software-Engineer_2028719",
+    "Engineering-Program-Manager_2029192"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -1844,7 +1846,9 @@
     "1970393557046160",
     "1970393557047399",
     "1970393557048110",
-    "1970393557044814"
+    "1970393557044814",
+    "1970393556982012",
+    "1970393557041798"
   ],
   "MongoDB": [
     "8106084",
@@ -3478,7 +3482,9 @@
     "Agentic-AI-and-Data-Engineer_R0234847",
     "Nuclear-Command--Control--and-Communications-Program-Analyst_R0252415",
     "University--Digital-Transformation-Analyst---Summer-Intern_R0252403",
-    "Digital-Signal-Processing-Software-Engineer_R0252372"
+    "Digital-Signal-Processing-Software-Engineer_R0252372",
+    "Cloud-Engineer_R0252145",
+    "Cloud-Engineer_R0252146"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3820,7 +3826,10 @@
     "210800587",
     "210803909",
     "210804258",
-    "210790093"
+    "210790093",
+    "210803612",
+    "210803697",
+    "210804481"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4181,7 +4190,8 @@
     "25019150",
     "25019120",
     "25019153",
-    "25019160"
+    "25019160",
+    "25019117"
   ],
   "Vercel": [
     "6020852004",
