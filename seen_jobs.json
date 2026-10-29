@@ -931,7 +931,13 @@
     "4417316009",
     "4421632009",
     "4417305009",
-    "4417308009"
+    "4417308009",
+    "4470048009",
+    "4471972009",
+    "4469762009",
+    "4472002009",
+    "4469718009",
+    "4469778009"
   ],
   "Riot Games": [
     "REQ-0010088",
@@ -1009,7 +1015,8 @@
     "8031907",
     "7708224",
     "7826337",
-    "8280222"
+    "8280222",
+    "8332157"
   ],
   "AMD": [
     "90583",
@@ -1326,7 +1333,9 @@
     "Construction-Project-Manager_JR0288014",
     "Infrastructure-Systems-Engineer_JR0288264",
     "Post-Launch-Production--Sustaining-Operations--Program-Manager_JR0288350",
-    "System-Validation-and-Integration-Engineer_JR0288344"
+    "System-Validation-and-Integration-Engineer_JR0288344",
+    "EDA-Tools-Software-Engineer_JR0287371",
+    "EDA-Tools-Software-Engineer_JR0288250"
   ],
   "Intuit": [
     "99513472784",
@@ -2299,7 +2308,9 @@
     "8275366",
     "8314283",
     "8314235",
-    "8329116"
+    "8329116",
+    "8332718",
+    "8332676"
   ],
   "Uber": [
     "300455",
@@ -3496,7 +3507,10 @@
     "Cloud-Engineer_R0252146",
     "Data-Scientist--Mid_R0252513",
     "Full-Stack-Software-Developer_R0252508-1",
-    "Platform-and-Data-Engineer_R0252448"
+    "Platform-and-Data-Engineer_R0252448",
+    "Program-Analyst--Mid_R0252488",
+    "Shipboard-Installations-Process-Manager_R0252383",
+    "Augmented-Reality-Software-Engineer_R0252553"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3881,7 +3895,8 @@
     "Software-Engineer-II_R-293167",
     "Software-Engineer-II_R-294055",
     "Software-Engineer-II_R-294517",
-    "Software-Engineer-II_R-293377"
+    "Software-Engineer-II_R-293377",
+    "Software-Engineer-II_R-294519"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -4278,7 +4293,8 @@
     "R31182",
     "R31215",
     "R31290",
-    "R31241"
+    "R31241",
+    "R29015"
   ],
   "eBay": [
     "R0074017",
