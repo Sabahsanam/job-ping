@@ -1190,7 +1190,12 @@
     "94275",
     "94263",
     "93962",
-    "94502"
+    "94502",
+    "94515",
+    "93490",
+    "93487",
+    "93541",
+    "95712"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -2030,7 +2035,8 @@
     "Professional-Services-Program-Manager_JR-023526",
     "Solutions-Consultant-2_JR-023593",
     "Solutions-Consultant_JR-023931",
-    "Solutions-Consultant-2_JR-023605"
+    "Solutions-Consultant-2_JR-023605",
+    "District-Systems-Engineer_JR-023970"
   ],
   "PayPal": [
     "274921849526",
@@ -3561,7 +3567,8 @@
     "Data-Scientist--Junior_R0252702",
     "Federal-Project-Coordinator_R0252690-1",
     "Tines-Engineer_R0252079",
-    "Platform-and-Data-Engineer_R0252696"
+    "Platform-and-Data-Engineer_R0252696",
+    "Full-Stack-Developer_R0252753-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -4176,7 +4183,10 @@
     "334390",
     "348042",
     "349194",
-    "349192"
+    "349192",
+    "348971",
+    "348972",
+    "349190"
   ],
   "Paramount": [
     "1385076300",
@@ -4589,6 +4599,8 @@
     "1213067",
     "1213060",
     "1218005",
-    "1218007"
+    "1218007",
+    "1214146",
+    "1215655"
   ]
 }
