@@ -320,7 +320,8 @@
     "a8606ee6-84b9-4677-af2f-b57f1e71fd91",
     "aca5697a-a87a-415e-8d58-627bb782cce8",
     "56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-    "318f73b5-6a78-49c7-b625-ecb1481042b9"
+    "318f73b5-6a78-49c7-b625-ecb1481042b9",
+    "9899871a-4307-4367-9f74-039569d7a650"
   ],
   "Coinbase": [
     "7985269",
@@ -1281,7 +1282,9 @@
     "8170923",
     "8154426",
     "8244449",
-    "8303806"
+    "8303806",
+    "8350647",
+    "8302518"
   ],
   "Figma": [
     "5220003004",
@@ -1368,7 +1371,8 @@
     "System-Validation-and-Integration-Engineer_JR0288344",
     "EDA-Tools-Software-Engineer_JR0287371",
     "EDA-Tools-Software-Engineer_JR0288250",
-    "GPU-Software-Development-Engineer_JR0288200-1"
+    "GPU-Software-Development-Engineer_JR0288200-1",
+    "Factory-Construction-Project---Program-Manager_JR0288592-1"
   ],
   "Intuit": [
     "99513472784",
@@ -1915,7 +1919,12 @@
     "1970393556999982",
     "1970393557021647",
     "1970393557042274",
-    "1970393557044308"
+    "1970393557044308",
+    "1970393557044302",
+    "1970393557045286",
+    "1970393557048265",
+    "1970393557037859",
+    "1970393557048181"
   ],
   "MongoDB": [
     "8106084",
@@ -1940,7 +1949,8 @@
     "https://jobs.ashbyhq.com/notion/e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f",
     "https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
     "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c",
-    "https://jobs.ashbyhq.com/notion/30a5c739-185f-4a55-8a63-85974d687444"
+    "https://jobs.ashbyhq.com/notion/30a5c739-185f-4a55-8a63-85974d687444",
+    "https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8"
   ],
   "Okta": [
     "8097799",
@@ -2062,7 +2072,8 @@
     "Solutions-Consultant-2_JR-023593",
     "Solutions-Consultant_JR-023931",
     "Solutions-Consultant-2_JR-023605",
-    "District-Systems-Engineer_JR-023970"
+    "District-Systems-Engineer_JR-023970",
+    "Global-Solutions-Architect---AI-Security_JR-021401-2"
   ],
   "PayPal": [
     "274921849526",
@@ -2298,7 +2309,8 @@
     "446721714275",
     "446721796991",
     "446721756080",
-    "446721861049"
+    "446721861049",
+    "446721945405"
   ],
   "Scopely": [
     "5301857008",
@@ -2529,7 +2541,8 @@
     "26015605",
     "26015053",
     "26014668",
-    "26015722"
+    "26015722",
+    "26015969"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -3605,7 +3618,14 @@
     "Software-Developer_R0252821",
     "Building-Partner-Capacity-Program-Manager_R0252820",
     "Power-Platform-Business-Analyst---Developer_R0252881",
-    "IT-Project-Manager_R0252874"
+    "IT-Project-Manager_R0252874",
+    "CNO-Software-Engineer_R0252924",
+    "Health-Data-Scientist_R0252701",
+    "Data-Scientist--Mid_R0252763",
+    "Full-Stack-Modeling-and-Simulation-Software-Engineer_R0252901",
+    "Naval-IT-Project-Manager_R0252889",
+    "Data-Scientist_R0252892",
+    "UI-Full-Stack-Developer_R0252885"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3623,7 +3643,8 @@
     "Graduate-Student-Intern---Software-Engineering_R56405-2",
     "Software-Engineering-Director_R56213",
     "Sales-Operations-Analyst_R56489-1",
-    "Solutions-Engineer---AE_R56940"
+    "Solutions-Engineer---AE_R56940",
+    "University-Program-Coordinator_R56439"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -3969,7 +3990,9 @@
     "210788694",
     "210801418",
     "210801462",
-    "210801355"
+    "210801355",
+    "210791376",
+    "210806429"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4042,7 +4065,8 @@
     "Project-Coordinator-IV-Cardiac-Diagnostics_R69843",
     "Strategic-Clinical-Research-Program-Manager-Clinical-Scientist---PH---Rice-Creek--MN--Onsite-_R78922-1",
     "Engineering-Program-Manager---Onsite_R80192-1",
-    "Product-Program-Manager---CAS_R80707-1"
+    "Product-Program-Manager---CAS_R80707-1",
+    "Project-Coordinator-III_R80285-1"
   ],
   "Oracle": [
     "335848",
@@ -4240,7 +4264,9 @@
     "349324",
     "349326",
     "349327",
-    "349319"
+    "349319",
+    "343265",
+    "343266"
   ],
   "Paramount": [
     "1385076300",
@@ -4660,6 +4686,9 @@
     "1218005",
     "1218007",
     "1214146",
-    "1215655"
+    "1215655",
+    "1214779",
+    "1190709",
+    "1216394"
   ]
 }
