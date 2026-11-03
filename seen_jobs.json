@@ -247,7 +247,8 @@
     "Product-Lifecycle-Supply-Chain-Program-Manager_2028730-1",
     "Solutions-Architect_2028340-1",
     "GES-Solutions-Engineer---Boston_2029158",
-    "Software-Engineer_2028277-2"
+    "Software-Engineer_2028277-2",
+    "Engineering-Program-Manager_2026265"
   ],
   "Salesforce": [
     "Business-Operations-Analyst_JR355436"
@@ -1200,7 +1201,8 @@
     "93487",
     "93541",
     "95712",
-    "93307"
+    "93307",
+    "92605"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1901,7 +1903,13 @@
     "1970393557050639",
     "1970393557044764",
     "1970393557044653",
-    "1970393557051280"
+    "1970393557051280",
+    "1970393556962281",
+    "1970393557047921",
+    "1970393557021648",
+    "1970393556999982",
+    "1970393557021647",
+    "1970393557042274"
   ],
   "MongoDB": [
     "8106084",
@@ -3583,7 +3591,11 @@
     "Data-Scientist_R0252802",
     "University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
     "Data-Scientist_R0252758",
-    "Software-Engineer_R0246684"
+    "Software-Engineer_R0246684",
+    "Data-Engineer_R0252847",
+    "MPE-Solutions-Architect_R0252807",
+    "Software-Developer_R0252821",
+    "Building-Partner-Capacity-Program-Manager_R0252820"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3943,7 +3955,10 @@
     "210804636",
     "210805223",
     "210801817",
-    "210805642"
+    "210805642",
+    "210788694",
+    "210801418",
+    "210801462"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -3986,7 +4001,8 @@
     "Software-Engineer-II_R-293377",
     "Software-Engineer-II_R-294519",
     "Manager-Software-Engineering_R-293614",
-    "Software-Engineer-II---Notification-Manager_R-289370"
+    "Software-Engineer-II---Notification-Manager_R-289370",
+    "Technical-Program-Manager-II_R-294553"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -4206,7 +4222,10 @@
     "348972",
     "349190",
     "348554",
-    "348551"
+    "348551",
+    "349439",
+    "348946",
+    "348558"
   ],
   "Paramount": [
     "1385076300",
@@ -4404,7 +4423,8 @@
     "R31215",
     "R31290",
     "R31241",
-    "R29015"
+    "R29015",
+    "R31257"
   ],
   "eBay": [
     "R0074017",
