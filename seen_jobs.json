@@ -378,7 +378,9 @@
     "8250125",
     "8147559",
     "8263406",
-    "8319655"
+    "8319655",
+    "8349881",
+    "8349916"
   ],
   "Robinhood": [
     "8114351",
@@ -1212,7 +1214,10 @@
     "95843",
     "94383",
     "93542",
-    "95949"
+    "95949",
+    "96190",
+    "96263",
+    "96262"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1939,7 +1944,8 @@
     "1970393557050799",
     "1970393557047527",
     "1970393557026755",
-    "1970393557054069"
+    "1970393557054069",
+    "1970393557045508"
   ],
   "MongoDB": [
     "8106084",
@@ -3655,7 +3661,17 @@
     "Data-Engineer_R0252996",
     "Site-Reliability-Engineer_R0252972",
     "Multi-Physics-Systems-Engineer--Mid_R0252978",
-    "Systems-Engineer--Mid_R0252977"
+    "Systems-Engineer--Mid_R0252977",
+    "Maritime-Software-Integration-and-DevOps-Engineer_R0252933",
+    "Maritime-Software-Integration-and-DevOps-Engineer_R0252944",
+    "DevOps-Platform-Engineer--Senior_R0252614",
+    "Solutions-Architect--Senior_R0251270",
+    "Systems-Engineer--Senior_R0251587",
+    "Systems-Engineer--Mid_R0253055",
+    "Systems-Engineer--Mid_R0253054",
+    "Implementation-Engineer_R0253056",
+    "Agentic-Operations-Site-Reliability-Engineer_R0253053",
+    "Data-Scientist--Mid_R0253046-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3675,7 +3691,9 @@
     "Sales-Operations-Analyst_R56489-1",
     "Solutions-Engineer---AE_R56940",
     "University-Program-Coordinator_R56439",
-    "Systems-Solutions-Architect_R57101-1"
+    "Systems-Solutions-Architect_R57101-1",
+    "Software-Engineer-II_R57068-1",
+    "Software-Engineer-II_R57067-1"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -4074,7 +4092,9 @@
     "AI-Engineer---_R-278791",
     "Software-Engineer-II_R-292400",
     "Software-Engineer-II---AI-Platforms_R-294616",
-    "Software-Engineer-II---AI-Platforms-1_R-294615"
+    "Software-Engineer-II---AI-Platforms-1_R-294615",
+    "Site-Reliability-Engineer-I_R-292697-1",
+    "Site-Reliability-Engineer-I_R-294460"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -4104,7 +4124,8 @@
     "Strategic-Clinical-Research-Program-Manager-Clinical-Scientist---PH---Rice-Creek--MN--Onsite-_R78922-1",
     "Engineering-Program-Manager---Onsite_R80192-1",
     "Product-Program-Manager---CAS_R80707-1",
-    "Project-Coordinator-III_R80285-1"
+    "Project-Coordinator-III_R80285-1",
+    "Software-Engineer-II_R80941-1"
   ],
   "Oracle": [
     "335848",
@@ -4311,7 +4332,9 @@
     "349554",
     "349694",
     "349698",
-    "349595"
+    "349595",
+    "328320",
+    "349435"
   ],
   "Paramount": [
     "1385076300",
