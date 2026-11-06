@@ -755,7 +755,9 @@
     "https://jobs.ashbyhq.com/openai/f430a2e7-78a8-40bc-8501-b7ff191ecad6",
     "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
     "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5",
-    "https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f"
+    "https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f",
+    "https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
+    "https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1348,7 +1350,8 @@
     "8889193002",
     "8907111002",
     "8907130002",
-    "8771512002"
+    "8771512002",
+    "8929468002"
   ],
   "Instacart": [
     "7976934",
@@ -1410,7 +1413,8 @@
     "GPU-Software-Development-Engineer_JR0288200-1",
     "Factory-Construction-Project---Program-Manager_JR0288592-1",
     "AMHS-Intelligent-Systems-Engineer_JR0288539",
-    "Cloud-Software-Development-Engineer_JR0288916"
+    "Cloud-Software-Development-Engineer_JR0288916",
+    "Software-Performance-Engineer_JR0288983"
   ],
   "Intuit": [
     "99513472784",
@@ -1979,7 +1983,8 @@
     "1970393557053514",
     "1970393557045942",
     "1970393557051495",
-    "1970393557054056"
+    "1970393557054056",
+    "1970393557053350"
   ],
   "MongoDB": [
     "8106084",
@@ -2006,7 +2011,9 @@
     "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c",
     "https://jobs.ashbyhq.com/notion/30a5c739-185f-4a55-8a63-85974d687444",
     "https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8",
-    "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887"
+    "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+    "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
   ],
   "Okta": [
     "8097799",
@@ -3715,7 +3722,11 @@
     "Cloud-Engineer_R0253071",
     "Data-Scientist_R0253078",
     "Platform-and-Data-Engineer_R0253128",
-    "Embedded-C---Software-Engineer_R0253100"
+    "Embedded-C---Software-Engineer_R0253100",
+    "Platform-and-Data-Engineer_R0253126",
+    "Model-Based-Systems-Engineer--Junior_R0253162",
+    "Counter-Insider-Threat-Program-Analyst_R0253117",
+    "Cloud-Solutions-Architect_R0253118"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3745,7 +3756,8 @@
     "https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af",
     "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
     "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5",
-    "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f"
+    "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f",
+    "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4"
   ],
   "Cursor": [
     "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
@@ -4588,7 +4600,9 @@
     "R31241",
     "R29015",
     "R31257",
-    "R31431"
+    "R31431",
+    "R31442",
+    "R31448"
   ],
   "eBay": [
     "R0074017",
