@@ -754,7 +754,8 @@
     "https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696",
     "https://jobs.ashbyhq.com/openai/f430a2e7-78a8-40bc-8501-b7ff191ecad6",
     "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
-    "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5"
+    "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5",
+    "https://jobs.ashbyhq.com/openai/bd1ac97f-20f9-4727-9f92-7064035a416f"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1225,7 +1226,25 @@
     "95949",
     "96190",
     "96263",
-    "96262"
+    "96262",
+    "94460",
+    "94452",
+    "94445",
+    "94405",
+    "94399",
+    "94312",
+    "94308",
+    "94259",
+    "93946",
+    "93936",
+    "93935",
+    "93928",
+    "93927",
+    "93889",
+    "93880",
+    "93859",
+    "93850",
+    "93845"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1957,7 +1976,10 @@
     "1970393557045508",
     "1970393557053353",
     "1970393557052973",
-    "1970393557053514"
+    "1970393557053514",
+    "1970393557045942",
+    "1970393557051495",
+    "1970393557054056"
   ],
   "MongoDB": [
     "8106084",
@@ -2108,7 +2130,8 @@
     "Solutions-Consultant-2_JR-023605",
     "District-Systems-Engineer_JR-023970",
     "Global-Solutions-Architect---AI-Security_JR-021401-2",
-    "Solutions-Consultant-2_JR-024431"
+    "Solutions-Consultant-2_JR-024431",
+    "Solutions-Consultant-2_JR-023770"
   ],
   "PayPal": [
     "274921849526",
@@ -3690,7 +3713,9 @@
     "Data-Scientist_R0253091",
     "DevOps-Engineer_R0253073",
     "Cloud-Engineer_R0253071",
-    "Data-Scientist_R0253078"
+    "Data-Scientist_R0253078",
+    "Platform-and-Data-Engineer_R0253128",
+    "Embedded-C---Software-Engineer_R0253100"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -4562,7 +4587,8 @@
     "R31290",
     "R31241",
     "R29015",
-    "R31257"
+    "R31257",
+    "R31431"
   ],
   "eBay": [
     "R0074017",
@@ -4792,6 +4818,8 @@
     "1217743",
     "1218212",
     "1216109",
-    "1216161"
+    "1216161",
+    "1198281",
+    "1214267"
   ]
 }
