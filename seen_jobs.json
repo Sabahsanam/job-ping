@@ -268,7 +268,8 @@
     "Customer-Support-Associate_26WD100287-2",
     "Software-Engineer_26WD100686",
     "Software-Engineer_26WD100611-1",
-    "GSOC-Operations-Analyst_26WD100947-2"
+    "GSOC-Operations-Analyst_26WD100947-2",
+    "Software-Engineer_26WD102129-1"
   ],
   "Red Hat": [],
   "Disney": [
@@ -561,7 +562,8 @@
     "7661919",
     "8178588",
     "8026211",
-    "8240487"
+    "8240487",
+    "8370335"
   ],
   "Grafana Labs": [
     "6134276004",
@@ -1255,7 +1257,9 @@
     "93850",
     "93845",
     "93730",
-    "97342"
+    "97342",
+    "91663",
+    "97349"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -1318,7 +1322,8 @@
     "8840756002"
   ],
   "Dropbox": [
-    "8106224"
+    "8106224",
+    "8356674"
   ],
   "Elastic": [
     "8079636",
@@ -2005,7 +2010,10 @@
     "1970393557053863",
     "1970393557055979",
     "1970393557043444",
-    "1970393557042277"
+    "1970393557042277",
+    "1970393557053878",
+    "1970393557045492",
+    "1970393557055713"
   ],
   "MongoDB": [
     "8106084",
@@ -2408,7 +2416,8 @@
     "446721945405",
     "446721948679",
     "446721916659",
-    "446719178051"
+    "446719178051",
+    "446721855908"
   ],
   "Scopely": [
     "5301857008",
@@ -2545,7 +2554,8 @@
     "302534",
     "303922",
     "303493",
-    "303783"
+    "303783",
+    "303784"
   ],
   "Zynga": [
     "5995420004"
@@ -3766,7 +3776,18 @@
     "Agentic-Operations-Site-Reliability-Engineer_R0253240",
     "Cloud-Engineer_R0253235",
     "Data-Scientist_R0253248",
-    "Construction-Project-Manager_R0253245"
+    "Construction-Project-Manager_R0253245",
+    "Data-Scientist_R0253322",
+    "Data-Engineer_R0253321-1",
+    "Data-Scientist_R0253332",
+    "Weapon-Systems-Engineer--Senior_R0253277",
+    "Shared-Services-Data-Analyst_R0253329",
+    "Health-Data-Analyst_R0253254-1",
+    "AI-Full-Stack-Developer--Mid_R0252856",
+    "Operations-Center-Build-Project-Manager_R0253290",
+    "Software-Developer_R0253313",
+    "Tactical-Networks-Systems-Engineer_R0253303",
+    "Systems-Engineer_R0253288"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -3788,7 +3809,8 @@
     "University-Program-Coordinator_R56439",
     "Systems-Solutions-Architect_R57101-1",
     "Software-Engineer-II_R57068-1",
-    "Software-Engineer-II_R57067-1"
+    "Software-Engineer-II_R57067-1",
+    "Software-Engineer-II_R56541"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -4174,7 +4196,8 @@
     "210804866",
     "210807310",
     "210807768",
-    "210807852"
+    "210807852",
+    "210806531"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4681,7 +4704,8 @@
     "R31431",
     "R31442",
     "R31448",
-    "R31413"
+    "R31413",
+    "R31469"
   ],
   "eBay": [
     "R0074017",
