@@ -4306,7 +4306,8 @@
     "Project-Coordinator-III_R80285-1",
     "Software-Engineer-II_R80941-1",
     "Software-Engineer-II_R81133-1",
-    "Systems-Engineer-I_R81599-1"
+    "Systems-Engineer-I_R81599-1",
+    "Software-Engineer-II---CRM_R81671"
   ],
   "Oracle": [
     "335848",
@@ -4735,7 +4736,9 @@
     "R31442",
     "R31448",
     "R31413",
-    "R31469"
+    "R31469",
+    "R31460",
+    "R31462"
   ],
   "eBay": [
     "R0074017",
@@ -4971,6 +4974,7 @@
     "1218113",
     "1215624",
     "1215461",
-    "1217883"
+    "1217883",
+    "1217206"
   ]
 }
