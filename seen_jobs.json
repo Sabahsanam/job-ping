@@ -1269,7 +1269,8 @@
     "95881",
     "97445",
     "96920",
-    "95846"
+    "95846",
+    "95813"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -2035,7 +2036,10 @@
     "1970393557045438",
     "1970393557055985",
     "1970393557056093",
-    "1970393557027390"
+    "1970393557027390",
+    "1970393557072488",
+    "1970393557056107",
+    "1970393557053504"
   ],
   "MongoDB": [
     "8106084",
@@ -2192,7 +2196,8 @@
     "Solutions-Consultant-2_JR-024431",
     "Solutions-Consultant-2_JR-023770",
     "Technical-Business-Analyst_JR-023878",
-    "Solutions-Consultant-2_JR-024421"
+    "Solutions-Consultant-2_JR-024421",
+    "Solutions-Consultant_JR-024712-1"
   ],
   "PayPal": [
     "274921849526",
@@ -2682,7 +2687,8 @@
     "26015722",
     "26015969",
     "26015980",
-    "26016174"
+    "26016174",
+    "26016137"
   ],
   "Booz Allen Hamilton": [
     "Software-Engineer_R0243148",
@@ -3815,7 +3821,13 @@
     "Software-Developer_R0253313",
     "Tactical-Networks-Systems-Engineer_R0253303",
     "Systems-Engineer_R0253288",
-    "Data-Analyst_R0253330"
+    "Data-Analyst_R0253330",
+    "Business-Analyst_R0253388",
+    "Bioinformatics-Business-Analyst_R0253416",
+    "Live--Virtual--and-Constructive-Solutions-Architect_R0253335",
+    "Foundry-Data-Engineer_R0253411-1",
+    "Agentic-AI-Engineer_R0253372",
+    "Palantir-Data-Engineer_R0253371-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -4225,7 +4237,10 @@
     "210807310",
     "210807768",
     "210807852",
-    "210806531"
+    "210806531",
+    "210793784",
+    "210807010",
+    "210808262"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4530,7 +4545,10 @@
     "349928",
     "349896",
     "350231",
-    "350303"
+    "350303",
+    "345087",
+    "350321",
+    "350322"
   ],
   "Paramount": [
     "1385076300",
