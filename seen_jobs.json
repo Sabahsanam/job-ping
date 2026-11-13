@@ -769,7 +769,9 @@
     "https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
     "https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5",
     "https://jobs.ashbyhq.com/openai/9a57d693-24ad-4457-a408-50617551ea5e",
-    "https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871"
+    "https://jobs.ashbyhq.com/openai/edfaa3d2-3434-4e51-af74-3945d63ad871",
+    "https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126",
+    "https://jobs.ashbyhq.com/openai/680833a1-01e4-4689-917c-71a4f00ff86c"
   ],
   "Deel": [],
   "Baseten": [],
@@ -1270,7 +1272,8 @@
     "97445",
     "96920",
     "95846",
-    "95813"
+    "95813",
+    "94240"
   ],
   "ATLUS / SEGA of America": [
     "196629"
@@ -2448,7 +2451,8 @@
     "446719178051",
     "446721855908",
     "446722041052",
-    "446721614073"
+    "446721614073",
+    "446722083498"
   ],
   "Scopely": [
     "5301857008",
@@ -2478,7 +2482,8 @@
     "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec",
     "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
     "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
-    "https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f"
+    "https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f",
+    "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536"
   ],
   "Stripe": [
     "8084195",
@@ -2523,7 +2528,8 @@
     "8333074",
     "8328662",
     "8189909",
-    "8203975"
+    "8203975",
+    "8384287"
   ],
   "Uber": [
     "300455",
@@ -3827,7 +3833,14 @@
     "Live--Virtual--and-Constructive-Solutions-Architect_R0253335",
     "Foundry-Data-Engineer_R0253411-1",
     "Agentic-AI-Engineer_R0253372",
-    "Palantir-Data-Engineer_R0253371-1"
+    "Palantir-Data-Engineer_R0253371-1",
+    "Systems-Engineer_R0253468",
+    "Augmented-Reality-Software-Engineer_R0253494",
+    "Special-Missions-Software-Engineer_R0253467",
+    "Full-Stack-Developer_R0253429",
+    "C---Software-Engineer--Junior_R0253425",
+    "Cloud-Engineer--Mid_R0253451",
+    "Intelligence-Data-Analyst_R0253449"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -4240,7 +4253,9 @@
     "210806531",
     "210793784",
     "210807010",
-    "210808262"
+    "210808262",
+    "210803536",
+    "210807871"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4548,7 +4563,10 @@
     "350303",
     "345087",
     "350321",
-    "350322"
+    "350322",
+    "350264",
+    "350350",
+    "350510"
   ],
   "Paramount": [
     "1385076300",
@@ -4802,7 +4820,8 @@
     "R0077231",
     "R0077252",
     "R0077481",
-    "R0077482"
+    "R0077482",
+    "R0077339"
   ],
   "HPE": [
     "1209874",
@@ -4996,6 +5015,9 @@
     "1215624",
     "1215461",
     "1217883",
-    "1217206"
+    "1217206",
+    "1215821",
+    "1217717",
+    "1218761"
   ]
 }
