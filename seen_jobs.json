@@ -779,7 +779,8 @@
     "https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9",
     "https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0",
     "https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04",
-    "https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0"
+    "https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0",
+    "https://jobs.ashbyhq.com/openai/4311ea62-f628-4689-bec5-de886bb1f191"
   ],
   "Deel": [],
   "Baseten": [],
@@ -2091,7 +2092,9 @@
     "1970393557072549",
     "1970393557055759",
     "1970393557044796",
-    "1970393557070491"
+    "1970393557070491",
+    "1970393557074866",
+    "1970393557075456"
   ],
   "MongoDB": [
     "8106084",
@@ -2250,7 +2253,8 @@
     "Solutions-Consultant-2_JR-023770",
     "Technical-Business-Analyst_JR-023878",
     "Solutions-Consultant-2_JR-024421",
-    "Solutions-Consultant_JR-024712-1"
+    "Solutions-Consultant_JR-024712-1",
+    "Product-Manager_JR-025050"
   ],
   "PayPal": [
     "274921849526",
@@ -2542,7 +2546,10 @@
     "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
     "https://jobs.ashbyhq.com/snowflake/2887def2-f6d8-44fb-b6c4-976329de7d5f",
     "https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536",
-    "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae"
+    "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+    "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+    "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+    "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897"
   ],
   "Stripe": [
     "8084195",
@@ -2652,7 +2659,8 @@
     "303493",
     "303783",
     "303784",
-    "302541"
+    "302541",
+    "304922"
   ],
   "Zynga": [
     "5995420004"
@@ -4354,7 +4362,14 @@
     "210810437",
     "210801725",
     "210810615",
-    "210809995"
+    "210809995",
+    "210778172",
+    "210802036",
+    "210805194",
+    "210810466",
+    "210810700",
+    "210810941",
+    "210805206"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4679,7 +4694,11 @@
     "343275",
     "350639",
     "350911",
-    "350954"
+    "350954",
+    "345063",
+    "345061",
+    "351015",
+    "351017"
   ],
   "Paramount": [
     "1385076300",
@@ -4811,7 +4830,11 @@
     "25018412",
     "25019880",
     "25020113",
-    "25016343"
+    "25016343",
+    "25016340",
+    "25016336",
+    "25019821",
+    "25020388"
   ],
   "Vercel": [
     "6020852004",
@@ -4830,7 +4853,8 @@
     "6242246004",
     "6242244004",
     "6201179004",
-    "6264524004"
+    "6264524004",
+    "6150691004"
   ],
   "Warner Music Group": [
     "Data-Scientist_R-028038"
@@ -5147,6 +5171,8 @@
     "1215570",
     "1218073",
     "1218072",
-    "1218040"
+    "1218040",
+    "1218702",
+    "1214972"
   ]
 }
