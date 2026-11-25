@@ -402,7 +402,8 @@
     "8263406",
     "8319655",
     "8349881",
-    "8349916"
+    "8349916",
+    "8415553"
   ],
   "Robinhood": [
     "8114351",
@@ -1061,7 +1062,8 @@
     "6147057004",
     "6231005004",
     "6260703004",
-    "6226457004"
+    "6226457004",
+    "6271371004"
   ],
   "Take-Two Interactive": [
     "8075054",
@@ -1498,7 +1500,11 @@
     "Cloud-Software-Development-Engineer_JR0288916",
     "Software-Performance-Engineer_JR0288983",
     "Software-Engineer---Datacenter_JR0288917",
-    "HR-IT-Software-Engineer-Intern_JR0288637"
+    "HR-IT-Software-Engineer-Intern_JR0288637",
+    "Construction-Project-Manager---UPW-PM_JR0289584",
+    "GPU-Performance-Engineer_JR0288203",
+    "Package-Assembly-Process-Development-Integration-Engineer_JR0288966",
+    "GPU-Compiler-Software-Engineer_JR0289160"
   ],
   "Intuit": [
     "99513472784",
@@ -2133,7 +2139,10 @@
     "1970393557075509",
     "1970393557078515",
     "1970393557073034",
-    "1970393557079335"
+    "1970393557079335",
+    "1970393557075627",
+    "1970393557075623",
+    "1970393557076251"
   ],
   "MongoDB": [
     "8106084",
@@ -2561,7 +2570,8 @@
     "446722247303",
     "446722250161",
     "446722251505",
-    "446722181875"
+    "446722181875",
+    "446722333580"
   ],
   "Scopely": [
     "5301857008",
@@ -3979,7 +3989,96 @@
     "Data-Scientist_R0253377-1",
     "Systems-Engineer_R0253553",
     "Systems-Engineer_R0253552",
-    "Edge-Processing-Solutions-Engineer_R0253551"
+    "Edge-Processing-Solutions-Engineer_R0253551",
+    "Industrial-Base-Data-Analyst_R0254298",
+    "Portfolio-Operations-Analyst_R0254202",
+    "Platform-and-Data-Engineer_R0254289",
+    "Information-Technology-Project-Manager_R0254301",
+    "Technical-Baseline-Systems-Engineer_R0253888",
+    "IT-Business-Analyst_R0254288",
+    "XMLNAME-NET-Full-Stack-Developer_R0253850",
+    "IT-Project-Manager_R0254293",
+    "AI-Program-Manager_R0253845",
+    "Technical-Program-Manager_R0254256",
+    "Naval-Program-Analyst_R0253613",
+    "Data-Scientist_R0254255-1",
+    "Data-Analyst_R0254234",
+    "Cloud-Engineer_R0254028",
+    "Cloud-DevOps-Engineer_R0253941-1",
+    "IT-Project-Manager_R0254201",
+    "IT-Project-Manager_R0254192",
+    "DevOps-Engineer_R0254178",
+    "DevOps-Engineer--Mid_R0254148-1",
+    "Solutions-Architect_R0254175",
+    "Systems-Engineer--Mid_R0254179",
+    "Software-Engineer_R0254186-1",
+    "Real-Time-Operations-Analyst_R0254163",
+    "Digital-Engineering-Solutions-Engineer_R0254164",
+    "Full-Stack-Developer_R0254132",
+    "Program-Analyst_R0254160",
+    "Vellox-Software-Developer_R0253615",
+    "FMS-Systems-Engineer_R0254049",
+    "Infrastructure-Systems-Engineer_R0254098",
+    "User-Services-Systems-Engineer_R0254105-1",
+    "Full-Stack-Developer--Mid_R0253622-1",
+    "Supply-Chain-and-Infectious-Disease-Risk-Modeling-Data-Scientist_R0253731",
+    "Data-Analyst_R0254029",
+    "Full-Stack-Application-Developer_R0254002",
+    "API-and-Integration-Engineer_R0254006",
+    "Financial-and-Operational-Data-Analyst_R0253998",
+    "Data-Scientist_R0253962",
+    "Application-Developer--Mid_R0253932",
+    "Data-Platform-Engineer_R0253996",
+    "Business-Analyst--Mid_R0253995",
+    "Systems-Engineer_R0253980",
+    "Data-Scientist_R0253970",
+    "Data-Scientist_R0253968",
+    "Data-Scientist_R0253965",
+    "Data-Scientist_R0253964",
+    "Integration-Engineer_R0253946",
+    "Technical-Project-Manager_R0253957",
+    "Embedded-Software-Engineer_R0253958",
+    "Software-Engineer_R0253920",
+    "AI-Software-Developer--Mid_R0253885",
+    "Software-Project-Manager_R0253876",
+    "AI-Software-Developer--3_R0253882",
+    "Edge-Processing-Solutions-Engineer_R0253759",
+    "Data-Engineer_R0253871",
+    "Software-Engineer_R0253824",
+    "Digital-Systems-Engineer_R0253809",
+    "Data-Scientist_R0253728",
+    "Data-Engineer_R0253817",
+    "Software-Engineer_R0253769",
+    "Data-Scientist_R0253658",
+    "DevOps-Engineer_R0253777",
+    "DevOps-Engineer_R0253776",
+    "DevOps-Engineer_R0253745",
+    "DevOps-Engineer_R0253740",
+    "DevOps-Engineer_R0253779",
+    "Data-Engineer_R0253778",
+    "Data-Scientist_R0253749",
+    "University---Cloud-Engineer_R0253761",
+    "Data-Analyst_R0253762-1",
+    "Software-Engineer_R0253735",
+    "University---Data-Engineer_R0253754",
+    "Data-Engineer--Mid_R0253729",
+    "Naval-IT-Project-Manager_R0253708",
+    "IT-Business-Analyst_R0253661",
+    "Data-Engineer_R0253659",
+    "Strategic-Project-Manager_R0253653",
+    "Data-Scientist_R0253676",
+    "Watch-Operations-Analyst_R0253672",
+    "University--Data-Scientist_R0253516",
+    "Kubernetes-Infrastructure-Engineer_R0253679",
+    "Real-Time-Operations-Analyst_R0253617",
+    "CNO-Software-Developer_R0253607",
+    "Data-Scientist_R0253596",
+    "DevOps-Engineer--Mid_R0253597",
+    "Data-Engineer_R0253589",
+    "Missions-Integration-Project-Coordinator_R0253593",
+    "SEME-Project-Manager_R0253585",
+    "UAV-Software-Engineer_R0241711",
+    "Site-Reliability-Engineer--Mid_R0250664-1"
   ],
   "Cadence": [
     "Business-Systems-Analyst_R53408-2",
@@ -4002,7 +4101,10 @@
     "Systems-Solutions-Architect_R57101-1",
     "Software-Engineer-II_R57068-1",
     "Software-Engineer-II_R57067-1",
-    "Software-Engineer-II_R56541"
+    "Software-Engineer-II_R56541",
+    "Software-Engineering-Intern---Circuit-Simulation_R57251-1",
+    "Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1",
+    "Program-Coordinator_R56910"
   ],
   "Cohere": [
     "https://jobs.ashbyhq.com/cohere/6d0f0753-ff22-46fd-90e9-08998914a8e7",
@@ -4429,7 +4531,9 @@
     "210810961",
     "210811225",
     "210801748",
-    "210773611"
+    "210773611",
+    "210782831",
+    "210812327"
   ],
   "Mastercard": [
     "Product-Manager--Technical-II_R-288436",
@@ -4479,7 +4583,9 @@
     "Software-Engineer-II---AI-Platforms_R-294616",
     "Software-Engineer-II---AI-Platforms-1_R-294615",
     "Site-Reliability-Engineer-I_R-292697-1",
-    "Site-Reliability-Engineer-I_R-294460"
+    "Site-Reliability-Engineer-I_R-294460",
+    "Manager--Product-Development--Digital-Assets---Money-Movement_R-295604",
+    "Product-Development-Manager---Digital-Assets---Money-Movement_R-295605"
   ],
   "Medtronic": [
     "Product-Manager--Cardiac-Pacing-Therapies--CPT-_R73948-1",
@@ -4514,7 +4620,8 @@
     "Software-Engineer-II_R81133-1",
     "Systems-Engineer-I_R81599-1",
     "Software-Engineer-II---CRM_R81671",
-    "Software-Engineer-I---CRM_R82448"
+    "Software-Engineer-I---CRM_R82448",
+    "Program-Manager---On-Site--Minneapolis--MN_R82674-1"
   ],
   "Oracle": [
     "335848",
@@ -4776,7 +4883,8 @@
     "351274",
     "351276",
     "351282",
-    "351467"
+    "351467",
+    "351580"
   ],
   "Paramount": [
     "1385076300",
@@ -5265,6 +5373,9 @@
     "1216954",
     "1217971",
     "1218736",
-    "1217628"
+    "1217628",
+    "1218609",
+    "1218614",
+    "1218075"
   ]
 }
